@@ -5,22 +5,22 @@
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
-| 001 | Front Matter | Half-title — OUR WORLD | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 002 | Front Matter | Frontispiece / original Earth visual or intentional blank | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 003 | Front Matter | Full title page — Our World: The History We Know | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 004 | Front Matter | Copyright / edition / project note | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 005 | Front Matter | Dedication | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 006 | Front Matter | Author's note — why this book exists | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 007 | Front Matter | What this book is — evidence-first promise | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 008 | Front Matter | Evidence key — Established to Unsupported | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 009 | Front Matter | How to read uncertainty and competing explanations | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 010 | Front Matter | Original artwork and reconstruction policy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 011 | Front Matter | Contents — Part I | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 012 | Front Matter | Contents — Part II | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 013 | Front Matter | Contents — Part III | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 014 | Front Matter | Deep-time timeline key | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 015 | Front Matter | A note on 'we do not know' | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 016 | Front Matter | Transition page — invitation to descend into the ocean | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 001 | Front Matter | Half-title — OUR WORLD | 🟨 | — | — | — | ⬜ |
+| 002 | Front Matter | Frontispiece / original Earth visual or intentional blank | 🟨 | — | ⬜ | — | ⬜ |
+| 003 | Front Matter | Full title page — Our World: The History We Know | 🟨 | — | — | — | ⬜ |
+| 004 | Front Matter | Copyright / edition / project note | 🟨 | — | — | — | ⬜ |
+| 005 | Front Matter | Dedication | 🟨 | — | — | — | ⬜ |
+| 006 | Front Matter | Author's note — why this book exists | 🟨 | 🟨 | — | 🟨 | ⬜ |
+| 007 | Front Matter | What this book is — evidence-first promise | 🟨 | 🟨 | — | 🟨 | ⬜ |
+| 008 | Front Matter | Evidence key — Established to Unsupported | 🟨 | 🟨 | — | 🟨 | ⬜ |
+| 009 | Front Matter | How to read uncertainty and competing explanations | 🟨 | 🟨 | — | 🟨 | ⬜ |
+| 010 | Front Matter | Original artwork and reconstruction policy | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
+| 011 | Front Matter | Contents — Part I | 🟨 | — | — | — | ⬜ |
+| 012 | Front Matter | Contents — Part II | 🟨 | — | — | — | ⬜ |
+| 013 | Front Matter | Contents — Part III | 🟨 | — | — | — | ⬜ |
+| 014 | Front Matter | Deep-time timeline key | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
+| 015 | Front Matter | A note on 'we do not know' | 🟨 | 🟨 | — | 🟨 | ⬜ |
+| 016 | Front Matter | Transition page — invitation to descend into the ocean | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
 | 017 | Prologue — Into the Darkness | Prologue opening — descent below the sunlit ocean | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 018 | Prologue — Into the Darkness | Deep-sea darkness, temperature and pressure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 019 | Prologue — Into the Darkness | Hydrothermal vent reveal | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -557,4 +557,4 @@
 - — Not required
 
 ## Next page target
-Pages **001–016**: refine and draft the front matter in final book voice.
+Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete evidence review, and generate required front-matter artwork before FINAL. Then move to pages **017–032**.
