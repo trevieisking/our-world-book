@@ -31,12 +31,12 @@
 | 024 | Prologue — Into the Darkness | Mid-ocean ridges and creation of new crust | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 025 | Prologue — Into the Darkness | Subduction and recycling of oceanic crust | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 026 | Prologue — Into the Darkness | Why today's seafloor cannot preserve Earth's whole ocean history | ✅ | ✅ | 🟨 | ✅ | ⬜ |
-| 027 | Prologue — Into the Darkness | The ~150–200 million year surviving-seafloor limit explained | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 028 | Prologue — Into the Darkness | Where older evidence survives instead: continents, sediments and minerals | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 029 | Prologue — Into the Darkness | Zircons as tiny archives of early Earth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 030 | Prologue — Into the Darkness | Isotopes, fossils and rocks as witnesses | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 031 | Prologue — Into the Darkness | The investigation changes direction: from the abyss to deep time | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 032 | Prologue — Into the Darkness | Chapter-turn spread — Before There Was an Earth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 027 | Prologue — Into the Darkness | The ~150–200 million year surviving-seafloor limit explained | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 028 | Prologue — Into the Darkness | Where older evidence survives instead: continents, sediments and minerals | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 029 | Prologue — Into the Darkness | Zircons as tiny archives of early Earth | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 030 | Prologue — Into the Darkness | Isotopes, fossils and rocks as witnesses | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 031 | Prologue — Into the Darkness | The investigation changes direction: from the abyss to deep time | ✅ | ✅ | — | ✅ | ⬜ |
+| 032 | Prologue — Into the Darkness | Chapter-turn spread — Before There Was an Earth | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 033 | Ch. 1 — Before There Was an Earth | Ch. 1 — Before There Was an Earth — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 034 | Ch. 1 — Before There Was an Earth | Ch. 1 — Before There Was an Earth — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 035 | Ch. 1 — Before There Was an Earth | Ch. 1 — Before There Was an Earth — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -566,4 +566,4 @@ Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete 
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-Pages **019–026 are TEXT LOCKED** for Phase A. Next target: **pages 027–032 — surviving seafloor age limit, older evidence archives, zircons, isotopes/rocks/fossils, and transition into Chapter 1**. Do not stop for artwork; create/update image briefs only.
+The **Prologue, pages 017–032, is TEXT LOCKED for Phase A**. Next target: refine and research **Chapter 1, pages 033–056 — Before There Was an Earth**. Artwork remains deferred to Phase B.
