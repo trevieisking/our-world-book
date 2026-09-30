@@ -21,8 +21,8 @@
 | 014 | Front Matter | Deep-time timeline key | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
 | 015 | Front Matter | A note on 'we do not know' | 🟨 | 🟨 | — | 🟨 | ⬜ |
 | 016 | Front Matter | Transition page — invitation to descend into the ocean | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
-| 017 | Prologue — Into the Darkness | Prologue opening — descent below the sunlit ocean | ✅ | ✅ | 🟨 | ✅ | ⬜ |
-| 018 | Prologue — Into the Darkness | Deep-sea darkness, temperature and pressure | ✅ | ✅ | — | ✅ | ⬜ |
+| 017 | Prologue — Into the Darkness | Prologue opening — descent below the sunlit ocean | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 018 | Prologue — Into the Darkness | Deep-sea darkness, temperature and pressure | ✅ | ✅ | — | ✅ | ✅ |
 | 019 | Prologue — Into the Darkness | Hydrothermal vent reveal | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 020 | Prologue — Into the Darkness | How chemosynthetic ecosystems live without sunlight | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 021 | Prologue — Into the Darkness | What vent life proves — and what it does not prove about life's origin | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
