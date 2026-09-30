@@ -10,11 +10,22 @@ All finished visuals for **Our World** are original to this project.
 
 ## Generation rule
 
-Before image generation, the factual brief must be complete. The command to proceed can simply be:
+Before image generation, the factual brief must be complete.
+
+### Required human gate
+When the next book page requires a generated visual, the assistant must **stop the book loop before generation** and ask:
+
+> **Trev/buddy, can you enable the image tool?**
+
+Only after Trev explicitly enables/requests image generation should the next approved visual be generated.
+
+The approval command can then simply be:
 
 > **Create image.**
 
 That means: generate the next approved image brief in this ledger. If the brief is not sufficiently constrained by evidence, do **not** generate it yet; research/fix the brief first.
+
+After the image is approved, immediately return to the normal page/evidence/artwork/fact-check/commit loop.
 
 ## Visual register
 
