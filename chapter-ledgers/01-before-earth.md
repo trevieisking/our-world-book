@@ -12,7 +12,10 @@ This companion ledger records Chapter 1 progress while the top-level `PAGE_LEDGE
 | 043–044 | Core collapse, supernovae and AGB enrichment | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 045–046 | Type Ia supernovae and neutron-star mergers | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 047–048 | Galactic recycling, presolar grains and Earth's ingredients | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 049–056 | Solar System formation to Chapter 2 transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
+| 049–056 | Solar System formation to Chapter 2 transition | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
+
+## Chapter 1 status
+**Pages 033–056 are TEXT LOCKED for Phase A.**
 
 ## Next target
-Pages **049–056** — collapse of the presolar cloud, formation of the Sun and disk, CAIs/chondrules/meteorite clocks, accretion of planetesimals and embryos, and the hand-off to Chapter 2: **Building a World**.
+Chapter 2, pages **057–064** — accretion of the proto-Earth, heating, melting, differentiation, early core/mantle structure and the evidence used to reconstruct those events.
