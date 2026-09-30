@@ -45,6 +45,13 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-006 | 029–030 | Zircon crystal as deep-time archive | SCIENTIFIC DIAGRAM | Show zircon as ZrSiO4 crystal hosting uranium, U-238 -> Pb-206 and U-235 -> Pb-207 decay systems, detrital recycling into younger sediment, and 4.404 ± 0.008 Ga Jack Hills example. | Do not imply the crystal contains a photographed ancient ocean or that every zircon remains perfectly closed to later disturbance. Any cathodoluminescence-style colour treatment must be labelled as analytical/false colour. | ✅ | ⬜ | ⬜ |
 | IMG-007 | 032–033 | Chapter transition: young Solar System / forming Earth | RECONSTRUCTION | Visual transition must begin before Earth exists: young star/solar nebula and planet-forming disk only after Chapter 1 research establishes the correct sequence and chronology. | Do not generate yet from generic "space art"; final brief must be refined after Chapter 1 evidence review so stellar nucleosynthesis and Solar-System formation are not visually conflated. | 🟨 | ⬜ | ⬜ |
 
+| IMG-008 | 033–034 | Cosmic timeline from hot early Universe to CMB | SCIENTIFIC DIAGRAM | Show relative sequence: hot dense early state -> light nuclei in first minutes -> recombination/CMB ~380 kyr -> dark ages; use logarithmic/not-to-scale time axis unless carefully scaled. | Do not depict Big Bang as an explosion from a point into pre-existing empty space. Do not visualise physics before evidence/model permits. | ✅ | ⬜ | ⬜ |
+| IMG-009 | 035–036 | Cosmic dawn / lookback-time concept | SCIENTIFIC DIAGRAM | Explain that increasingly distant galaxies are seen at earlier cosmic times; include MoM-z14 only as a dated 2026 frontier marker, not permanent record-holder. | Do not show a literal telescope fast-forwarding one galaxy; exact first-star image remains unknown. | ✅ | ⬜ | ⬜ |
+| IMG-010 | 037 | Milky Way assembly history | SCIENTIFIC DIAGRAM | Show staged assembly: ancient components, mergers, thick disk, later thin disk; separate component ages from one misleading exact galaxy birthday. | Geometry and merger visual must be schematic; do not imply a single moment when modern Milky Way appeared. | ✅ | ⬜ | ⬜ |
+| IMG-011 | 038 | From molecular cloud to protostar | SCIENTIFIC DIAGRAM / RECONSTRUCTION | Cold cloud -> dense collapsing core -> protostar -> accretion disk -> bipolar outflows -> young star; distinguish gravity/collapse from final sustained fusion stage. | Not every star forms in isolation or with identical disk/outflow geometry. | ✅ | ⬜ | ⬜ |
+| IMG-012 | 039 | Protoplanetary disk and forming planet | SCIENTIFIC RECONSTRUCTION | Evidence-informed disk with rings/gaps plus clearly labelled forming protoplanet concept tied to PDS 70-like observations. | Rings/gaps alone must not be presented as certain planets; do not copy third-party telescope imagery. | ✅ | ⬜ | ⬜ |
+| IMG-013 | 040 | Cosmic opportunity timeline: planets before Earth | TIMELINE | Show Universe age, ancient Kepler-444 system, Solar System/Earth formation, present; state explicitly "earlier planets = earlier opportunity, not confirmed life". | No alien cities, spacecraft or civilisation imagery as evidence. | ✅ | ⬜ | ⬜ |
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 
@@ -175,3 +182,50 @@ USGS This Dynamic Earth; NOAA Mid-Ocean Ridge; NOAA Age of the Seafloor.
 
 ### Caption intent
 **Scientific diagram — a crystal can outlive its original rock.** Ancient detrital zircons preserve radiometric ages and chemical information from crust that has otherwise disappeared, allowing parts of early Earth's history to be reconstructed from mineral grains hosted in much younger rocks.
+
+
+## IMG-008 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Pages:** 033–034  
+**Type:** SCIENTIFIC DIAGRAM  
+**Purpose:** Give readers the first reliable cosmic chronology without falsely depicting an explosion into empty space.
+
+### Core sequence
+- hot dense early Universe;
+- nucleosynthesis in first minutes: mostly H/He nuclei plus traces of light nuclei;
+- expansion/cooling;
+- recombination at ~380,000 years;
+- CMB released / Universe becomes transparent;
+- cosmic dark ages.
+
+**Caption intent:** The earliest directly observable light comes from recombination, not from time zero. The diagram is a chronology of observable/modelled stages and is not to spatial scale.
+
+## IMG-009 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Pages:** 035–036  
+**Type:** SCIENTIFIC DIAGRAM  
+**Purpose:** Explain why telescopes can reconstruct a cosmic "fast-forward" without literally observing one object for billions of years.
+
+### Core sequence
+- nearby stellar nursery snapshots at multiple developmental stages;
+- increasing cosmological lookback time with distance/redshift;
+- distant early galaxy marker;
+- label: **many systems + finite light-travel time = reconstructed history**.
+
+## IMG-010 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Page:** 037  
+**Type:** SCIENTIFIC DIAGRAM  
+**Purpose:** Show the Milky Way as an assembled system with a biography rather than a single birthday.
+
+## IMG-011 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Page:** 038  
+**Type:** SCIENTIFIC DIAGRAM / RECONSTRUCTION  
+**Purpose:** Cloud-to-protostar sequence with disk and outflow, explicitly ending at onset of sustained hydrogen fusion.
+
+## IMG-012 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Page:** 039  
+**Type:** SCIENTIFIC RECONSTRUCTION  
+**Purpose:** Original PDS-70-like forming planetary system visual, based on the physical evidence but not copying observatory imagery.
+
+## IMG-013 — MANUSCRIPT-PASS FACTUAL BRIEF
+**Page:** 040  
+**Type:** TIMELINE  
+**Purpose:** Show that planets existed billions of years before Earth while explicitly separating **planet age** from **evidence for life**.
