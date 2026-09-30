@@ -6,19 +6,20 @@
 ## Locked manuscript status
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
+- Chapter 2 pages **057–064** — TEXT LOCKED
 
 ## Next target
 ### Chapter 2 — Building a World
-Pages **057–064**
+Pages **065–072**
 
 Research and draft:
-- proto-Earth accretion;
-- impact heating and gravitational energy;
-- short-lived radionuclide heating;
-- melting and magma oceans;
-- metal–silicate separation;
-- formation of core and mantle;
-- what meteorites, isotopes, high-pressure experiments and geophysics actually allow us to infer.
+- evidence for a giant Moon-forming impact;
+- Earth–Moon isotopic similarities and differences;
+- angular-momentum constraints;
+- candidate impactor histories and model families;
+- what lunar samples actually establish;
+- how the impact changed the young Earth;
+- explicit separation of established evidence from model-dependent reconstruction.
 
 ## Production rule
 Continue the manuscript-first loop:
