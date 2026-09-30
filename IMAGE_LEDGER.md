@@ -41,9 +41,9 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-002 | 016–017 | Descent from surface light into abyss | RECONSTRUCTION | Surface light must diminish naturally with depth; upper ocean visibly brighter; twilight transition below ~200 m; essentially no sunlight below ~1,000 m; water column should feel increasingly dark and sparse rather than crowded. | Optical boundaries are approximate rather than hard horizontal lines. Exact cloud/surface state, particles and any individual organisms are illustrative. Do not show a vent yet; that reveal belongs to IMG-003. Bioluminescence, if present, should be sparse and clearly organism-generated rather than ambient blue light. | ✅ | ✅ | ✅ |
 | IMG-003 | 019–020 | Hydrothermal vent ecosystem | RECONSTRUCTION | Use a high-temperature black-smoker setting explicitly as a representative modern vent; dark plume must be mineral precipitation, not combustion smoke; chimney built from precipitated minerals; cold deep seawater surrounds a hot vent; animal community concentrated in cooler mixing zones rather than inside the hottest fluid. | Do not imply the 1977 Galápagos warm vents looked identical to the 1979 black smokers. Species assemblage must be tied to one selected vent province during the art pass rather than mixing Atlantic/Pacific taxa. | ✅ | ⬜ | ⬜ |
 | IMG-004 | 023–026 | Mid-ocean ridge to subduction cutaway | SCIENTIFIC DIAGRAM | Show divergent ridge creating young basaltic oceanic crust, outward age progression, magnetic-stripe concept, cooling/subsidence away from ridge, trench and descending oceanic slab at subduction zone; arrows must match plate motion. | Diagram is schematic and not to vertical/horizontal scale; do not imply all ridges or subduction zones have identical shapes, rates or volcanism. | ✅ | ⬜ | ⬜ |
-| IMG-005 | 027–030 | Seafloor age -> ancient continental evidence transition | SCIENTIFIC DIAGRAM | Young seafloor vs much older continental mineral record | Avoid implying no oceanic fragments older than a single hard cutoff everywhere | ⬜ | ⬜ | ⬜ |
-| IMG-006 | 029–030 | Zircon crystal as deep-time archive | SCIENTIFIC DIAGRAM | Crystal structure/scale and dating concept must be scientifically accurate | Colours in microscopic-style view may be false-colour and must be labelled | ⬜ | ⬜ | ⬜ |
-| IMG-007 | 032–033 | Chapter transition: young Solar System / forming Earth | RECONSTRUCTION | Period-appropriate bodies/materials based on current Solar System formation models | No claim that scene is a literal view of one exact moment | ⬜ | ⬜ | ⬜ |
+| IMG-005 | 027–030 | Seafloor age -> ancient continental evidence transition | SCIENTIFIC DIAGRAM | Show overwhelmingly young modern seafloor, recycling at subduction zones, and shift to continental/terrestrial archives for older history; distinguish broad ~150–200 Ma global seafloor pattern from exceptional possible older fragments such as eastern Mediterranean crust. | Do not draw a hard universal 180 Ma wall. Do not imply possible ~340 Ma Herodotus crust is uncontested. | ✅ | ⬜ | ⬜ |
+| IMG-006 | 029–030 | Zircon crystal as deep-time archive | SCIENTIFIC DIAGRAM | Show zircon as ZrSiO4 crystal hosting uranium, U-238 -> Pb-206 and U-235 -> Pb-207 decay systems, detrital recycling into younger sediment, and 4.404 ± 0.008 Ga Jack Hills example. | Do not imply the crystal contains a photographed ancient ocean or that every zircon remains perfectly closed to later disturbance. Any cathodoluminescence-style colour treatment must be labelled as analytical/false colour. | ✅ | ⬜ | ⬜ |
+| IMG-007 | 032–033 | Chapter transition: young Solar System / forming Earth | RECONSTRUCTION | Visual transition must begin before Earth exists: young star/solar nebula and planet-forming disk only after Chapter 1 research establishes the correct sequence and chronology. | Do not generate yet from generic "space art"; final brief must be refined after Chapter 1 evidence review so stellar nucleosynthesis and Solar-System formation are not visually conflated. | 🟨 | ⬜ | ⬜ |
 
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
@@ -137,3 +137,41 @@ NOAA Hydrothermal Vents Fact Sheet; WHOI hydrothermal-vent resources; Dick 2019,
 
 ### Evidence
 USGS This Dynamic Earth; NOAA Mid-Ocean Ridge; NOAA Age of the Seafloor.
+
+
+## IMG-005 — MANUSCRIPT-PASS FACTUAL BRIEF
+
+**Pages:** 027–030  
+**Type:** SCIENTIFIC DIAGRAM  
+**Subject:** Why ancient ocean history must be reconstructed from surviving continental archives.
+
+### Required structure
+- simplified world seafloor-age concept showing young crust at ridges and mostly <200 Ma intact ocean floor;
+- clear qualifier that rare/contested exceptional older fragments may exist;
+- arrow from recycled oceanic crust to surviving continental evidence;
+- Acasta-type ancient rock archive;
+- sedimentary archive;
+- detrital zircon grain transported into younger sediment;
+- label: **not to scale; conceptual evidence map**.
+
+### Caption intent
+**Scientific diagram — when the seafloor disappears, the evidence changes form.** Most intact modern oceanic crust is geologically young because plate tectonics continually recycles it. Older Earth history survives instead in continental rocks, sediments, metamorphic belts, stranded fragments of oceanic lithosphere and durable mineral grains.
+
+## IMG-006 — MANUSCRIPT-PASS FACTUAL BRIEF
+
+**Pages:** 029–030  
+**Type:** SCIENTIFIC DIAGRAM  
+**Subject:** Zircon as an ancient mineral archive and U–Pb clock.
+
+### Required structure
+- zircon crystal schematic;
+- uranium incorporated during crystallisation;
+- two independent decay chains represented conceptually;
+- parent rock eroded;
+- zircon survives transport;
+- grain deposited into younger sediment;
+- age label for Jack Hills exemplar: **4.404 ± 0.008 Ga**;
+- separate oxygen-isotope callout: **evidence consistent with source material altered by liquid water**, not "ocean trapped in crystal".
+
+### Caption intent
+**Scientific diagram — a crystal can outlive its original rock.** Ancient detrital zircons preserve radiometric ages and chemical information from crust that has otherwise disappeared, allowing parts of early Earth's history to be reconstructed from mineral grains hosted in much younger rocks.
