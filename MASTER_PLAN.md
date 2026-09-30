@@ -130,38 +130,52 @@ Return visually to the opening darkness, now from space. The world looks back at
 ### Reference section — pages 489–544
 Chronology, methods, evidence ledger, glossary, notes, bibliography, image credits and index.
 
-## Locked production loop
+## Locked production loop — manuscript first
 
-For each target spread:
+The preferred production order is now **write and evidence-lock the complete book first, then create artwork in a dedicated art pass**.
+
+### PHASE A — MANUSCRIPT / RESEARCH PASS
+For each target page or spread:
 1. Read this Master Plan.
-2. Read the current Page, Evidence and Image Ledgers.
+2. Read the current Page and Evidence Ledgers.
 3. Select the next unchecked page/spread.
 4. Research it from high-quality sources.
 5. Record important claims in the Evidence Ledger.
-6. Draft the page in book prose, not note form.
-7. Identify required visuals.
-8. Create an evidence-constrained artwork brief.
-9. **HUMAN IMAGE GATE:** if the page/spread now requires image generation, STOP the loop and ask: **"Trev/buddy, can you enable the image tool?"** Do not generate or skip ahead until Trev explicitly enables image creation.
-10. After explicit approval, generate/approve the original visual.
-11. Write the caption and reconstruction label.
-12. Fact-check every material claim.
-13. Update all ledgers.
-14. Commit the completed target.
-15. Continue to the next unchecked target.
+6. Draft the page in final-quality book prose.
+7. Identify any visual the finished spread will need.
+8. Add an evidence-constrained placeholder/brief to the Image Ledger, but **do not stop to generate it**.
+9. Fact-check every material claim.
+10. Mark the page **TEXT LOCKED** when prose, evidence and fact-check agree.
+11. Update the ledgers.
+12. Commit the target.
+13. Continue immediately to the next page/spread.
 
-## Human image gate
+This phase continues through the entire manuscript before the main artwork pass begins.
 
-The book loop is continuous **except at artwork generation**.
+### PHASE B — ARTWORK PASS
+After the manuscript is text-locked:
+1. Work through the Image Ledger in page order.
+2. Re-check each image brief against the final surrounding text.
+3. If image generation requires explicit activation, ask: **"Trev/buddy, can you enable the image tool?"**
+4. Generate only the approved, evidence-constrained visual.
+5. Review it for scientific/historical accuracy.
+6. Record the final caption and reconstruction/diagram/map label.
+7. Mark the image approved and commit it.
+8. Continue to the next image.
 
-When a planned page reaches a required generated image:
-- finish the research and factual image brief first;
-- record the brief in the Image Ledger;
-- stop before generation;
-- ask Trev/buddy to explicitly enable image generation;
-- resume only after that explicit instruction;
-- once the image is approved, return immediately to the normal Master Plan -> Page Ledger -> Evidence Ledger -> Image Ledger loop.
+### PHASE C — FINAL BOOK PASS
+After text and artwork are complete:
+1. Assemble final page layouts.
+2. Check page flow, typography, captions, cross-references and contents.
+3. Re-verify frontier claims before publication.
+4. Produce the digital/web edition and the print-ready personal edition.
+5. Mark pages FINAL only when text, evidence, artwork and layout all agree.
 
-This gate exists because image generation may require explicit user activation and because Trev should see each major visual checkpoint before it becomes part of the book.
+## Image-generation gate
+
+The image gate remains, but it applies **during Phase B**, not while drafting the manuscript.
+
+During Phase A, an image requirement becomes an **artwork placeholder**, not a blocker. This prevents the book-writing loop from being interrupted while keeping every visual properly planned and evidence-constrained.
 
 ## Completion definition
 
@@ -175,4 +189,4 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**Foundation complete -> refine and write pages 001–016, then begin the Prologue on pages 017–032.**
+**PHASE A — MANUSCRIPT / RESEARCH PASS. Continue from pages 019–020 of the Prologue and write forward through the complete manuscript. Artwork is planned now but generated later in Phase B.**
