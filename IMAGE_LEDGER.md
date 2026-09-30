@@ -8,12 +8,18 @@ All finished visuals for **Our World** are original to this project.
 - **MAP / TIMELINE** — original data-based visualisation.
 - **ARTIST'S IMPRESSION** — used when important appearance details are uncertain.
 
+## Production order
+
+The main manuscript is written and evidence-locked **before** the dedicated artwork pass. During manuscript drafting, required visuals are recorded here as placeholders/briefs and do not block continued writing.
+
+Existing approved artwork remains valid and will be rechecked against the final surrounding text during the art pass.
+
 ## Generation rule
 
 Before image generation, the factual brief must be complete.
 
-### Required human gate
-When the next book page requires a generated visual, the assistant must **stop the book loop before generation** and ask:
+### Required human gate — artwork phase only
+During the dedicated artwork pass, when the next approved visual is ready for generation, the assistant must ask:
 
 > **Trev/buddy, can you enable the image tool?**
 
@@ -25,7 +31,7 @@ The approval command can then simply be:
 
 That means: generate the next approved image brief in this ledger. If the brief is not sufficiently constrained by evidence, do **not** generate it yet; research/fix the brief first.
 
-After the image is approved, immediately return to the normal page/evidence/artwork/fact-check/commit loop.
+After the image is approved, update the Image Ledger and continue to the next artwork target. During manuscript drafting, do not stop for image generation.
 
 ## Visual register
 
