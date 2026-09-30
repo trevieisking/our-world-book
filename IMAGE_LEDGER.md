@@ -57,6 +57,12 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-016 | 046 | Neutron-star merger and r-process | SCIENTIFIC RECONSTRUCTION | Two neutron stars merging; ejecta/kilonova; explicit evidence marker for GW170817 and strontium; r-process concept. | Do not present gold as directly spectroscopically identified in GW170817; do not imply mergers are sole r-process source. | ✅ | ⬜ | ⬜ |
 | IMG-017 | 047–048 | Galactic recycling to presolar grain to Solar nebula | SCIENTIFIC DIAGRAM | Stellar winds/supernova ejecta -> interstellar medium -> molecular cloud -> presolar grains -> forming Solar nebula. | Conceptual chronology, not one photographed lineage of a single atom. | ✅ | ⬜ | ⬜ |
 
+| IMG-018 | 049–050 | Molecular-cloud collapse into protosun and disk | SCIENTIFIC DIAGRAM | Cloud core collapse, central protosun, angular-momentum flattening, disk formation; no unique trigger shown. | Do not depict a supernova shock as established cause. Geometry is schematic. | ✅ | ⬜ | ⬜ |
+| IMG-019 | 050–051 | Solar-nebula temperature / snow-line map | SCIENTIFIC DIAGRAM | Hot inner disk, cooler outer disk, moving water snow-line concept, refractory vs volatile condensation. | No single permanent radius; not to scale. | ✅ | ⬜ | ⬜ |
+| IMG-020 | 051–052 | Meteorite evidence spread: CAI and chondrule concept | SCIENTIFIC DIAGRAM / RECONSTRUCTION | CAI as refractory inclusion; chondrule as once-molten droplet; radiometric clocks and timeline around 4.567 Ga. | Original artwork must not imitate a specific published micrograph. Chondrule chronology shown as a range/overlap, not false exact sequence. | ✅ | ⬜ | ⬜ |
+| IMG-021 | 053–055 | Dust -> pebbles -> planetesimals -> embryos | SCIENTIFIC DIAGRAM | Include sticking, drift/fragmentation problem, pebble concentration/streaming-instability concept, gravity-dominated planetesimal growth and embryo collisions. | Streaming instability shown as a candidate major route, not the only route. | ✅ | ⬜ | ⬜ |
+| IMG-022 | 056–057 | Chapter transition: embryo to differentiated young Earth | RECONSTRUCTION / SCIENTIFIC DIAGRAM | End Chapter 1 with large rocky embryo; Chapter 2 art brief to be refined after differentiation/Moon-impact research. | Do not yet lock Moon-impact geometry or exact early-Earth appearance. | 🟨 | ⬜ | ⬜ |
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 
