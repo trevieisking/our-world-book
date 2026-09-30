@@ -63,6 +63,11 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-021 | 053–055 | Dust -> pebbles -> planetesimals -> embryos | SCIENTIFIC DIAGRAM | Include sticking, drift/fragmentation problem, pebble concentration/streaming-instability concept, gravity-dominated planetesimal growth and embryo collisions. | Streaming instability shown as a candidate major route, not the only route. | ✅ | ⬜ | ⬜ |
 | IMG-022 | 056–057 | Chapter transition: embryo to differentiated young Earth | RECONSTRUCTION / SCIENTIFIC DIAGRAM | End Chapter 1 with large rocky embryo; Chapter 2 art brief to be refined after differentiation/Moon-impact research. | Do not yet lock Moon-impact geometry or exact early-Earth appearance. | 🟨 | ⬜ | ⬜ |
 
+| IMG-023 | 057–058 | Proto-Earth accretion and heating sequence | SCIENTIFIC RECONSTRUCTION | Show multiple embryo impacts, gravitational growth and heating sources without implying one exact collision history. | No exact trajectories, colours or named impactors presented as fact. | ✅ | ⬜ | ⬜ |
+| IMG-024 | 059–060 | Magma ocean and metal–silicate differentiation | SCIENTIFIC DIAGRAM / RECONSTRUCTION | Molten silicate, descending metallic phase, developing core and mantle; show extensive melting as model-supported rather than one fixed global snapshot. | Do not imply a single magma-ocean lifetime or perfectly uniform global melt. | ✅ | ⬜ | ⬜ |
+| IMG-025 | 061 | Hf–W core-formation clock | SCIENTIFIC DIAGRAM | Hf retained in silicate, W partitioning into metal, 182Hf -> 182W decay, isotope record after separation. | Diagram must say chronology is model-dependent and affected by incomplete equilibration. | ✅ | ⬜ | ⬜ |
+| IMG-026 | 062–063 | How we know Earth's interior | SCIENTIFIC DIAGRAM | P- and S-wave paths, liquid outer core, solid inner core, Fe–Ni + light-element composition inference, high-pressure experiment callout. | Do not imply direct sampling of Earth's core or certainty about exact light-element proportions. | ✅ | ⬜ | ⬜ |
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 
