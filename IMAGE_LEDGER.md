@@ -39,8 +39,8 @@ After the image is approved, update the Image Ledger and continue to the next ar
 |---|---:|---|---|---|---|:---:|:---:|:---:|
 | IMG-001 | 002 | Earth as a single world in darkness | ARTIST'S IMPRESSION / COVER-STYLE | Recognisable Earth geometry; physically plausible lighting | Exact cloud pattern is illustrative | ⬜ | ⬜ | ⬜ |
 | IMG-002 | 016–017 | Descent from surface light into abyss | RECONSTRUCTION | Surface light must diminish naturally with depth; upper ocean visibly brighter; twilight transition below ~200 m; essentially no sunlight below ~1,000 m; water column should feel increasingly dark and sparse rather than crowded. | Optical boundaries are approximate rather than hard horizontal lines. Exact cloud/surface state, particles and any individual organisms are illustrative. Do not show a vent yet; that reveal belongs to IMG-003. Bioluminescence, if present, should be sparse and clearly organism-generated rather than ambient blue light. | ✅ | ✅ | ✅ |
-| IMG-003 | 019–020 | Hydrothermal vent ecosystem | RECONSTRUCTION | Vent structure, plume behaviour and organisms must match chosen modern vent type | Species mix must not combine incompatible regions/depths | ⬜ | ⬜ | ⬜ |
-| IMG-004 | 023–026 | Mid-ocean ridge to subduction cutaway | SCIENTIFIC DIAGRAM | Divergent ridge, new crust, plate motion, trench/subduction geometry | Vertical scale must be clearly schematic | ⬜ | ⬜ | ⬜ |
+| IMG-003 | 019–020 | Hydrothermal vent ecosystem | RECONSTRUCTION | Use a high-temperature black-smoker setting explicitly as a representative modern vent; dark plume must be mineral precipitation, not combustion smoke; chimney built from precipitated minerals; cold deep seawater surrounds a hot vent; animal community concentrated in cooler mixing zones rather than inside the hottest fluid. | Do not imply the 1977 Galápagos warm vents looked identical to the 1979 black smokers. Species assemblage must be tied to one selected vent province during the art pass rather than mixing Atlantic/Pacific taxa. | ✅ | ⬜ | ⬜ |
+| IMG-004 | 023–026 | Mid-ocean ridge to subduction cutaway | SCIENTIFIC DIAGRAM | Show divergent ridge creating young basaltic oceanic crust, outward age progression, magnetic-stripe concept, cooling/subsidence away from ridge, trench and descending oceanic slab at subduction zone; arrows must match plate motion. | Diagram is schematic and not to vertical/horizontal scale; do not imply all ridges or subduction zones have identical shapes, rates or volcanism. | ✅ | ⬜ | ⬜ |
 | IMG-005 | 027–030 | Seafloor age -> ancient continental evidence transition | SCIENTIFIC DIAGRAM | Young seafloor vs much older continental mineral record | Avoid implying no oceanic fragments older than a single hard cutoff everywhere | ⬜ | ⬜ | ⬜ |
 | IMG-006 | 029–030 | Zircon crystal as deep-time archive | SCIENTIFIC DIAGRAM | Crystal structure/scale and dating concept must be scientifically accurate | Colours in microscopic-style view may be false-colour and must be labelled | ⬜ | ⬜ | ⬜ |
 | IMG-007 | 032–033 | Chapter transition: young Solar System / forming Earth | RECONSTRUCTION | Period-appropriate bodies/materials based on current Solar System formation models | No claim that scene is a literal view of one exact moment | ⬜ | ⬜ | ⬜ |
@@ -92,3 +92,48 @@ NOAA Ocean Exploration:
 
 ### IMG-002 approval
 Approved by Trev with 👍 in chat on 2026-09-30. Treat 👍 / “like” on a generated book image as **PASS / APPROVED** unless Trev explicitly asks for changes.
+
+
+## IMG-003 — MANUSCRIPT-PASS FACTUAL BRIEF
+
+**Pages:** 019–020  
+**Type:** RECONSTRUCTION  
+**Subject:** Representative high-temperature hydrothermal black-smoker ecosystem.
+
+### Required scientific features
+- deep ocean darkness;
+- mineral chimney rather than a literal smoking/fire chimney;
+- dark plume produced by mineral precipitation as hot fluid mixes with cold seawater;
+- vent fluid source at chimney, with biological abundance concentrated in cooler mixing zones;
+- one geographically coherent fauna assemblage to be selected during the art pass;
+- no claim that this is the exact 1977 Galápagos scene.
+
+### Caption intent
+**Reconstruction — a modern high-temperature hydrothermal vent.** The dark plume is composed largely of mineral particles precipitating as hot, metal- and sulfur-rich hydrothermal fluid mixes with cold seawater. Chemosynthetic microbes exploit chemical disequilibria around the vent and can support dense animal communities.
+
+### Evidence
+NOAA Hydrothermal Vents Fact Sheet; WHOI hydrothermal-vent resources; Dick 2019, Nature Reviews Microbiology.
+
+## IMG-004 — MANUSCRIPT-PASS FACTUAL BRIEF
+
+**Pages:** 023–026  
+**Type:** SCIENTIFIC DIAGRAM  
+**Subject:** One tectonic transect from ridge creation to subduction recycling.
+
+### Required scientific features
+- mantle beneath oceanic lithosphere;
+- divergent mid-ocean ridge and formation of new basaltic crust;
+- youngest crust at ridge, older crust progressively farther away;
+- paired magnetic polarity bands shown conceptually on both sides;
+- cooling/thickening/subsidence of oceanic lithosphere away from ridge;
+- sediment cover increasing conceptually with age;
+- convergent margin/trench;
+- descending oceanic slab;
+- associated arc volcanism shown only where appropriate;
+- explicit note: **not to scale**.
+
+### Caption intent
+**Scientific diagram — the ocean floor is continually renewed.** New oceanic crust forms at spreading ridges, moves outward with the tectonic plates, cools and ages, and may eventually be recycled into Earth's interior at a subduction zone. The geometry is schematic and not to scale.
+
+### Evidence
+USGS This Dynamic Earth; NOAA Mid-Ocean Ridge; NOAA Age of the Seafloor.
