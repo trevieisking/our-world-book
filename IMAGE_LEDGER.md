@@ -32,7 +32,7 @@ After the image is approved, immediately return to the normal page/evidence/artw
 | ID | Page(s) | Visual | Label | Facts that must be preserved | Uncertain / do not overstate | Brief | Generated | Approved |
 |---|---:|---|---|---|---|:---:|:---:|:---:|
 | IMG-001 | 002 | Earth as a single world in darkness | ARTIST'S IMPRESSION / COVER-STYLE | Recognisable Earth geometry; physically plausible lighting | Exact cloud pattern is illustrative | ⬜ | ⬜ | ⬜ |
-| IMG-002 | 016–017 | Descent from surface light into abyss | RECONSTRUCTION | Surface light must diminish naturally with depth; upper ocean visibly brighter; twilight transition below ~200 m; essentially no sunlight below ~1,000 m; water column should feel increasingly dark and sparse rather than crowded. | Optical boundaries are approximate rather than hard horizontal lines. Exact cloud/surface state, particles and any individual organisms are illustrative. Do not show a vent yet; that reveal belongs to IMG-003. Bioluminescence, if present, should be sparse and clearly organism-generated rather than ambient blue light. | ✅ | ⬜ | ⬜ |
+| IMG-002 | 016–017 | Descent from surface light into abyss | RECONSTRUCTION | Surface light must diminish naturally with depth; upper ocean visibly brighter; twilight transition below ~200 m; essentially no sunlight below ~1,000 m; water column should feel increasingly dark and sparse rather than crowded. | Optical boundaries are approximate rather than hard horizontal lines. Exact cloud/surface state, particles and any individual organisms are illustrative. Do not show a vent yet; that reveal belongs to IMG-003. Bioluminescence, if present, should be sparse and clearly organism-generated rather than ambient blue light. | ✅ | ✅ | ✅ |
 | IMG-003 | 019–020 | Hydrothermal vent ecosystem | RECONSTRUCTION | Vent structure, plume behaviour and organisms must match chosen modern vent type | Species mix must not combine incompatible regions/depths | ⬜ | ⬜ | ⬜ |
 | IMG-004 | 023–026 | Mid-ocean ridge to subduction cutaway | SCIENTIFIC DIAGRAM | Divergent ridge, new crust, plate motion, trench/subduction geometry | Vertical scale must be clearly schematic | ⬜ | ⬜ | ⬜ |
 | IMG-005 | 027–030 | Seafloor age -> ancient continental evidence transition | SCIENTIFIC DIAGRAM | Young seafloor vs much older continental mineral record | Avoid implying no oceanic fragments older than a single hard cutoff everywhere | ⬜ | ⬜ | ⬜ |
@@ -83,3 +83,6 @@ NOAA Ocean Exploration:
 - “What is the ‘deep’ ocean?”
 - “How far does light travel in the ocean?”
 - “What conditions exist for life in the deep ocean?”
+
+### IMG-002 approval
+Approved by Trev with 👍 in chat on 2026-09-30. Treat 👍 / “like” on a generated book image as **PASS / APPROVED** unless Trev explicitly asks for changes.
