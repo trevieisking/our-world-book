@@ -141,12 +141,27 @@ For each target spread:
 6. Draft the page in book prose, not note form.
 7. Identify required visuals.
 8. Create an evidence-constrained artwork brief.
-9. Generate/approve the original visual.
-10. Write the caption and reconstruction label.
-11. Fact-check every material claim.
-12. Update all ledgers.
-13. Commit the completed target.
-14. Continue to the next unchecked target.
+9. **HUMAN IMAGE GATE:** if the page/spread now requires image generation, STOP the loop and ask: **"Trev/buddy, can you enable the image tool?"** Do not generate or skip ahead until Trev explicitly enables image creation.
+10. After explicit approval, generate/approve the original visual.
+11. Write the caption and reconstruction label.
+12. Fact-check every material claim.
+13. Update all ledgers.
+14. Commit the completed target.
+15. Continue to the next unchecked target.
+
+## Human image gate
+
+The book loop is continuous **except at artwork generation**.
+
+When a planned page reaches a required generated image:
+- finish the research and factual image brief first;
+- record the brief in the Image Ledger;
+- stop before generation;
+- ask Trev/buddy to explicitly enable image generation;
+- resume only after that explicit instruction;
+- once the image is approved, return immediately to the normal Master Plan -> Page Ledger -> Evidence Ledger -> Image Ledger loop.
+
+This gate exists because image generation may require explicit user activation and because Trev should see each major visual checkpoint before it becomes part of the book.
 
 ## Completion definition
 
