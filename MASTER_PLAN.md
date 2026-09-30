@@ -189,4 +189,4 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — MANUSCRIPT / RESEARCH PASS. Continue from pages 019–020 of the Prologue and write forward through the complete manuscript. Artwork is planned now but generated later in Phase B.**
+**PHASE A — MANUSCRIPT / RESEARCH PASS. Prologue pages 017–032 are text-locked. Next: research and draft Chapter 1, pages 033–056 — Before There Was an Earth. Artwork is planned now but generated later in Phase B.**
