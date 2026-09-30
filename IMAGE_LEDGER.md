@@ -52,6 +52,11 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-012 | 039 | Protoplanetary disk and forming planet | SCIENTIFIC RECONSTRUCTION | Evidence-informed disk with rings/gaps plus clearly labelled forming protoplanet concept tied to PDS 70-like observations. | Rings/gaps alone must not be presented as certain planets; do not copy third-party telescope imagery. | ✅ | ⬜ | ⬜ |
 | IMG-013 | 040 | Cosmic opportunity timeline: planets before Earth | TIMELINE | Show Universe age, ancient Kepler-444 system, Solar System/Earth formation, present; state explicitly "earlier planets = earlier opportunity, not confirmed life". | No alien cities, spacecraft or civilisation imagery as evidence. | ✅ | ⬜ | ⬜ |
 
+| IMG-014 | 041–042 | Periodic table origins / binding-energy concept | SCIENTIFIC DIAGRAM | Separate Big Bang light elements from stellar nucleosynthesis; show energy-releasing fusion trend toward iron-group region conceptually. | Do not imply every isotope follows one path or that all elements heavier than iron have one source. | ✅ | ⬜ | ⬜ |
+| IMG-015 | 043–045 | Massive-star onion structure to supernova / Type Ia comparison | SCIENTIFIC DIAGRAM | Massive-star burning layers schematic; core-collapse pathway; separate white-dwarf thermonuclear pathway; element-yield emphasis kept qualitative. | Not to scale; do not imply perfectly static shells or one exclusive Type Ia progenitor scenario. | ✅ | ⬜ | ⬜ |
+| IMG-016 | 046 | Neutron-star merger and r-process | SCIENTIFIC RECONSTRUCTION | Two neutron stars merging; ejecta/kilonova; explicit evidence marker for GW170817 and strontium; r-process concept. | Do not present gold as directly spectroscopically identified in GW170817; do not imply mergers are sole r-process source. | ✅ | ⬜ | ⬜ |
+| IMG-017 | 047–048 | Galactic recycling to presolar grain to Solar nebula | SCIENTIFIC DIAGRAM | Stellar winds/supernova ejecta -> interstellar medium -> molecular cloud -> presolar grains -> forming Solar nebula. | Conceptual chronology, not one photographed lineage of a single atom. | ✅ | ⬜ | ⬜ |
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 
