@@ -1,7 +1,7 @@
 # PAGE LEDGER
 
 **Book target:** 544 pages  
-**Rule:** no page is marked FINAL until manuscript, evidence, visuals (if required), caption and fact-check all agree.
+**Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -558,3 +558,12 @@
 
 ## Next page target
 Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete evidence review, and generate required front-matter artwork before FINAL. Then move to pages **017–032**.
+
+
+## Phase status
+- **Phase A — Manuscript / research:** ACTIVE
+- **Phase B — Artwork:** WAITING FOR TEXT-LOCKED MANUSCRIPT
+- **Phase C — Final layout / publication:** WAITING
+
+## Current manuscript target
+Continue with **pages 019–020 — hydrothermal vent reveal and chemosynthetic ecosystems**. Do not stop for artwork; create/update image briefs only.
