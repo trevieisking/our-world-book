@@ -23,14 +23,14 @@
 | 016 | Front Matter | Transition page — invitation to descend into the ocean | 🟨 | 🟨 | ⬜ | 🟨 | ⬜ |
 | 017 | Prologue — Into the Darkness | Prologue opening — descent below the sunlit ocean | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 018 | Prologue — Into the Darkness | Deep-sea darkness, temperature and pressure | ✅ | ✅ | — | ✅ | ✅ |
-| 019 | Prologue — Into the Darkness | Hydrothermal vent reveal | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 020 | Prologue — Into the Darkness | How chemosynthetic ecosystems live without sunlight | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 021 | Prologue — Into the Darkness | What vent life proves — and what it does not prove about life's origin | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 022 | Prologue — Into the Darkness | Origin-of-life environments: vents are a hypothesis, not a verdict | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 023 | Prologue — Into the Darkness | Pull back to the global ocean floor | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 024 | Prologue — Into the Darkness | Mid-ocean ridges and creation of new crust | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 025 | Prologue — Into the Darkness | Subduction and recycling of oceanic crust | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 026 | Prologue — Into the Darkness | Why today's seafloor cannot preserve Earth's whole ocean history | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 019 | Prologue — Into the Darkness | Hydrothermal vent reveal | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 020 | Prologue — Into the Darkness | How chemosynthetic ecosystems live without sunlight | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 021 | Prologue — Into the Darkness | What vent life proves — and what it does not prove about life's origin | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 022 | Prologue — Into the Darkness | Origin-of-life environments: vents are a hypothesis, not a verdict | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 023 | Prologue — Into the Darkness | Pull back to the global ocean floor | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 024 | Prologue — Into the Darkness | Mid-ocean ridges and creation of new crust | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 025 | Prologue — Into the Darkness | Subduction and recycling of oceanic crust | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 026 | Prologue — Into the Darkness | Why today's seafloor cannot preserve Earth's whole ocean history | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 027 | Prologue — Into the Darkness | The ~150–200 million year surviving-seafloor limit explained | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 028 | Prologue — Into the Darkness | Where older evidence survives instead: continents, sediments and minerals | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 029 | Prologue — Into the Darkness | Zircons as tiny archives of early Earth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -566,4 +566,4 @@ Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete 
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-Continue with **pages 019–020 — hydrothermal vent reveal and chemosynthetic ecosystems**. Do not stop for artwork; create/update image briefs only.
+Pages **019–026 are TEXT LOCKED** for Phase A. Next target: **pages 027–032 — surviving seafloor age limit, older evidence archives, zircons, isotopes/rocks/fossils, and transition into Chapter 1**. Do not stop for artwork; create/update image briefs only.
