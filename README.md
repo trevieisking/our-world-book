@@ -44,3 +44,10 @@ The project is governed by:
 - `STYLE_GUIDE.md`
 
 The locked workflow is: **plan -> research -> write -> evidence check -> artwork -> fact-check -> approve -> mark complete -> commit -> next page/spread**.
+
+
+## Current workflow authority
+
+For active writing progress, read `CURRENT_TARGET.md` first, then the relevant file in `chapter-ledgers/`, followed by `EVIDENCE_LEDGER.md` and `IMAGE_LEDGER.md`.
+
+The large book-wide `PAGE_LEDGER.md` remains the master page index but may be reconciled in batches if a connector write limit blocks a large update.
