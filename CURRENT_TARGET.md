@@ -7,21 +7,21 @@
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
 - Chapter 2 pages **057–084** — TEXT LOCKED
-- Chapter 3 pages **085–092** — TEXT LOCKED
+- Chapter 3 pages **085–100** — TEXT LOCKED
 
 ## Next target
 ### Chapter 3 — The Water Planet
-Pages **093–100**
+Pages **101–108**
 
 Research and draft:
-- Moon-driven tides and shorter early-Earth day length;
-- how tidal strength changes with Earth–Moon distance without assigning one universal early tide height;
-- ocean-basin geometry and uncertainty in early sea level;
-- shorelines, tidal flats and wet–dry interfaces;
-- sediment transport and concentration of minerals/organics;
-- hydrothermal and redox gradients where different waters and rocks meet;
-- distinguish environments that concentrate chemistry from those that dilute it;
-- keep physical evidence, proxies and modelling clearly separated.
+- carbon reservoirs and inorganic carbon chemistry in an anoxic ocean;
+- nitrogen abundance versus chemical accessibility before widespread biological fixation;
+- phosphorus availability and mineral controls;
+- sulfur speciation before ocean oxygenation;
+- abundant dissolved iron and silica under anoxic conditions;
+- mineral precipitation and the sedimentary archive of seawater chemistry;
+- distinguish elemental abundance from biological/prebiotic availability;
+- keep direct samples, proxy reconstruction, experiments and models explicitly separated.
 
 ## Production rule
 Continue the manuscript-first loop:
