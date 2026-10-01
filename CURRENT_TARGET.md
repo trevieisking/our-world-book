@@ -10,19 +10,21 @@
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
+- Chapter 6 pages **177–184** — TEXT LOCKED
 
 ## Next target
 ### Chapter 6 — The Oxygen Revolution
-Pages **177–184**
+Pages **185–192**
 
 Research and draft:
-- define the Great Oxidation Event as a sustained atmospheric/ocean-surface redox transition rather than the origin of oxygenic photosynthesis;
-- establish chronology using current geochronological constraints and note that exact onset/duration remain refined by new work;
-- explain sulfur mass-independent fractionation and why its disappearance constrains atmospheric O2;
-- distinguish pre-GOE oxygen oases and whiffs from persistent atmospheric accumulation;
-- explain oxygen source/sink balance, including organic-carbon burial, reduced volcanic/metamorphic gases, ferrous iron, sulfur and crustal weathering;
-- assess tectonic, nutrient, hydrogen-escape and productivity feedbacks without selecting one exclusive trigger;
-- introduce ecological and mineralogical consequences while reserving later Proterozoic oxygenation for later chapters.
+- oxidative weathering and disappearance of detrital pyrite/uraninite;
+- red beds and the limits of using colour alone as an atmospheric proxy;
+- banded iron formations before, during and after the GOE without claiming one universal formation mechanism;
+- sulfate expansion through oxidative sulfide weathering and consequences for microbial sulfur cycling;
+- pyrite burial and its contribution to long-term redox balance;
+- ferruginous versus euxinic ocean structure and persistence of deep anoxia;
+- oxygen-driven expansion of mineral species and trace-metal mobility;
+- biological consequences of changing Mo, Fe, P and other nutrient/metal inventories.
 
 ## Production rule
 Continue the manuscript-first loop:
