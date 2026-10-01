@@ -6,18 +6,21 @@
 ## Locked manuscript status
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
-- Chapter 2 pages **057–080** — TEXT LOCKED
+- Chapter 2 pages **057–084** — TEXT LOCKED
 
 ## Next target
-### Chapter 2 — Building a World
-Pages **081–084**
+### Chapter 3 — The Water Planet
+Pages **085–092**
 
 Research and draft:
-- late Hadean bombardment and the limits of the old "continuous hell" picture;
-- what impacts could vaporise, melt or reset versus what survived;
-- re-establishment of crust, atmosphere and water after major impacts;
-- the final transition into Chapter 3: **The Water Planet**;
-- keep direct evidence, isotope inference and dynamical modelling clearly separated.
+- how early oceans can be constrained without pretending we know their exact global map;
+- ocean persistence versus episodic impact vaporisation;
+- early seawater chemistry and salinity limits;
+- ocean–atmosphere exchange and greenhouse regulation;
+- water–basalt interaction and seafloor alteration;
+- hydrothermal circulation before modern-style ocean crust;
+- weathering and the first long-term surface geochemical cycles;
+- separate direct rock evidence, isotope proxies and numerical models.
 
 ## Production rule
 Continue the manuscript-first loop:
