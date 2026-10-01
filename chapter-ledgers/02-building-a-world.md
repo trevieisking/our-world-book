@@ -7,6 +7,7 @@
 | 061–062 | Hf–W chronology and present core structure | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 063–064 | Experimental constraints and transition to Moon formation | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 065–072 | Moon-forming impact and Earth–Moon evidence | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
+| 073–080 | Post-impact cooling, first crust, atmosphere and early water | ✅ | ✅ | 🟨 | ✅ | TEXT LOCKED |
 
 ## Next target
-Pages **073–080** — post-impact cooling, early crust formation, atmosphere/outgassing, volatile retention and loss, first durable mineral evidence, and how quickly the young Earth may have become physically capable of supporting liquid water.
+Pages **081–084** — late impacts and the closing Hadean transition: what bombardment did and did not erase, how stable surface reservoirs re-emerged, and the hand-off to Chapter 3: **The Water Planet**.
