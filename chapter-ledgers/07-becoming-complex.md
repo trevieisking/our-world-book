@@ -4,20 +4,23 @@
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 201–208 | Eukaryotic architecture, Asgard ancestry, mitochondria, FECA/LECA and oxygen boundary | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 209–216 | Nucleus, endomembranes, cytoskeleton, chromosome handling, introns and sex | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 217–224 | Early eukaryotic fossils, multicellularity, Snowball Earth and Ediacaran transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
+| 217–224 | Early eukaryotic fossils, multicellularity, Snowball Earth and Ediacaran transition | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 
 ## Chapter 7 status
-**Pages 201–216 are TEXT LOCKED for Phase A.**
+**Pages 201–224 are TEXT LOCKED for Phase A. Chapter 7 is complete.**
 
-## Evidence boundary
-- LECA was already a highly complex, mitochondria-bearing, sexual unicellular eukaryote.
-- Nucleus, endomembrane and phagocytosis event ordering remain unresolved despite stronger 2025–2026 host-complexity evidence.
-- Introns/spliceosome and sex are deeply rooted in eukaryotic history, but their original selective causes remain uncertain.
-- Oxygen/mitochondria enable and constrain complexity without being treated as single sufficient causes.
+## Chapter 7 final evidence boundary
+- Eukaryotes arise from archaeal/Asgard ancestry combined with a bacterial mitochondrial endosymbiont; exact host branch and event ordering remain active questions.
+- LECA was already a highly complex, mitochondria-bearing and sexual eukaryotic cell.
+- 2025–2026 phylogenomics strengthens host-complexity-first models but does not settle the timing of phagocytosis, nucleus formation or mitochondrial capture.
+- Multicellularity evolved independently many times and should not be treated as one evolutionary step.
+- Cryogenian Snowball Earth reorganised climate and biogeochemistry but is not treated as a single trigger for animals or oxygenation.
+- Ediacaran animal ecosystems predate the Cambrian; taxon-specific affinities remain evidence-graded.
 
 ## Next target
-Pages **217–224** — earliest eukaryotic fossils and biomarkers; repeated origins of multicellularity; Cryogenian Snowball Earth episodes; survival/refugia and nutrient/redox consequences; Ediacaran organisms and uncertain affinities; end at the threshold of Cambrian ecological diversification.
+Chapter 8, pages **225–232** — define the Cambrian radiation, establish the boundary/fossil biases, and trace ecological escalation through burrowing, biomineralisation, predation and sensory innovation.
 
 ## Support registers
 - `chapter-ledgers/07-becoming-complex-support-201-208.md`
 - `chapter-ledgers/07-becoming-complex-support-209-216.md`
+- `chapter-ledgers/07-becoming-complex-support-217-224.md`
