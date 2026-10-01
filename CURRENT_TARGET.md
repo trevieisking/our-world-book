@@ -6,20 +6,20 @@
 ## Locked manuscript status
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
-- Chapter 2 pages **057–064** — TEXT LOCKED
+- Chapter 2 pages **057–072** — TEXT LOCKED
 
 ## Next target
 ### Chapter 2 — Building a World
-Pages **065–072**
+Pages **073–080**
 
 Research and draft:
-- evidence for a giant Moon-forming impact;
-- Earth–Moon isotopic similarities and differences;
-- angular-momentum constraints;
-- candidate impactor histories and model families;
-- what lunar samples actually establish;
-- how the impact changed the young Earth;
-- explicit separation of established evidence from model-dependent reconstruction.
+- cooling after the Moon-forming era;
+- early crust formation and remelting;
+- volcanic outgassing and atmosphere evolution;
+- volatile loss versus retention;
+- earliest durable mineral evidence from zircons;
+- constraints on early liquid water and surface conditions;
+- strict separation between direct evidence, geochemical inference and model-dependent reconstruction.
 
 ## Production rule
 Continue the manuscript-first loop:
