@@ -5,23 +5,25 @@
 | 113–120 | Defining life; earliest-life evidence boundary | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 121–128 | RNA-world evidence, copying constraints and 2026 QT45 update | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 129–136 | Compartmentalisation, primitive membranes, protocell growth/division and fitness coupling | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 137–144 | Protometabolism, geochemical energy, gradients and hydrothermal/mineral catalysis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
-| 145–152 | To be refined after 137–144 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 137–144 | Protometabolism, geochemical energy, gradients and hydrothermal/mineral catalysis | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
+| 145–152 | Candidate environments, multi-setting integration and Chapter 4 evidence synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
 
 ## Chapter 4 status
-**Pages 113–136 are TEXT LOCKED for Phase A.**
+**Pages 113–144 are TEXT LOCKED for Phase A.**
 
 ## Evidence boundary
 - Pages 113–120 distinguish life's operational definition, biosignature confidence and existence dates from an origin date.
-- Pages 121–128 establish RNA's dual informational/catalytic role, partial prebiotic synthesis and copying routes, replication-fidelity constraints, the 2025 strand-separation advance and the 2026 QT45 small-polymerase result.
-- Pages 129–136 establish experimentally demonstrated routes for self-assembling compartments, selective permeability, RNA compatibility, vesicle growth/division, competition and sequence-to-compartment fitness coupling.
-- 2026 bottom-up/synthetic-cell advances are included without confusing evolved-enzyme systems with prebiotic reconstruction.
-- No complete autonomous transition from simple plausible geochemical feedstocks to an open-ended evolving cellular lineage is claimed.
+- Pages 121–128 establish RNA's informational/catalytic role and the present experimental boundary of RNA replication.
+- Pages 129–136 establish self-assembling compartments, permeability, RNA compatibility, growth/division, competition and sequence-to-protocell fitness coupling.
+- Pages 137–144 establish geochemical energy sources and experimentally demonstrated non-enzymatic metabolic-like chemistry while separating partial networks from complete self-sustaining cycles.
+- Natural proton-gradient vent models are retained as plausible but contested hypotheses, not a proven birthplace.
+- RNA-first and metabolism-first are not treated as a forced binary; the unresolved target is an integrated evolvable system.
 
 ## Next target
-Pages **137–144** — protometabolism and geochemical energy: redox/free-energy coupling, proton gradients, alkaline hydrothermal-vent models, iron–sulfur/mineral catalysis, carbon-fixation-like chemistry and the evidence limits on metabolism-first scenarios.
+Pages **145–152** — compare candidate environments and mechanisms for bringing the pieces together, evaluate multi-environment/hybrid scenarios, state the strongest current evidence boundary for abiogenesis, and transition into Chapter 5's geological record of the early biosphere.
 
 ## Support registers
 - `chapter-ledgers/04-when-chemistry-became-biology-support-113-120.md`
 - `chapter-ledgers/04-when-chemistry-became-biology-support-121-128.md`
 - `chapter-ledgers/04-when-chemistry-became-biology-support-129-136.md`
+- `chapter-ledgers/04-when-chemistry-became-biology-support-137-144.md`
