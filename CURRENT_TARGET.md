@@ -8,24 +8,27 @@
 - Chapter 1 pages **033–056** — TEXT LOCKED
 - Chapter 2 pages **057–084** — TEXT LOCKED
 - Chapter 3 pages **085–112** — TEXT LOCKED
+- Chapter 4 pages **113–120** — TEXT LOCKED
 
 ## Next target
 ### Chapter 4 — When Chemistry Became Biology
-Pages **113–120**
+Pages **121–128**
 
 Research and draft:
-- define what properties distinguish a living/evolving system from merely complex chemistry;
-- separate modern-cell requirements from plausible primitive systems;
-- replication, heredity, variation, energy coupling, catalysis and compartmentalisation;
-- earliest geological evidence for life and the confidence hierarchy among competing claims;
-- distinguish "life existed by" from "life originated at";
-- establish the evidence window for abiogenesis before evaluating RNA-first, metabolism-first, protocell, vent and hybrid hypotheses.
+- explain why RNA is central to origin-of-life research: sequence information plus catalytic activity;
+- distinguish the RNA-world framework from a demonstrated historical sequence;
+- ribozymes and the catalytic role of ribosomal RNA;
+- plausible prebiotic routes to ribonucleotide components and activated nucleotides, without claiming one complete natural pathway is established;
+- template-directed RNA copying, copying fidelity and error limits;
+- strand separation, product inhibition and the need for environmental cycling or other physical solutions;
+- distinguish laboratory-assisted RNA evolution from autonomous prebiotic self-replication;
+- evaluate what RNA-first models explain, what remains unresolved, and where RNA-peptide, protocell and hybrid scenarios may bridge gaps.
 
 ## Production rule
 Continue the manuscript-first loop:
-**research -> evidence ledger -> prose -> image brief -> fact-check -> text lock -> commit -> next target**
+**research -> evidence ledger/support register -> prose -> image brief -> fact-check -> text lock -> commit -> next target**
 
 Artwork remains deferred to Phase B.
 
 ## Status authority
-This file is the current-target override when the large book-wide `PAGE_LEDGER.md` or `MASTER_PLAN.md` cannot be synchronised in one connector write. Per-chapter ledgers remain authoritative for completed page ranges. The book-wide files should be reconciled during a later maintenance pass.
+This file is the current-target override when the large book-wide `PAGE_LEDGER.md` or `MASTER_PLAN.md` cannot be synchronised in one connector write. Per-chapter ledgers and their support registers remain authoritative for completed page ranges. The book-wide files should be reconciled during a later maintenance pass.
