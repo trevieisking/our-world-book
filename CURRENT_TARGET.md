@@ -10,21 +10,21 @@
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
-- Chapter 6 pages **177–184** — TEXT LOCKED
+- Chapter 6 pages **177–192** — TEXT LOCKED
 
 ## Next target
 ### Chapter 6 — The Oxygen Revolution
-Pages **185–192**
+Pages **193–200**
 
 Research and draft:
-- oxidative weathering and disappearance of detrital pyrite/uraninite;
-- red beds and the limits of using colour alone as an atmospheric proxy;
-- banded iron formations before, during and after the GOE without claiming one universal formation mechanism;
-- sulfate expansion through oxidative sulfide weathering and consequences for microbial sulfur cycling;
-- pyrite burial and its contribution to long-term redox balance;
-- ferruginous versus euxinic ocean structure and persistence of deep anoxia;
-- oxygen-driven expansion of mineral species and trace-metal mobility;
-- biological consequences of changing Mo, Fe, P and other nutrient/metal inventories.
+- oxygen toxicity, reactive oxygen species and the need for detoxification/repair;
+- aerobic respiration and why oxygen can greatly increase energy yield without claiming one universal ATP number;
+- evolution of oxygen-tolerant/oxygen-using metabolism and persistence of anaerobic refuges;
+- ozone formation and reduction of damaging UV at the surface;
+- later-GOE oxygen fluctuations, including the Lomagundi carbon-isotope excursion and debated O2 overshoot/decline;
+- ecological consequences of changing redox/nutrient conditions;
+- distinguish first persistent oxygen from modern atmospheric levels;
+- close Chapter 6 and transition to Chapter 7 — Becoming Complex — without implying oxygen alone caused eukaryogenesis.
 
 ## Production rule
 Continue the manuscript-first loop:
