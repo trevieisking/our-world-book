@@ -11,21 +11,21 @@
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
 - Chapter 6 pages **177–200** — TEXT LOCKED
-- Chapter 7 pages **201–216** — TEXT LOCKED
+- Chapter 7 pages **201–224** — TEXT LOCKED
 
 ## Next target
-### Chapter 7 — Becoming Complex
-Pages **217–224**
+### Chapter 8 — The Cambrian World
+Pages **225–232**
 
 Research and draft:
-- earliest convincing eukaryotic fossils and why size/morphology alone are insufficient;
-- biomarkers and contamination/reworking limits;
-- independent origins of multicellularity across eukaryotes;
-- Sturtian and Marinoan Snowball Earth timing, extent and evidence;
-- survival/refugia during global or near-global glaciation;
-- nutrient, weathering and redox consequences of deglaciation without assigning one simple causal route to animal origins;
-- Ediacaran organisms, rangeomorphs, Dickinsonia and other forms with careful affinity labels;
-- close Chapter 7 at the threshold of Cambrian ecological diversification.
+- define the Cambrian radiation without implying animals appeared instantaneously;
+- establish the current Ediacaran–Cambrian boundary near **538.8 Ma** and distinguish formal boundary definition from gradual biological transition;
+- separate lineage origination, ecological expansion and first fossil appearance;
+- examine preservation bias and the role of biomineralisation and exceptional Lagerstätten;
+- trace the escalation of burrowing/bioturbation and loss/reworking of stable microbial-mat seafloors;
+- introduce small shelly fossils and repeated evolution of mineralised hard parts;
+- assess predation, armour and sensory innovation as interacting feedbacks rather than one trigger;
+- explain why animal activity begins engineering marine sediment and food webs at planetary scale.
 
 ## Production rule
 Continue the manuscript-first loop:
