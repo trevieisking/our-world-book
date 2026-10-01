@@ -9,22 +9,21 @@
 - Chapter 2 pages **057–084** — TEXT LOCKED
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
-- Chapter 5 pages **153–160** — TEXT LOCKED
+- Chapter 5 pages **153–168** — TEXT LOCKED
 
 ## Next target
 ### Chapter 5 — A Planet of Microbes
-Pages **161–168**
+Pages **169–176**
 
 Research and draft:
-- reconstruct the anaerobic microbial economy by ecological function rather than assigning unsupported species;
-- carbon fixation and fermentation/organic-carbon recycling;
-- methanogenesis and methane oxidation, with geological evidence and timing uncertainty separated;
-- sulfur oxidation, sulfur reduction/disproportionation and the low-sulfate Archean context;
-- iron reduction/oxidation and the role of Fe2+-rich oceans;
-- nitrogen fixation and why bioavailable nitrogen constrains productivity;
-- syntrophy and cross-feeding between metabolisms;
-- vertical chemical zonation in microbial mats and sediments;
-- establish how microbial metabolism began reorganising planetary element cycles before atmospheric oxygenation.
+- stromatolite diversification in younger Archean successions, especially Strelley Pool and comparable sites;
+- increasingly convincing microfossils and the criteria that distinguish cells from abiotic mineral shapes;
+- the Apex chert controversy and what false positives teach about 2D morphology, contamination and geological context;
+- evidence for microbial colonisation of additional shallow-water, terrestrial and hydrothermal habitats;
+- distinguish anoxygenic phototrophy from oxygenic photosynthesis throughout;
+- assess the timing of oxygenic photosynthesis using geology, geochemistry, molecular clocks and cyanobacterial evolution without assigning an unsupported exact origin date;
+- introduce local oxygen oases/oxidative signals before the Great Oxidation Event only where supported;
+- close Chapter 5 at the threshold of planetary oxygenation so Chapter 6 retains the Great Oxidation Event itself.
 
 ## Production rule
 Continue the manuscript-first loop:
