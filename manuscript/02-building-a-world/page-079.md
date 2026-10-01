@@ -15,4 +15,32 @@ That is not the same thing as finding an ancient ocean directly.
 
 It is geochemical inference preserved in a mineral after the original rock disappeared.
 
-Draft continues below in the next revision.
+The chain of inference is straightforward:
+
+**water alters rock -> altered rock is recycled -> magma forms -> zircon preserves the isotope signal.**
+
+This is why a crystal only fractions of a millimetre across can preserve information about a surface environment whose original rocks are gone.
+
+A separate 2024 study found unusually low oxygen-isotope values in younger Jack Hills zircons consistent with interaction between magmatic systems and **meteoric water** — fresh water derived from precipitation — by about **4.0 billion years ago or earlier**.
+
+That pushes the evidence beyond "water existed".
+
+It points toward an active hydrological cycle in which atmospheric water reached exposed crust.
+
+Ocean.
+
+Atmosphere.
+
+Rain.
+
+Rock.
+
+By the end of the Hadean, those reservoirs were already interacting.
+
+## Research / fact-check notes
+- Wilde et al. (2001), *Nature*.
+- Mojzsis, Harrison & Pidgeon (2001), *Nature*.
+- Valley et al. (2014), *Nature Geoscience*.
+- Johnson et al. (2024), *Nature Geoscience*.
+
+**Decision:** zircon age is direct radiometric evidence; liquid-water and meteoric-water conclusions are geochemical inferences.
