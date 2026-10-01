@@ -9,20 +9,22 @@
 - Chapter 2 pages **057–084** — TEXT LOCKED
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
+- Chapter 5 pages **153–160** — TEXT LOCKED
 
 ## Next target
 ### Chapter 5 — A Planet of Microbes
-Pages **153–160**
+Pages **161–168**
 
 Research and draft:
-- open with the scale mismatch: the early biosphere was microbial, while the surviving evidence is mostly rock texture, chemistry and isotopes rather than recognisable organisms;
-- explain microbial mats, biofilms, stromatolites and microbially induced sedimentary structures without treating shape alone as proof of life;
-- reconstruct the ca. 3.48 Ga Dresser Formation in its volcanic-caldera, shallow-water/hydrothermal context using convergent biosignatures;
-- distinguish phototrophy from oxygenic photosynthesis in an anoxic world;
-- assess evidence for methanogenesis, sulfur cycling and nitrogen fixation cautiously;
-- include the ca. 3.42 Ga Barberton subseafloor filament evidence and its interpretation limits;
-- revisit >3.7 Ga Isua evidence using the 2025–2026 carbon/sulfur isotope work while retaining metamorphic uncertainty;
-- establish that by the Palaeoarchaean life occupied multiple habitats and probably already used multiple metabolisms, without pretending every metabolic assignment is certain.
+- reconstruct the anaerobic microbial economy by ecological function rather than assigning unsupported species;
+- carbon fixation and fermentation/organic-carbon recycling;
+- methanogenesis and methane oxidation, with geological evidence and timing uncertainty separated;
+- sulfur oxidation, sulfur reduction/disproportionation and the low-sulfate Archean context;
+- iron reduction/oxidation and the role of Fe2+-rich oceans;
+- nitrogen fixation and why bioavailable nitrogen constrains productivity;
+- syntrophy and cross-feeding between metabolisms;
+- vertical chemical zonation in microbial mats and sediments;
+- establish how microbial metabolism began reorganising planetary element cycles before atmospheric oxygenation.
 
 ## Production rule
 Continue the manuscript-first loop:
