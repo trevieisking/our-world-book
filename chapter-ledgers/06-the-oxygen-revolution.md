@@ -3,21 +3,23 @@
 | Pages | Subject | Text | Research | Artwork brief | Fact-check | Phase A |
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 177–184 | GOE definition, S-MIF, chronology, oxygen budget and climate/geological feedbacks | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 185–192 | Oxidative weathering, iron formations, sulfate expansion and ocean redox structure | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
-| 193–200 | To be refined after 185–192 | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 185–192 | Oxidative weathering, iron formations, sulfate expansion, ocean redox and mineral/nutrient changes | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
+| 193–200 | Oxygen toxicity/opportunity, aerobic respiration, ozone, Lomagundi oxygen dynamics and chapter synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
 
 ## Chapter 6 status
-**Pages 177–184 are TEXT LOCKED for Phase A.**
+**Pages 177–192 are TEXT LOCKED for Phase A.**
 
 ## Evidence boundary
-- The GOE is separated from the earlier origin of oxygenic photosynthesis and from local pre-GOE oxygen oases.
-- S-MIF remains the strongest global atmospheric proxy, with threshold and crustal-memory complications kept explicit.
-- The GOE is presented as a protracted/possibly oscillatory state transition rather than one globally synchronous instant.
-- Oxygen accumulation is treated as a source–sink budget; no single trigger is selected.
-- Nutrients, burial, reductant fluxes, tectonics, weathering, hydrogen escape and climate feedbacks remain active contributors with uncertain relative importance.
+- GOE chronology is protracted/possibly oscillatory rather than one instant.
+- The atmosphere can oxygenate before the deep ocean.
+- BIFs are multi-process redox archives, not simple one-step products of oxygenation.
+- Oxidative weathering expands sulfate and redistributes trace metals/nutrients.
+- Persistent post-GOE atmospheric oxygen coexists with extensive ferruginous/euxinic deep water.
+- Oxygenation strongly expands mineral diversity but does not create a modern Earth immediately.
 
 ## Next target
-Pages **185–192** — follow oxygen into the rock record: oxidative weathering, detrital mineral loss, red beds, banded iron formations, sulfate expansion, pyrite burial, ferruginous/euxinic ocean structure and mineral/trace-metal diversification.
+Pages **193–200** — oxygen toxicity and defensive chemistry; aerobic respiration and energetic consequences; ozone/UV shielding; ecological turnover; GOE/Lomagundi oxygen overshoot and decline; close Chapter 6 at the threshold of eukaryotic complexity.
 
-## Support register
+## Support registers
 - `chapter-ledgers/06-the-oxygen-revolution-support-177-184.md`
+- `chapter-ledgers/06-the-oxygen-revolution-support-185-192.md`
