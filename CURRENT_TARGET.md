@@ -11,21 +11,21 @@
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
 - Chapter 6 pages **177–200** — TEXT LOCKED
-- Chapter 7 pages **201–208** — TEXT LOCKED
+- Chapter 7 pages **201–216** — TEXT LOCKED
 
 ## Next target
 ### Chapter 7 — Becoming Complex
-Pages **209–216**
+Pages **217–224**
 
 Research and draft:
-- nucleus and nuclear-envelope/endomembrane origin models, retaining membrane-origin uncertainty;
-- Asgard-derived cytoskeletal and membrane-remodelling precursors versus fully eukaryotic machinery;
-- phagocytosis/engulfment and whether it preceded or followed mitochondrial acquisition;
-- chromosome organisation, linear chromosomes, mitosis and the emergence of elaborate segregation systems;
-- introns and spliceosome evolution without turning one hypothesis into settled history;
-- origin of sexual reproduction/meiosis and evidence that LECA already possessed major meiotic machinery;
-- benefits/costs of recombination for large genomes, including repair and unlinking mutations;
-- distinguish sex from reproduction and from multicellularity.
+- earliest convincing eukaryotic fossils and why size/morphology alone are insufficient;
+- biomarkers and contamination/reworking limits;
+- independent origins of multicellularity across eukaryotes;
+- Sturtian and Marinoan Snowball Earth timing, extent and evidence;
+- survival/refugia during global or near-global glaciation;
+- nutrient, weathering and redox consequences of deglaciation without assigning one simple causal route to animal origins;
+- Ediacaran organisms, rangeomorphs, Dickinsonia and other forms with careful affinity labels;
+- close Chapter 7 at the threshold of Cambrian ecological diversification.
 
 ## Production rule
 Continue the manuscript-first loop:
