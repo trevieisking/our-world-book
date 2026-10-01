@@ -6,20 +6,18 @@
 ## Locked manuscript status
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
-- Chapter 2 pages **057–072** — TEXT LOCKED
+- Chapter 2 pages **057–080** — TEXT LOCKED
 
 ## Next target
 ### Chapter 2 — Building a World
-Pages **073–080**
+Pages **081–084**
 
 Research and draft:
-- cooling after the Moon-forming era;
-- early crust formation and remelting;
-- volcanic outgassing and atmosphere evolution;
-- volatile loss versus retention;
-- earliest durable mineral evidence from zircons;
-- constraints on early liquid water and surface conditions;
-- strict separation between direct evidence, geochemical inference and model-dependent reconstruction.
+- late Hadean bombardment and the limits of the old "continuous hell" picture;
+- what impacts could vaporise, melt or reset versus what survived;
+- re-establishment of crust, atmosphere and water after major impacts;
+- the final transition into Chapter 3: **The Water Planet**;
+- keep direct evidence, isotope inference and dynamical modelling clearly separated.
 
 ## Production rule
 Continue the manuscript-first loop:
