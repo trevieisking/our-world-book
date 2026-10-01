@@ -6,24 +6,26 @@
 | 121–128 | RNA-world evidence, copying constraints and 2026 QT45 update | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 129–136 | Compartmentalisation, primitive membranes, protocell growth/division and fitness coupling | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 137–144 | Protometabolism, geochemical energy, gradients and hydrothermal/mineral catalysis | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 145–152 | Candidate environments, multi-setting integration and Chapter 4 evidence synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
+| 145–152 | Candidate environments, multi-setting integration and Chapter 4 evidence synthesis | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 
 ## Chapter 4 status
-**Pages 113–144 are TEXT LOCKED for Phase A.**
+**Pages 113–152 are TEXT LOCKED for Phase A. Chapter 4 is complete.**
 
-## Evidence boundary
-- Pages 113–120 distinguish life's operational definition, biosignature confidence and existence dates from an origin date.
-- Pages 121–128 establish RNA's informational/catalytic role and the present experimental boundary of RNA replication.
-- Pages 129–136 establish self-assembling compartments, permeability, RNA compatibility, growth/division, competition and sequence-to-protocell fitness coupling.
-- Pages 137–144 establish geochemical energy sources and experimentally demonstrated non-enzymatic metabolic-like chemistry while separating partial networks from complete self-sustaining cycles.
-- Natural proton-gradient vent models are retained as plausible but contested hypotheses, not a proven birthplace.
-- RNA-first and metabolism-first are not treated as a forced binary; the unresolved target is an integrated evolvable system.
+## Chapter 4 final evidence boundary
+- No universal definition of life is treated as settled; Darwinian evolvability, self-maintenance and internally carried heredity provide an operational boundary.
+- Convincing geological evidence establishes an early biosphere, but “life existed by” is not “life originated at”.
+- RNA can combine information and catalysis; modern experiments now approach key replication functions but do not recreate autonomous abiogenesis.
+- Primitive compartments can self-assemble, admit nutrients, encapsulate polymers, grow, divide and couple internal chemistry to fitness under laboratory conditions.
+- Geochemical redox energy, minerals and metals can drive origin-relevant carbon chemistry and substantial subsets of central metabolic reaction networks.
+- Hydrothermal, surface/wet–dry, UV, ice and mineral settings each offer distinct mechanisms and limitations; no unique birthplace is established.
+- No experiment currently demonstrates the complete autonomous natural transition from simple plausible geochemical feedstocks to an indefinitely self-maintaining, open-ended Darwinian cellular lineage.
 
 ## Next target
-Pages **145–152** — compare candidate environments and mechanisms for bringing the pieces together, evaluate multi-environment/hybrid scenarios, state the strongest current evidence boundary for abiogenesis, and transition into Chapter 5's geological record of the early biosphere.
+Chapter 5, pages **153–160** — **A Planet of Microbes**. Return to the surviving rock record, establish how microbial ecosystems leave evidence, revisit the strongest early sites in geological context, and begin reconstructing what the earliest known biosphere was doing.
 
 ## Support registers
 - `chapter-ledgers/04-when-chemistry-became-biology-support-113-120.md`
 - `chapter-ledgers/04-when-chemistry-became-biology-support-121-128.md`
 - `chapter-ledgers/04-when-chemistry-became-biology-support-129-136.md`
 - `chapter-ledgers/04-when-chemistry-became-biology-support-137-144.md`
+- `chapter-ledgers/04-when-chemistry-became-biology-support-145-152.md`
