@@ -3,21 +3,21 @@
 | Pages | Subject | Text | Research | Artwork brief | Fact-check | Phase A |
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 201–208 | Eukaryotic architecture, Asgard ancestry, mitochondria, FECA/LECA and oxygen boundary | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 209–216 | Nucleus, endomembranes, cytoskeleton, chromosome handling and sex | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
-| 217–224 | Multicellularity, Snowball Earth and Ediacaran transition | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 209–216 | Nucleus, endomembranes, cytoskeleton, chromosome handling, introns and sex | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
+| 217–224 | Early eukaryotic fossils, multicellularity, Snowball Earth and Ediacaran transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT |
 
 ## Chapter 7 status
-**Pages 201–208 are TEXT LOCKED for Phase A.**
+**Pages 201–216 are TEXT LOCKED for Phase A.**
 
 ## Evidence boundary
-- Eukaryotes arise from archaeal ancestry closely tied to Asgard archaea, while exact sister placement remains unresolved.
-- 2026 phylogenomics strengthens an Asgard-dominant origin for many core eukaryotic systems but is not treated as the final word on every gene or event order.
-- Mitochondrial endosymbiosis is established; the uptake mechanism and its relative timing within eukaryogenesis remain debated.
-- LECA was already mitochondria-bearing and highly complex.
-- Oxygen and mitochondrial energetics are treated as important constraints/enablers, not sole causes of eukaryogenesis.
+- LECA was already a highly complex, mitochondria-bearing, sexual unicellular eukaryote.
+- Nucleus, endomembrane and phagocytosis event ordering remain unresolved despite stronger 2025–2026 host-complexity evidence.
+- Introns/spliceosome and sex are deeply rooted in eukaryotic history, but their original selective causes remain uncertain.
+- Oxygen/mitochondria enable and constrain complexity without being treated as single sufficient causes.
 
 ## Next target
-Pages **209–216** — reconstruct the nucleus/endomembrane system, cytoskeleton and chromosome handling, then the origin and evolutionary consequences of sex/meiosis.
+Pages **217–224** — earliest eukaryotic fossils and biomarkers; repeated origins of multicellularity; Cryogenian Snowball Earth episodes; survival/refugia and nutrient/redox consequences; Ediacaran organisms and uncertain affinities; end at the threshold of Cambrian ecological diversification.
 
-## Support register
+## Support registers
 - `chapter-ledgers/07-becoming-complex-support-201-208.md`
+- `chapter-ledgers/07-becoming-complex-support-209-216.md`
