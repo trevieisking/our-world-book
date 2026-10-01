@@ -11,20 +11,21 @@
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
 - Chapter 6 pages **177–200** — TEXT LOCKED
+- Chapter 7 pages **201–208** — TEXT LOCKED
 
 ## Next target
 ### Chapter 7 — Becoming Complex
-Pages **201–208**
+Pages **209–216**
 
 Research and draft:
-- define the eukaryotic cell and distinguish it from bacteria/archaea without implying bacteria or archaea are simple/primitive;
-- reconstruct archaeal and bacterial contributions to eukaryotic ancestry;
-- introduce Asgard archaea and eukaryotic-signature proteins without treating any living Asgard lineage as the direct ancestor of eukaryotes;
-- explain mitochondrial endosymbiosis and the alphaproteobacterial contribution;
-- distinguish FECA (first eukaryotic common ancestor) from LECA (last eukaryotic common ancestor);
-- evaluate whether mitochondria came early or late in eukaryogenesis, keeping competing models explicit;
-- separate oxygen availability from the causal mechanics of eukaryogenesis;
-- establish the fossil/genomic evidence boundary before later sections on nucleus, cytoskeleton, sex and multicellularity.
+- nucleus and nuclear-envelope/endomembrane origin models, retaining membrane-origin uncertainty;
+- Asgard-derived cytoskeletal and membrane-remodelling precursors versus fully eukaryotic machinery;
+- phagocytosis/engulfment and whether it preceded or followed mitochondrial acquisition;
+- chromosome organisation, linear chromosomes, mitosis and the emergence of elaborate segregation systems;
+- introns and spliceosome evolution without turning one hypothesis into settled history;
+- origin of sexual reproduction/meiosis and evidence that LECA already possessed major meiotic machinery;
+- benefits/costs of recombination for large genomes, including repair and unlinking mutations;
+- distinguish sex from reproduction and from multicellularity.
 
 ## Production rule
 Continue the manuscript-first loop:
