@@ -7,21 +7,19 @@
 - Prologue pages **017–032** — TEXT LOCKED
 - Chapter 1 pages **033–056** — TEXT LOCKED
 - Chapter 2 pages **057–084** — TEXT LOCKED
-- Chapter 3 pages **085–100** — TEXT LOCKED
+- Chapter 3 pages **085–112** — TEXT LOCKED
 
 ## Next target
-### Chapter 3 — The Water Planet
-Pages **101–108**
+### Chapter 4 — When Chemistry Became Biology
+Pages **113–120**
 
 Research and draft:
-- carbon reservoirs and inorganic carbon chemistry in an anoxic ocean;
-- nitrogen abundance versus chemical accessibility before widespread biological fixation;
-- phosphorus availability and mineral controls;
-- sulfur speciation before ocean oxygenation;
-- abundant dissolved iron and silica under anoxic conditions;
-- mineral precipitation and the sedimentary archive of seawater chemistry;
-- distinguish elemental abundance from biological/prebiotic availability;
-- keep direct samples, proxy reconstruction, experiments and models explicitly separated.
+- define what properties distinguish a living/evolving system from merely complex chemistry;
+- separate modern-cell requirements from plausible primitive systems;
+- replication, heredity, variation, energy coupling, catalysis and compartmentalisation;
+- earliest geological evidence for life and the confidence hierarchy among competing claims;
+- distinguish "life existed by" from "life originated at";
+- establish the evidence window for abiogenesis before evaluating RNA-first, metabolism-first, protocell, vent and hybrid hypotheses.
 
 ## Production rule
 Continue the manuscript-first loop:
