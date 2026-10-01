@@ -10,21 +10,21 @@
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
 - Chapter 5 pages **153–176** — TEXT LOCKED
-- Chapter 6 pages **177–192** — TEXT LOCKED
+- Chapter 6 pages **177–200** — TEXT LOCKED
 
 ## Next target
-### Chapter 6 — The Oxygen Revolution
-Pages **193–200**
+### Chapter 7 — Becoming Complex
+Pages **201–208**
 
 Research and draft:
-- oxygen toxicity, reactive oxygen species and the need for detoxification/repair;
-- aerobic respiration and why oxygen can greatly increase energy yield without claiming one universal ATP number;
-- evolution of oxygen-tolerant/oxygen-using metabolism and persistence of anaerobic refuges;
-- ozone formation and reduction of damaging UV at the surface;
-- later-GOE oxygen fluctuations, including the Lomagundi carbon-isotope excursion and debated O2 overshoot/decline;
-- ecological consequences of changing redox/nutrient conditions;
-- distinguish first persistent oxygen from modern atmospheric levels;
-- close Chapter 6 and transition to Chapter 7 — Becoming Complex — without implying oxygen alone caused eukaryogenesis.
+- define the eukaryotic cell and distinguish it from bacteria/archaea without implying bacteria or archaea are simple/primitive;
+- reconstruct archaeal and bacterial contributions to eukaryotic ancestry;
+- introduce Asgard archaea and eukaryotic-signature proteins without treating any living Asgard lineage as the direct ancestor of eukaryotes;
+- explain mitochondrial endosymbiosis and the alphaproteobacterial contribution;
+- distinguish FECA (first eukaryotic common ancestor) from LECA (last eukaryotic common ancestor);
+- evaluate whether mitochondria came early or late in eukaryogenesis, keeping competing models explicit;
+- separate oxygen availability from the causal mechanics of eukaryogenesis;
+- establish the fossil/genomic evidence boundary before later sections on nucleus, cytoskeleton, sex and multicellularity.
 
 ## Production rule
 Continue the manuscript-first loop:
