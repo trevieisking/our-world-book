@@ -68,6 +68,11 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-025 | 061 | Hf–W core-formation clock | SCIENTIFIC DIAGRAM | Hf retained in silicate, W partitioning into metal, 182Hf -> 182W decay, isotope record after separation. | Diagram must say chronology is model-dependent and affected by incomplete equilibration. | ✅ | ⬜ | ⬜ |
 | IMG-026 | 062–063 | How we know Earth's interior | SCIENTIFIC DIAGRAM | P- and S-wave paths, liquid outer core, solid inner core, Fe–Ni + light-element composition inference, high-pressure experiment callout. | Do not imply direct sampling of Earth's core or certainty about exact light-element proportions. | ✅ | ⬜ | ⬜ |
 
+| IMG-027 | 065–066 | Giant-impact origin constraints | SCIENTIFIC RECONSTRUCTION / DIAGRAM | Show a late-stage planetary collision producing silicate-rich bound debris; distinguish observed constraints from reconstructed geometry. | Do not present one exact Theia size, speed, angle or colour as established. | ✅ | ⬜ | ⬜ |
+| IMG-028 | 067–069 | Earth–Moon isotope and angular-momentum constraint map | SCIENTIFIC DIAGRAM | Compare near-identical isotope systems, small measured differences, present angular-momentum constraint, and the main model families. | Do not imply all model families are equally supported or that near-identical means perfectly identical. | ✅ | ⬜ | ⬜ |
+| IMG-029 | 070 | Debris to Moon / lunar magma ocean | SCIENTIFIC RECONSTRUCTION | Bound debris or post-impact silicate structure -> accreting Moon -> molten lunar body -> anorthositic crust flotation concept. | Exact disk geometry and accretion timescale remain model-dependent; avoid copying existing simulation frames. | ✅ | ⬜ | ⬜ |
+| IMG-030 | 071–072 | Moon chronology and post-impact Earth | TIMELINE / SCIENTIFIC DIAGRAM | Show Solar-System start, candidate Moon-formation interval, ~4.35-Ga remelting hypothesis, cooling Earth and early Moon; clearly separate formation from later resetting. | No single exact Moon birthday; Theia-remnant-in-LLVP idea may be a small hypothesis callout only, not the main diagram. | ✅ | ⬜ | ⬜ |
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 
