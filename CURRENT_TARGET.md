@@ -9,21 +9,20 @@
 - Chapter 2 pages **057–084** — TEXT LOCKED
 - Chapter 3 pages **085–112** — TEXT LOCKED
 - Chapter 4 pages **113–152** — TEXT LOCKED
-- Chapter 5 pages **153–168** — TEXT LOCKED
+- Chapter 5 pages **153–176** — TEXT LOCKED
 
 ## Next target
-### Chapter 5 — A Planet of Microbes
-Pages **169–176**
+### Chapter 6 — The Oxygen Revolution
+Pages **177–184**
 
 Research and draft:
-- stromatolite diversification in younger Archean successions, especially Strelley Pool and comparable sites;
-- increasingly convincing microfossils and the criteria that distinguish cells from abiotic mineral shapes;
-- the Apex chert controversy and what false positives teach about 2D morphology, contamination and geological context;
-- evidence for microbial colonisation of additional shallow-water, terrestrial and hydrothermal habitats;
-- distinguish anoxygenic phototrophy from oxygenic photosynthesis throughout;
-- assess the timing of oxygenic photosynthesis using geology, geochemistry, molecular clocks and cyanobacterial evolution without assigning an unsupported exact origin date;
-- introduce local oxygen oases/oxidative signals before the Great Oxidation Event only where supported;
-- close Chapter 5 at the threshold of planetary oxygenation so Chapter 6 retains the Great Oxidation Event itself.
+- define the Great Oxidation Event as a sustained atmospheric/ocean-surface redox transition rather than the origin of oxygenic photosynthesis;
+- establish chronology using current geochronological constraints and note that exact onset/duration remain refined by new work;
+- explain sulfur mass-independent fractionation and why its disappearance constrains atmospheric O2;
+- distinguish pre-GOE oxygen oases and whiffs from persistent atmospheric accumulation;
+- explain oxygen source/sink balance, including organic-carbon burial, reduced volcanic/metamorphic gases, ferrous iron, sulfur and crustal weathering;
+- assess tectonic, nutrient, hydrogen-escape and productivity feedbacks without selecting one exclusive trigger;
+- introduce ecological and mineralogical consequences while reserving later Proterozoic oxygenation for later chapters.
 
 ## Production rule
 Continue the manuscript-first loop:
