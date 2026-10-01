@@ -8,21 +8,21 @@
 - Chapter 1 pages **033–056** — TEXT LOCKED
 - Chapter 2 pages **057–084** — TEXT LOCKED
 - Chapter 3 pages **085–112** — TEXT LOCKED
-- Chapter 4 pages **113–136** — TEXT LOCKED
+- Chapter 4 pages **113–144** — TEXT LOCKED
 
 ## Next target
 ### Chapter 4 — When Chemistry Became Biology
-Pages **137–144**
+Pages **145–152**
 
 Research and draft:
-- define metabolism functionally before projecting modern pathways backward;
-- explain free energy, redox reactions and chemical disequilibrium as sources of usable work;
-- examine natural proton and redox gradients, especially alkaline hydrothermal systems;
-- iron–sulfur and transition-metal minerals as catalysts and the limits of mineral-to-enzyme analogy;
-- experimentally demonstrated carbon-fixation-like and protometabolic reaction networks;
-- compare metabolism-first ideas with RNA-first and hybrid models rather than forcing a false choice;
-- distinguish modern biochemical similarity from direct proof of historical ancestry;
-- identify which parts of vent/geochemical-energy scenarios are established, plausible, contested or unresolved.
+- compare wet–dry cycling, freshwater/hot-spring, UV-lit surface, ice/eutectic, mineral-surface and hydrothermal environments;
+- identify what each environment solves and what it makes harder;
+- examine transport and handoff of products between physically distinct settings rather than demanding one origin flask;
+- distinguish plausible multi-environment sequences from demonstrated historical routes;
+- synthesize what laboratory chemistry has actually achieved by 2026 across RNA, protocells and protometabolism;
+- state the missing complete bridge from non-life to an autonomous, open-ended Darwinian cellular system;
+- close Chapter 4 without converting the unknown mechanism into evidence for any preferred non-scientific explanation;
+- transition into Chapter 5 — A Planet of Microbes — where the investigation follows the surviving geological biosphere record.
 
 ## Production rule
 Continue the manuscript-first loop:
