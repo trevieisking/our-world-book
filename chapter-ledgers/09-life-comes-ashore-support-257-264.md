@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 262:** 2026-10-02  
+**Verified through page 263:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -30,6 +30,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0148 | 262 | CONFIRMED (reported attached fossil parts): Stein et al. link Wattieza crown morphology with an Eospermatopteris trunk and base, resolving major parts of the Gilboa tree reconstruction. | S9-57 | An attached specimen is stronger than association; casts record morphology without necessarily preserving cellular anatomy. |
 | E-0149 | 262 | CONFIRMED (mapped structures); STRONGLY SUPPORTED (palaeoecology): The 2010 Gilboa exposure yielded a roughly 1,200-square-metre map of in-place Eospermatopteris roots, woody horizontal axes and lycophyte tree evidence, supporting a mixed wetland forest. | S9-58 | Climbing is inferred, and the mapped rooting surface samples one local community rather than all Devonian forests. |
 | E-0150 | 262 | CONFIRMED (reviewed diversity); UNRESOLVED (full relationships): A September 2026 specialist review emphasises cladoxylopsid structural diversity and unresolved relationships with major living and extinct plant lineages. | S9-59 | Modern-looking silhouettes are not phylogenetic evidence by themselves; no complete living analogue or direct ancestral identity is asserted. |
+| E-0151 | 263 | CONFIRMED (root traces); STRONGLY SUPPORTED (attribution): Cairo surface maps and soil cores preserve extensive branched roots and depth traces assigned comparatively to the Archaeopteris group; other fossils show modern-like growth with spore reproduction. | S9-60; S9-61 | Root assignment does not imply every trace preserves diagnostic wood; architectural resemblance is not seed reproduction or a demonstrated direct living ancestor. |
+| E-0152 | 263 | CONFIRMED (upright fossils); STRONGLY SUPPORTED (age and ecology): Svalbard lycophyte stands preserve swollen bases and small ribbon-like roots; spore evidence supports an early Late Devonian age rather than the previous latest-Devonian attribution. | S9-62 | One local wet-soil basin is not a universal forest stage; modern geography does not establish ancient climate. |
+| E-0153 | 263 | CONFIRMED (forest evidence); STRONGLY SUPPORTED (older record and sediment context): The 2024 Hangman Sandstone study extends forest evidence into an earlier Middle Devonian interval than the New York sites and documents uneven preservation of plant–sediment interactions. | S9-63 | Approximately 390 million years is a contextual age, not an exact first-forest origin; preservation varies across depositional settings. |
 
 ## Sources and access record
 
@@ -58,6 +61,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-57:** Stein, W. E., Mannolini, F., Hernick, L. V., Landing, E. & Berry, C. M. (2007), *Giant cladoxylopsid trees resolve the enigma of the Earth's earliest forest stumps at Gilboa*. **Nature** 446, 904–907. [doi:10.1038/nature05705](https://doi.org/10.1038/nature05705). Indexed primary abstract checked for intact crown attachment to trunk and base; New York State Museum bibliographic record verified. Direct publisher body unavailable. Historical oldest-forest wording is not adopted as current ranking.
 - **S9-58:** Stein, W. E., Berry, C. M., Hernick, L. V. & Mannolini, F. (2012), *Surprisingly complex community discovered in the mid-Devonian fossil forest at Gilboa*. **Nature** 483, 78–81. [doi:10.1038/nature10819](https://doi.org/10.1038/nature10819). Full publisher abstract and figure descriptions checked for field year, mapped area, in-place roots, plant groups and wetland interpretation. Subscription body not accessed.
 - **S9-59:** Durieux, T., Meyer-Berthaud, B. & Tomescu, A. M. F. (2026), *Systematics and evolution of cladoxylopsids: a consequential yet underappreciated tracheophyte group with a deep fossil history*. **Journal of Paleontology**, First View, 1–20. [doi:10.1017/jpa.2026.10278](https://doi.org/10.1017/jpa.2026.10278). Published 24 September 2026. Full publisher abstract, introduction and classification discussion checked for diversity, anatomical complexity and unresolved relationships; an untested monophyly assumption is not presented as settled.
+- **S9-60:** Stein, W. E. et al. (2020), *Mid-Devonian Archaeopteris Roots Signal Revolutionary Change in Earliest Fossil Forests*. **Current Biology** 30, 421–431.e2. [doi:10.1016/j.cub.2019.11.067](https://doi.org/10.1016/j.cub.2019.11.067). [Author manuscript](https://eprints.whiterose.ac.uk/id/eprint/157363/1/Stein%20Berry%20Morris%20%20et%20al%202019.pdf) checked for mapping, cores, root dimensions, depth and comparative identification. Online 2019 / issue 2020. Historical oldest-forest ranking not carried forward.
+- **S9-61:** Meyer-Berthaud, B., Scheckler, S. E. & Wendt, J. (1999), *Archaeopteris is the earliest known modern tree*. **Nature** 398, 700–701. [doi:10.1038/19516](https://doi.org/10.1038/19516). Indexed publisher abstract and author-deposited text checked for spore reproduction and branching / wood comparisons. 'Modern' is limited to specified architectural features; title not used as a universal tree-origin claim.
+- **S9-62:** Berry, C. M. & Marshall, J. E. A. (2015), *Lycopsid forests in the early Late Devonian paleoequatorial zone of Svalbard*. **Geology** 43, 1043–1046. [doi:10.1130/G37000.1](https://doi.org/10.1130/G37000.1). [Author-deposited published article](https://orca.cardiff.ac.uk/id/eprint/81746/1/Geology-2015-Berry-1043-6.pdf) checked for root shape, upright stands, spore dating and sedimentary setting. Primary article year 2015 takes precedence over a conflicting repository metadata year; no global climate effect asserted here.
+- **S9-63:** Davies, N. S., McMahon, W. J. & Berry, C. M. (2024), *Earth's earliest forest: fossilized trees and vegetation-induced sedimentary structures from the Middle Devonian (Eifelian) Hangman Sandstone Formation, Somerset and Devon, SW England*. **Journal of the Geological Society** 181, jgs2023-204. [doi:10.1144/jgs2023-204](https://doi.org/10.1144/jgs2023-204). Full [author-repository abstract](https://orca.cardiff.ac.uk/id/eprint/166971/) checked for fossil attribution, stratigraphic interval and preservation bias. Full PDF unavailable. Approximate 390-million-year age corroborated by the [research team's university account](https://www.cam.ac.uk/stories/earths-earliest-forest-somerset). Record extension, not exact evolutionary origin, is asserted.
 
 ## Page checks
 
@@ -69,9 +76,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 | 260 | 511 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 261 | 515 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 262 | 513 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 263 | 519 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 263–264.**
+**Chapter 9 — Life Comes Ashore, pages 264–264.**
