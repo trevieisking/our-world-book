@@ -13,16 +13,16 @@
 - Chapter 5 pages **153–176** — TEXT LOCKED
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
-- Chapter 8 pages **225–246** — TEXT LOCKED
+- Chapter 8 pages **225–247** — TEXT LOCKED
 
 ## Next target
 ### Chapter 8 — The Cambrian World
-Pages **247–248**
+Pages **248–248**
 
-Next individual page: **247**. Complete remaining Cambrian environments, ecological innovations, turnover, evidence limits and transition toward life ashore.
+Next individual page: **248**. Complete remaining Cambrian environments, ecological innovations, turnover, evidence limits and transition toward life ashore.
 
 ## Completed checkpoints
-Pages 241–246 are now researched, written and fact-checked in separate GitHub page checkpoints. Artwork remains pending.
+Pages 241–247 are now researched, written and fact-checked in separate GitHub page checkpoints. Artwork remains pending.
 
 Pages 225–232 were recovered, fact-checked and locked. Pages 233–240 are now researched, drafted, fact-checked and TEXT LOCKED, with eight new artwork briefs and fourteen claim checkpoints.
 

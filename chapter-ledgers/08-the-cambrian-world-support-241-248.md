@@ -1,8 +1,8 @@
 # Chapter 8 support register — pages 241–248
 
-**Verified through page 246:** 2026-10-02  
+**Verified through page 247:** 2026-10-02  
 **Phase:** A — manuscript / research  
-**Decision:** pages 241–246 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
+**Decision:** pages 241–247 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
 
 ## Scope and evidence boundary
 
@@ -28,6 +28,9 @@ This section widens from individual animals to environments, ecological change a
 | E-0100 | 246 | ESTABLISHED fossil occurrence: Fezouata fossils document early Ordovician persistence of lineages associated with Cambrian Burgess Shale-type communities. | S8-59 | Younger and distinct communities; no survival of every Cambrian species or unchanged ecosystem. |
 | E-0101 | 246 | STRONGLY SUPPORTED comparative analysis / proposed mechanism: Chengjiang, Burgess Shale and Fezouata have different tissue-preservation profiles; resistant tissues may protect softer structures at Fezouata. | S8-60 | Inventory and tissue-association analysis; exceptional deposits are not equally complete censuses. |
 | E-0102 | 246 | STRONGLY SUPPORTED dataset-specific analysis: Fezouata preservation varies with ecological category and between studied Ordovician intervals. | S8-61 | Regional dataset; no universal preservation ranking for all predators or periods. |
+| E-0103 | 247 | ESTABLISHED current international calibration: The June 2026 ICS chart assigns the Cambrian–Ordovician boundary 486.85 ± 1.5 Ma, with Cambrian base 538.8 ± 0.6 Ma. | S8-62 | Numerical calibration has uncertainty and may be revised; approximate duration is derived from chart values. |
+| E-0104 | 247 | ESTABLISHED formal reference definition: The Ordovician base is referenced to the Green Point GSSP within Bed 23, associated with the local first occurrence of Iapetognathus fluctivagus. | S8-63 | Reference-section occurrence is not a worldwide evolutionary-origin timestamp; correlation and dating are distinct. |
+| E-0105 | 247 | STRONGLY SUPPORTED synthesis / definition-dependent scope: Ordovician marine diversification comprises overlapping, regionally and ecologically varied increases rather than one instantaneous global event. | S8-64; S8-59 for lineage continuity | GOBE usage varies between broad radiation and particular pulses; no universal synchrony. |
 
 ## Sources and access record
 
@@ -53,6 +56,9 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 - **S8-59:** Van Roy et al. (2010), [Ordovician faunas of Burgess Shale type](https://doi.org/10.1038/nature09038). Accessible publisher primary abstract checked for post-Cambrian occurrence; subscription full text not claimed as read.
 - **S8-60:** Saleh et al. (2020), [Taphonomic bias in exceptionally preserved biotas](https://doi.org/10.1016/j.epsl.2019.115873). [Lausanne archived article](https://api.unil.ch/iris/server/api/core/bitstreams/7082ef8a-cc83-4604-b01b-39f551b40f26/content) checked for tissue categories, comparison and proposed protective associations. Older numerical age estimates in the article are not adopted.
 - **S8-61:** Saleh et al. (2024), [Highly resolved taphonomic variations within the Early Ordovician Fezouata Biota](https://doi.org/10.1038/s41598-024-71622-w). Accessible article checked for ecological-category and Tremadocian/Floian preservation differences; regional limits retained.
+- **S8-62:** International Commission on Stratigraphy, [International Chronostratigraphic Chart, June 2026](https://stratigraphy.org/ICSchart/ChronostratChart2026-06.pdf), reached through the [official chart archive](https://stratigraphy.org/supplementary). PDF text and visual chart checked for age placement and uncertainties.
+- **S8-63:** ICS, [GSSP for Tremadocian Stage](https://stratigraphy.org/gssps/tremadocian), citing Cooper, Nowlan & Williams (2001), [Global Stratotype Section and Point for base of the Ordovician System](https://doi.org/10.18814/epiiugs/2001/v24i1/005). Official current definition checked; physical reference distinguished from numerical age and evolutionary origin.
+- **S8-64:** Servais & Harper (2018), [The Great Ordovician Biodiversification Event (GOBE): definition, concept and duration](https://doi.org/10.1111/let.12259). [Lund author abstract](https://portal.research.lu.se/en/publications/the-great-ordovician-biodiversification-event-gobe-definition-con/) and indexed primary publisher passages checked for sequential/overlapping phases and definition differences.
 
 ## Page checks
 
@@ -64,9 +70,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 | 244 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 245 | 502 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 246 | 510 | ✅ | ✅ | Separate page checkpoint before researching the next page |
+| 247 | 505 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 
 All completed pages reviewed for continuity. Artwork and final layout remain pending. Earlier chapter records retain their authority.
 
 ## Next target
 
-**Page 247**, then continue through page 248.
+**Page 248**, then continue through page 248.
