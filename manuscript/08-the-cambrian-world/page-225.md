@@ -1,5 +1,5 @@
 # CHAPTER EIGHT — THE CAMBRIAN WORLD
-## Page 225 — Controlled manuscript draft v0.1
+## Page 225 — Controlled manuscript v0.2 — TEXT LOCKED (Phase A)
 
 ### AN EXPLOSION WITH A PREHISTORY
 
@@ -53,7 +53,7 @@ This last point matters.
 
 An animal with a shell fossilises more readily than a soft-bodied ancestor.
 
-A deep burrow survives when the animal that dug it decays.
+A burrow can survive when the animal that dug it decays.
 
 Exceptional deposits can preserve eyes, guts and nervous tissue that ordinary sediments lose.
 
@@ -81,7 +81,7 @@ The spectacular Chengjiang ecosystem comes later still, around 518 million years
 
 The Burgess Shale is younger again.
 
-This is a radiation measured in **tens of millions of years**.
+The broader radiation extends over **tens of millions of years**, with especially rapid phases within that interval.
 
 That is extremely rapid on the scale of animal evolution.
 
@@ -117,7 +117,7 @@ Ecological feedback.
 
 Exceptional fossil preservation.
 
-All contribute to different parts of the pattern.
+These are candidate influences on different parts of the pattern; their relative contributions remain debated.
 
 The challenge is to ask which observation each mechanism actually explains.
 

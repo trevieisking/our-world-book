@@ -1,5 +1,5 @@
 # CHAPTER EIGHT — THE CAMBRIAN WORLD
-## Page 228 — Controlled manuscript draft v0.1
+## Page 228 — Controlled manuscript v0.2 — TEXT LOCKED (Phase A)
 
 ### THE SMALL SHELLY WORLD
 
@@ -39,7 +39,7 @@ Some remain difficult to classify.
 
 What unites many of them is **biomineralisation**.
 
-Animals begin incorporating calcium carbonate, calcium phosphate or silica into durable structures.
+Different lineages incorporate calcium carbonate, calcium phosphate or silica into durable structures.
 
 Mineralised skeletons had Ediacaran precedents.
 
@@ -63,7 +63,7 @@ A hard feeding element cuts or scrapes.
 
 A rigid support allows a body to push against sediment.
 
-Mineral skeletons increase body size or stiffness.
+Mineral skeletons can support larger or stiffer bodies.
 
 They also provide surfaces for muscles to pull against.
 
@@ -131,7 +131,7 @@ Suddenly, predator and prey leave evidence on the **same fossil**.
 
 That makes a new kind of evolutionary history possible.
 
-Instead of inferring predation because one animal looks dangerous, we can watch defence change in response to attack through a stratigraphic sequence.
+Instead of inferring predation only because one animal looks dangerous, we can compare defensive structures and damage through a stratigraphic sequence.
 
 In South Australia, one early Cambrian animal preserved exactly that record.
 
@@ -139,7 +139,9 @@ Its armour got thicker.
 
 The predators kept drilling.
 
-And for the first time in deep time, we can see an arms race operating at population scale.
+The resulting study provides an unusually early population-level record consistent with an evolutionary arms race.
+
+The predator's identity and its own adaptive changes are less directly constrained.
 
 ---
 

@@ -1,5 +1,5 @@
 # CHAPTER EIGHT — THE CAMBRIAN WORLD
-## Page 226 — Controlled manuscript draft v0.1
+## Page 226 — Controlled manuscript v0.2 — TEXT LOCKED (Phase A)
 
 ### THE BOUNDARY IS A BURROW
 
@@ -9,7 +9,7 @@ Nature rarely provides a perfect one.
 
 The formal base of the Cambrian is defined at Fortune Head in Newfoundland, Canada.
 
-The traditional biological marker is the first appearance of the trace-fossil species **Treptichnus pedum**.
+The chosen marker was the lowest occurrence then recognised of the trace-fossil species ***Treptichnus pedum*** at that section.
 
 The fossil is not the body of an animal.
 
@@ -29,7 +29,7 @@ There is something fitting about that.
 
 The coming revolution will transform the sediment itself.
 
-But *Treptichnus* creates a chronological problem.
+But a trace fossil creates a chronological problem.
 
 Trace fossils depend heavily on environment.
 
@@ -39,7 +39,11 @@ The same animal can make different traces in different substrates.
 
 Similar traces can be made by different animals.
 
-Treptichnid burrows also occur in terminal Ediacaran successions.
+Related treptichnid burrows occur below the boundary.
+
+They must not automatically be identified as the boundary-marker species *T. pedum*.
+
+That species has a broad environmental tolerance within shallow marine settings, so the pattern is not simply a change in sediment type.
 
 So the first local appearance of one trace cannot be assumed to equal the evolutionary origin of the animal that made it.
 
@@ -49,7 +53,9 @@ It is not a claim that animals crossed an evolutionary line on that day.
 
 High-precision geochronology has continued refining the age.
 
-Recent work brackets the Ediacaran–Cambrian transition close to **538.8 million years ago**, with uncertainties of a few hundred thousand years in some successions.
+The June 2026 International Chronostratigraphic Chart gives the base of the Cambrian as **538.8 ±0.6 million years ago**.
+
+This is the numerical calibration of the boundary, not its definition. The physical reference point in the rock remains the formal standard.
 
 Different calibration models can shift correlations modestly.
 
@@ -103,9 +109,9 @@ Its roots cross from one side to the other.
 
 But after the boundary, one ecological transformation becomes increasingly obvious in trace fossils.
 
-Animals stop merely walking across or lightly probing microbial-mat surfaces.
+Animals increasingly move beyond walking across or lightly probing microbial-mat surfaces.
 
-They begin entering sediment.
+Penetration of sediment expands.
 
 Repeatedly.
 
@@ -122,9 +128,9 @@ And unlike a body fossil, a disturbed sediment can record the cumulative work of
 ---
 
 ## Research / fact-check notes
-- Formal base Cambrian GSSP at Fortune Head traditionally tied to FAD of *Treptichnus pedum*.
-- Boundary age is currently treated near ~538.8 Ma; recent high-resolution Namibia/Ediacaran correlations bracket the transition tightly but do not make biology synchronous.
-- *Treptichnus* and treptichnid traces have environmental/facies limitations and terminal-Ediacaran antecedents.
+- ICS GSSP description: physical reference at Fortune Head, selected using the lowest occurrence of *T. pedum* recognised in 1992.
+- ICS chart v2026/06: 538.8 ±0.6 Ma; age calibration is distinguished from the physical definition.
+- Buatois (2018; online 2017), DOI: 10.1017/S0016756817000656: related treptichnids below the boundary are not automatically *T. pedum*; its broad environmental tolerance guards against an exclusively facies-based explanation.
 - First fossil appearance is separated explicitly from evolutionary origination.
 
 **Decision:** the boundary is treated as a correlation tool, not an evolutionary instant.

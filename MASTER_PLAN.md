@@ -189,4 +189,6 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — MANUSCRIPT / RESEARCH PASS. Prologue pages 017–032 are text-locked. Next: research and draft Chapter 1, pages 033–056 — Before There Was an Earth. Artwork is planned now but generated later in Phase B.**
+**PHASE A — MANUSCRIPT / RESEARCH PASS. Narrative pages 017–232 are TEXT LOCKED. Chapter 8 is complete through pages 225–232; next: research and draft pages 233–240 — named Cambrian communities, evolutionary relationships and animal structures/ecologies. Artwork is planned now and generated later in Phase B.**
+
+Read `CURRENT_TARGET.md`, the Chapter 8 ledger and its support register for the current checkpoint. This is manuscript progress, not final book completion.

@@ -3,6 +3,9 @@
 **Book target:** 544 pages  
 **Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
+
+**Active checkpoint (2026-10-02):** narrative pages 017–232 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–232 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means an evidence-constrained Phase B brief, not a finished image.
+
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
 | 001 | Front Matter | Half-title — OUR WORLD | 🟨 | — | — | — | ⬜ |
@@ -229,14 +232,14 @@
 | 222 | Ch. 7 — Becoming Complex | Ch. 7 — Becoming Complex — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 223 | Ch. 7 — Becoming Complex | Ch. 7 — Becoming Complex — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 224 | Ch. 7 — Becoming Complex | Ch. 7 — Becoming Complex — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 225 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 226 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 227 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 228 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 229 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 230 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 231 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 232 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 225 | Ch. 8 — The Cambrian World | Cambrian radiation with Ediacaran roots; biological change and fossil visibility | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 226 | Ch. 8 — The Cambrian World | Fortune Head GSSP, numerical age and first-appearance caveats | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 227 | Ch. 8 — The Cambrian World | Staged substrate revolution; mixing versus burrow ventilation | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 228 | Ch. 8 — The Cambrian World | Small shelly fossils, repeated biomineralisation and preservation filters | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 229 | Ch. 8 — The Cambrian World | Lapworthella armour, injury patterns and inferred ecological arms race | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 230 | Ch. 8 — The Cambrian World | Compound eyes, sensory ecology and species-specific feeding mechanics | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 231 | Ch. 8 — The Cambrian World | Lagerstätten, burial chemistry and Chengjiang depositional setting | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 232 | Ch. 8 — The Cambrian World | Evidence-graded food webs and interacting environmental/ecological drivers | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 233 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 234 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 235 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |

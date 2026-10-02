@@ -73,6 +73,18 @@ After the image is approved, update the Image Ledger and continue to the next ar
 | IMG-029 | 070 | Debris to Moon / lunar magma ocean | SCIENTIFIC RECONSTRUCTION | Bound debris or post-impact silicate structure -> accreting Moon -> molten lunar body -> anorthositic crust flotation concept. | Exact disk geometry and accretion timescale remain model-dependent; avoid copying existing simulation frames. | ✅ | ⬜ | ⬜ |
 | IMG-030 | 071–072 | Moon chronology and post-impact Earth | TIMELINE / SCIENTIFIC DIAGRAM | Show Solar-System start, candidate Moon-formation interval, ~4.35-Ga remelting hypothesis, cooling Earth and early Moon; clearly separate formation from later resetting. | No single exact Moon birthday; Theia-remnant-in-LLVP idea may be a small hypothesis callout only, not the main diagram. | ✅ | ⬜ | ⬜ |
 
+| IMG-172 | 225 | Cambrian ancestry/radiation/visibility timeline | TIMELINE | Multiple pulses and Ediacaran antecedents | No instant origination or false precision | ✅ | ⬜ | ⬜ |
+| IMG-173 | 226 | GSSP and numerical age | SCIENTIFIC DIAGRAM | Fortune Head; 538.8 ±0.6 Ma; trace geometry | No identified trace-maker or automatic treptichnid equivalence | ✅ | ⬜ | ⬜ |
+| IMG-174 | 227 | Animal-sediment engineering | SCIENTIFIC DIAGRAM | Staged local transition; mixing separate from ventilation | No uniform global timing | ✅ | ⬜ | ⬜ |
+| IMG-175 | 228 | SSF categories and preservation | SCIENTIFIC DIAGRAM | Whole shells versus isolated parts; microfacies filters | No invented animal assembled from uncertain plates | ✅ | ⬜ | ⬜ |
+| IMG-176 | 229 | Armour evidence and inference | SCIENTIFIC DIAGRAM | Observed damage versus adaptive interpretation | No invented predator or fabricated plotted measurements | ✅ | ⬜ | ⬜ |
+| IMG-177 | 230 | Compound-eye anatomy and function | SCIENTIFIC DIAGRAM | Measured lenses separate from inferred ecology | No subjective sight or universal radiodont diet | ✅ | ⬜ | ⬜ |
+| IMG-178 | 231 | Burial/preservation pathways | SCIENTIFIC DIAGRAM | Site-specific deposition and oxidant restriction | No universal cement mechanism or mixed assemblage | ✅ | ⬜ | ⬜ |
+| IMG-179 | 232 | Evidence-graded food web | SCIENTIFIC DIAGRAM | Producers, consumers, decomposition; confidence legend | No fabricated species links or measured numerical network | ✅ | ⬜ | ⬜ |
+
+## Chapter 8 briefs
+Full Phase B constraints, caption intents and evidence links for IMG-172–IMG-179 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md`. Earlier IDs IMG-031–IMG-171 remain controlled by earlier chapter support registers until book-wide integration. No images generated in the 2026-10-02 recovery pass.
+
 ## File naming convention
 `artwork/<chapter>/<IMG-ID>-short-description-vNN.png`
 

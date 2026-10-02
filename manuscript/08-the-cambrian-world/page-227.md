@@ -1,5 +1,5 @@
 # CHAPTER EIGHT — THE CAMBRIAN WORLD
-## Page 227 — Controlled manuscript draft v0.1
+## Page 227 — Controlled manuscript v0.2 — TEXT LOCKED (Phase A)
 
 ### ANIMALS REBUILD THE SEAFLOOR
 
@@ -15,11 +15,11 @@ Cambrian animals increasingly lived **in** the sediment.
 
 That difference changed the physical planet.
 
-A burrowing animal mixes grains.
+A burrowing animal can mix grains.
 
-It pumps water into sediment.
+Some also pump water through burrows, an activity called **bioirrigation**.
 
-It carries oxygen downward.
+Where that water contains oxygen, ventilation can carry it into the sediment.
 
 It moves organic matter.
 
@@ -35,11 +35,11 @@ The broader transition from mat-dominated to increasingly churned substrates is 
 
 It was not instantaneous.
 
-A 2025 analysis of the Chapel Island Formation in Newfoundland assembled the largest high-resolution trace-fossil dataset yet used for this transition.
+A 2025 analysis of the Chapel Island Formation in Newfoundland assembled what its authors described as the largest trace-fossil dataset then available for investigating this transition.
 
 The rocks preserve about twenty million years from the latest Ediacaran through Cambrian Age 2.
 
-The study measured more than fossil names.
+Gougeon and colleagues measured more than fossil names.
 
 Burrow depth.
 
@@ -79,7 +79,7 @@ Behavioural innovation was not uniform across every environment.
 
 Lower offshore settings appear to have acted as an early centre of diversification.
 
-New behaviours later expanded into shallower environments.
+The authors infer that new behaviours later expanded into shallower environments; this pattern is not a direct observation of every Cambrian basin.
 
 Again, evolution and first local fossil appearance are not the same thing.
 
@@ -87,11 +87,11 @@ The ecological consequences extend beyond the burrower.
 
 Microbial mats become less continuous.
 
-Animals that depend on intact mats lose habitat.
+Animals that depend on intact mats can lose habitat.
 
 Other organisms gain newly oxygenated pore space.
 
-Suspension feeders benefit when sediment chemistry changes.
+Changing sediment conditions can favour some inhabitants while disadvantaging others.
 
 Deposit feeders access buried organic matter.
 
@@ -139,9 +139,9 @@ Animals modify the substrate and thereby modify selection.
 
 This creates feedback.
 
-A deeper burrow escapes surface predators.
+A deeper burrow can provide refuge from surface predators.
 
-Predators evolve digging or probing behaviours.
+That can favour predators capable of digging or probing.
 
 Better sediment ventilation opens deeper habitats.
 
@@ -174,8 +174,8 @@ A rain of pieces geologists call the **small shelly fossils**.
 ---
 
 ## Research / fact-check notes
-- Mángano et al. (2025/current publication), *Current Biology*: Chapel Island trace-fossil record supports staged transition from Ediacaran matground to Fortunian matground/firmground and later mixground ecology.
+- Gougeon et al. (2025), *Current Biology*, DOI: 10.1016/j.cub.2024.11.028: Chapel Island trace-fossil record supports staged transition from Ediacaran matground to Fortunian matground/firmground and later mixground ecology.
 - Metrics include bioturbation intensity, burrow depth/width, tiering and ichnodiversity; lower offshore settings are interpreted as early centres of behavioural diversification.
-- Bioturbation affects sediment oxygenation, organic-carbon remineralisation and nutrient/sulfur cycling.
+- Sediment mixing (bioturbation) is distinguished from ventilation (bioirrigation); geochemical effects vary with environment and animal activity.
 
 **Decision:** Cambrian Substrate Revolution is presented as a staged ecological-engineering transition, not a synchronous global event.
