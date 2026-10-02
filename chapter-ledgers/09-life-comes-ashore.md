@@ -15,11 +15,12 @@
 | 259 | Root identity: Asteroxylon tips, connected axes and independent evolutionary origins | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 260 | Leaf origins: anatomy, reused developmental mechanisms, phyllotaxis and heat balance | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 261 | Wood before large trees: cambial anatomy, hydraulic estimates and varied trunk growth | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 262–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 262 | Gilboa: connected tree reconstruction, in-place roots and a mixed forest community | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 263–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–261 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–262 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -43,4 +44,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 262–264:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 263–264:** continue the research/write/commit loop.
