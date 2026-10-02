@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 249–256
 
-**Verified through page 250:** 2026-10-02  
+**Verified through page 251:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. All artwork work deferred until the whole manuscript is written.
 
@@ -18,6 +18,9 @@ The opening pages follow terrestrial habitats, early microbial occupation, algal
 | E-0112 | 250 | STRONGLY SUPPORTED biological and depositional interpretation: Moodies Group carbon-rich mats in deposits interpreted as fluvial document continental microbial activity roughly 3.22 billion years ago. | S9-06, S9-10 | Local wet continental setting; isotope contrast does not identify all taxa or establish permanent dry residence, global coverage or an origin date. |
 | E-0113 | 250 | ESTABLISHED methodological distinction: Ancient soils and weathering profiles require contextual identification; abiotic alteration and selective organic preservation constrain biological inference. | S9-07, S9-08 | Weathering alone does not prove life; loss, alteration or later introduction of organic material needs assessment. |
 | E-0114 | 250 | STRONGLY SUPPORTED modern ecological synthesis: Microbial communities occupy young volcanic substrates and can influence mineral alteration and later ecological development. | S9-09 | Modern mechanisms are comparisons, not identical Archean communities; metabolisms and succession vary by site. |
+| E-0115 | 251 | STRONGLY SUPPORTED phylogenetic relationship: Genome-scale comparisons support Zygnematophyceae as the closest living algal relatives of land plants. | S9-11, S9-12, S9-13, S9-14 | Living sister lineage is not an unchanged direct ancestor; exact ancestral phenotype requires further inference. The 2019 study retains uncertainty in deep short branches. |
+| E-0116 | 251 | ESTABLISHED comparative genomic findings / inferred ancestral traits: Four filamentous zygnematophyte genomes reveal shared cell-wall enzymes and co-expression networks linking environment and growth. | S9-12 | Co-expression and gene homology do not directly recover an ancestral genome or prove all ancestral functions. |
+| E-0117 | 251 | STRONGLY SUPPORTED synthesis / model-dependent ancestral reconstruction: Streptophyte multicellular evolution includes repeated gains, reductions and losses rather than one sequence of increasing body complexity. | S9-13, S9-14 | Ancestral states and mechanisms are inferred from sampled organisms and phylogenetic models; no exact emergence date adopted. |
 
 ## Sources and access record
 
@@ -32,7 +35,11 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 - **S9-07:** Orr, T. J. & Roberts, E. M. (2024), *A review and field guide for the standardized description and sampling of paleosols*. **Earth-Science Reviews** 253, 104788. [doi:10.1016/j.earscirev.2024.104788](https://doi.org/10.1016/j.earscirev.2024.104788). [Author institutional record](https://researchonline.jcu.edu.au/85841/) and primary indexed article text checked for recognition features, structure, mineral accumulations and biological traces. No numerical climate reconstruction adopted.
 - **S9-08:** Broz, A. P. (2020), *Organic Matter Preservation in Ancient Soils of Earth and Mars*. **Life** 10, 113. [doi:10.3390/life10070113](https://doi.org/10.3390/life10070113). Primary publisher/PMC indexed article text checked for abiotic soil definitions, mineral-associated carbon and post-depositional alteration. Direct full-text opens blocked; no Mars biological claim used.
 - **S9-09:** Hadland, N., Hamilton, C. W. & Duhamel, S. (2024), *Young volcanic terrains are windows into early microbial colonization*. **Communications Earth & Environment** 5, 114. [doi:10.1038/s43247-024-01280-3](https://doi.org/10.1038/s43247-024-01280-3). Accessible publisher article checked. Mechanistic and ecological variation retained; no universal photosynthetic first-colonizer succession asserted.
-- **S9-10:** Heubeck, C. et al. (2024), *BASE (Barberton Archean Surface Environments) – drilling Paleoarchean coastal strata of the Barberton Greenstone Belt*. **Scientific Drilling** 33, 129–156. [doi:10.5194/sd-33-129-2024](https://doi.org/10.5194/sd-33-129-2024). Accessible full drilling report checked, including BASE 2 fluvial–coastal–estuarine section and microbial mats in channelized conglomerates. Used to verify current locality interpretation, not to extrapolate all Moodies deposits as terrestrial.
+- **S9-10:** Heubeck, C. et al. (2024), *BASE (Barberton Archean Surface Environments) – drilling Paleoarchean coastal strata of the Barberton Greenstone Belt*. **Scientific Drilling** 33, 129–172. [doi:10.5194/sd-33-129-2024](https://doi.org/10.5194/sd-33-129-2024). Accessible full drilling report checked, including BASE 2 fluvial–coastal–estuarine section and microbial mats in channelized conglomerates. Used to verify current locality interpretation, not to extrapolate all Moodies deposits as terrestrial.
+- **S9-11:** One Thousand Plant Transcriptomes Initiative (2019), *One thousand plant transcriptomes and the phylogenomics of green plants*. **Nature** 574, 679–685. [doi:10.1038/s41586-019-1693-2](https://doi.org/10.1038/s41586-019-1693-2). Primary indexed abstract/results checked: 1,124 sampled species across Archaeplastida, including green plants, red algae and glaucophytes. Deep short-branch uncertainty retained; not asserted to have uniquely resolved every early node. Direct article retrieval was inconsistent.
+- **S9-12:** Feng, X. et al. (2024), *Genomes of multicellular algal sisters to land plants illuminate signaling network evolution*. **Nature Genetics** 56, 1018–1031. [doi:10.1038/s41588-024-01737-3](https://doi.org/10.1038/s41588-024-01737-3). [Author institutional abstract](https://digitalcommons.unl.edu/plantscifacpub/293/) and primary publisher indexed results checked for four genomes, cell-wall enzymes and co-expression networks. Direct publisher full-text open failed; not represented as full-text reading.
+- **S9-13:** Darienko, T. et al. (2026), *The evolutionary origins of streptophyte multicellularity*. **New Phytologist** 251, 2365–2383. [doi:10.1111/nph.71415](https://doi.org/10.1111/nph.71415). Accessible publisher full review checked, including sister relationships, ancestral-state inference, losses/reductions and regulatory hypotheses. Published online 9 July 2026. No billion-year multicellular origin estimate treated as a direct fossil observation.
+- **S9-14:** Hess, S. et al. (2022), *A phylogenomically informed five-order system for the closest relatives of land plants*. **Current Biology** 32, 4473–4482.e7. [doi:10.1016/j.cub.2022.08.022](https://doi.org/10.1016/j.cub.2022.08.022). Primary publisher/PMC indexed summary and [co-author university research account](https://blog.umd.edu/algaeevolve/2022/11/08/a-phylogenomically-informed-five-order-system-for-the-closest-relatives-of-land-plants/) checked for phylogenomic sampling and inferred multiple filamentous origins. Used for relationship support and comparison, without treating modern taxa as ancestors.
 
 ## Page checks
 
@@ -40,9 +47,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 |---:|---:|:---:|:---:|---|
 | 249 | 499 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 250 | 496 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 251 | 494 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Previous chapter evidence registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 251–256.**
+**Chapter 9 — Life Comes Ashore, pages 252–256.**

@@ -146,13 +146,17 @@ This is the claim-control register for **Our World**.
 | E-0113 | 250 | Ancient soils and weathering profiles require contextual identification; abiotic alteration and selective organic preservation constrain biological inference. | ESTABLISHED methodological distinction | Palaeopedology / organic taphonomy | S9-07, S9-08; Chapter 9 support register | Weathering alone does not prove life; loss, alteration or later introduction of organic material needs assessment. | ✅ |
 | E-0114 | 250 | Microbial communities occupy young volcanic substrates and can influence mineral alteration and later ecological development. | STRONGLY SUPPORTED modern ecological synthesis | Microbial ecology / geological interactions | S9-09; Chapter 9 support register | Modern mechanisms are comparisons, not identical Archean communities; metabolisms and succession vary by site. | ✅ |
 
+| E-0115 | 251 | Genome-scale comparisons support Zygnematophyceae as the closest living algal relatives of land plants. | STRONGLY SUPPORTED phylogenetic relationship | Phylogenomics / broad taxon sampling | S9-11, S9-12, S9-13, S9-14; Chapter 9 support register | Living sister lineage is not an unchanged direct ancestor; exact ancestral phenotype requires further inference. The 2019 study retains uncertainty in deep short branches. | ✅ |
+| E-0116 | 251 | Four filamentous zygnematophyte genomes reveal shared cell-wall enzymes and co-expression networks linking environment and growth. | ESTABLISHED comparative genomic findings / inferred ancestral traits | Genome assembly / gene-family comparison / co-expression | S9-12; Chapter 9 support register | Co-expression and gene homology do not directly recover an ancestral genome or prove all ancestral functions. | ✅ |
+| E-0117 | 251 | Streptophyte multicellular evolution includes repeated gains, reductions and losses rather than one sequence of increasing body complexity. | STRONGLY SUPPORTED synthesis / model-dependent ancestral reconstruction | Ancestral-state reconstruction / comparative cell biology | S9-13, S9-14; Chapter 9 support register | Ancestral states and mechanisms are inferred from sampled organisms and phylogenetic models; no exact emergence date adopted. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Chapter 9 source authority
-Claim-linked sources and access limits for E-0109–E-0114, pages 249–250, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
+Claim-linked sources and access limits for E-0109–E-0117, pages 249–251, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.
