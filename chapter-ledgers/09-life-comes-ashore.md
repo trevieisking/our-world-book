@@ -22,10 +22,11 @@
 | 266 | Spiracles and book-lung supports; revised fossil ages and air-breathing capacity versus habitat | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 267 | Coprolites, probable decay associations and predatory feeding anatomy | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 268 | Hexapod identities, disputed Rhyniognatha and the 2026 Chosha description | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 269–276 | Vertebrate transitions and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 269 | Distal fin bones, Elpistostege and experimental evidence for regulatory reuse | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 270–276 | Vertebrate support, locomotion and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
-**Pages 249–268 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–269 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
 ## Evidence boundaries
@@ -46,6 +47,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Weathering experiments establish local mechanisms; global carbon and climate effects require scaling and model assumptions.
 - Coprolite contents establish ingestion more securely than producer identity or selective diet; feeding anatomy does not identify a particular prey encounter.
 - Hexapod identity, insect affinity and flight are separate claims; disputed anatomy and new phylogenetic interpretations remain qualified.
+- Fin-bone arrangements, skeletal homology, regulatory reuse and terrestrial locomotion require different evidence.
 
 ## Support register
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
@@ -53,6 +55,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - `chapter-ledgers/09-life-comes-ashore-support-265-272.md` — earlier verified checkpoint through 266.
 - `chapter-ledgers/09-life-comes-ashore-support-267.md`
 - `chapter-ledgers/09-life-comes-ashore-support-268.md`
+- `chapter-ledgers/09-life-comes-ashore-support-269.md`
 
 ## Next target
-**Page 269.** Research, write, fact-check, commit and verify before moving to page 270. Root-ledger integration remains separate from these active page/evidence checkpoints.
+**Page 270.** Research, write, fact-check, commit and verify before moving to page 271. Root-ledger integration remains separate from these active page/evidence checkpoints.
