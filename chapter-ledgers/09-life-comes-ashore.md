@@ -19,11 +19,12 @@
 | 263 | Comparing forest roots at Cairo, Svalbard and southwest England; record versus origin | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 264 | Vegetation, river banks and mineral weathering; testing carbon-cycle and climate effects | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 265 | Arthropod trackways, substrate experiments and exposed-surface visits versus terrestrial residence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 266–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 266 | Spiracles and book-lung supports; revised fossil ages and air-breathing capacity versus habitat | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 267–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–265 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–266 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -53,4 +54,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 266–272:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 267–272:** continue the research/write/commit loop.
