@@ -134,10 +134,14 @@ This is the claim-control register for **Our World**.
 | E-0104 | 247 | The Ordovician base is referenced to the Green Point GSSP within Bed 23, associated with the local first occurrence of Iapetognathus fluctivagus. | ESTABLISHED formal reference definition | Official boundary standard | S8-63; section support register | Reference-section occurrence is not a worldwide evolutionary-origin timestamp; correlation and dating are distinct. | ✅ |
 | E-0105 | 247 | Ordovician marine diversification comprises overlapping, regionally and ecologically varied increases rather than one instantaneous global event. | STRONGLY SUPPORTED synthesis / definition-dependent scope | Comparative diversification synthesis | S8-64; S8-59 for lineage continuity; section support register | GOBE usage varies between broad radiation and particular pulses; no universal synchrony. | ✅ |
 
+| E-0106 | 248 | Torridonian microfossils document complex cellular life in non-marine settings roughly a billion years ago, with freshwater and intermittently exposed habitats interpreted. | ESTABLISHED fossils / strongly supported environmental interpretation | Microfossils / sedimentary context | S8-65, S8-66; section support register | No forests, embryophyte identity or permanent dry-land residence established for these fossils. | ✅ |
+| E-0107 | 248 | Cambrian spore-like remains and an Early Ordovician Australian assemblage inform hypotheses about stages in the algal–land-plant transition. | PROPOSED developmental continuity | Comparative spore morphology / development | S8-66, S8-67; section support register | Producer identity and full vegetative anatomy often missing; no settled Cambrian land-plant origin date. | ✅ |
+| E-0108 | 248 | Broad and narrow cryptospore definitions include different proposed producers, constraining land-plant inferences from the term alone. | ESTABLISHED terminology distinction / synthesis | Systematic microfossil review | S8-68; section support register | Morphological categories are not automatic organism identities; no complete ecosystem from spores alone. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
-Full sources for the current page-by-page loop are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md`; that register states the exact page verified.
+Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

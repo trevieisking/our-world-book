@@ -175,7 +175,7 @@ After text and artwork are complete:
 
 The image gate remains, but it applies **during Phase B**, not while drafting the manuscript.
 
-During Phase A, an image requirement becomes an **artwork placeholder**, not a blocker. This prevents the book-writing loop from being interrupted while keeping every visual properly planned and evidence-constrained.
+During the writing-only Phase A loop confirmed on 2026-10-02, leave artwork pending in the Page Ledger. Retain existing Image Ledger briefs, but defer new briefs and generation until the whole manuscript is written. Then plan each visual against the completed text and recorded evidence during Phase B.
 
 ## Completion definition
 
@@ -189,6 +189,6 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–247 are TEXT LOCKED. Next: Chapter 8, pages 248–248. Research, write, fact-check, commit and verify each page before researching the next. All new artwork work waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–248 are TEXT LOCKED. Next: Chapter 9 — Life Comes Ashore, pages 249–256. Research, write, fact-check, commit and verify each page before researching the next. All new artwork work waits until the whole manuscript is written.**
 
 Read `CURRENT_TARGET.md`, the Chapter 8 ledger and its three support registers for the checkpoint. This is manuscript progress, not final publication completion.

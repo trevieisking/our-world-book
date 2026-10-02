@@ -4,12 +4,11 @@
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 225–232 | Boundary, fossil visibility, burrowing, skeletons, predation, eyes, preservation and food webs | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 233–240 | Named fossils, stem/crown relationships, appendages, feeding, attachments, reefs and early chordates | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 241–247 | Wider environments, ecological change and transition toward terrestrial life | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 248–248 | Continue wider environments, ecological innovations, turnover and chapter transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 241–248 | Wider environments, ecological change and transition toward terrestrial life | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 
 ## Chapter 8 status
 
-**Pages 225–247 are TEXT LOCKED for Phase A. Chapter 8 remains in progress.**
+**Pages 225–248 are TEXT LOCKED for Phase A. Chapter 8 manuscript is complete.**
 
 Existing artwork briefs are retained. New pages 241–248 remain unbriefed during the writing-only loop. Artwork, final layout and publication review remain later phases.
 
@@ -26,6 +25,12 @@ Existing artwork briefs are retained. New pages 241–248 remain unbriefed durin
 - *Hallucigenia* placement remains disputed; *Shishania* includes the 2025 reinterpretation; *Pikaia* uses the revised 2024 orientation.
 - Gut contents, attachment and modelled flow have different evidential strengths from capture, host benefit and pumping behaviour.
 - Chengjiang, Burgess Shale and early reef communities remain separate in place and time.
+- Continental flooding, local oxygenation and broad ocean reconstructions have different geographical and evidential scales.
+- Feeding and reproductive strategies are inferred from preserved structures and associations; *Pahvantia* includes the 2021 anatomical reappraisal.
+- Sinsk recovery need not restore earlier functional diversity; tectonic causes remain hypotheses and refuges remain setting-specific.
+- Fossil absence and extinction are distinct; Fezouata persistence does not imply unchanged communities.
+- The Cambrian–Ordovician age uses the June 2026 ICS chart with uncertainty. Marine diversification continues across the formal boundary.
+- Non-marine microbes, intermittently exposed habitats and cryptospores do not establish forests, permanently dry residence or an uncontested Cambrian land-plant origin.
 
 ## Support register
 
@@ -35,4 +40,4 @@ Existing artwork briefs are retained. New pages 241–248 remain unbriefed durin
 
 ## Next target
 
-**Chapter 8, pages 248–248:** continue one researched, checked and committed page at a time.
+**Chapter 9 — Life Comes Ashore, pages 249–256:** begin with evidence for terrestrial habitats and the separate histories of microbes, plants, fungi and animals.

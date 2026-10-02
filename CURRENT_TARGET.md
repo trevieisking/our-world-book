@@ -13,16 +13,16 @@
 - Chapter 5 pages **153–176** — TEXT LOCKED
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
-- Chapter 8 pages **225–247** — TEXT LOCKED
+- Chapter 8 pages **225–248** — TEXT LOCKED
 
 ## Next target
-### Chapter 8 — The Cambrian World
-Pages **248–248**
+### Chapter 9 — Life Comes Ashore
+Pages **249–256**
 
-Next individual page: **248**. Complete remaining Cambrian environments, ecological innovations, turnover, evidence limits and transition toward life ashore.
+Next individual page: **249**. Begin with terrestrial habitats, early microbial occupation, plant/fungal evidence and the challenges of life outside water. Keep separate lineages and dates distinct.
 
 ## Completed checkpoints
-Pages 241–247 are now researched, written and fact-checked in separate GitHub page checkpoints. Artwork remains pending.
+Pages 241–248 are now researched, written and fact-checked in separate GitHub page checkpoints, adding 4,052 prose words and 22 claim checkpoints. **Chapter 8 manuscript is complete.** Artwork remains pending.
 
 Pages 225–232 were recovered, fact-checked and locked. Pages 233–240 are now researched, drafted, fact-checked and TEXT LOCKED, with eight new artwork briefs and fourteen claim checkpoints.
 
@@ -32,7 +32,7 @@ The current Chapter 8 records are:
 - `chapter-ledgers/08-the-cambrian-world-support-233-240.md`
 - `chapter-ledgers/08-the-cambrian-world-support-241-248.md`
 
-The new section incorporates the 2025 *Shishania* reinterpretation, competing *Hallucigenia* placements and revised 2024 *Pikaia* anatomy. Direct ancestry, inferred feeding benefits and modelled function remain explicitly qualified.
+The chapter records include the 2025 *Shishania* reinterpretation, competing *Hallucigenia* placements, revised 2024 *Pikaia* anatomy and the 2021 *Pahvantia* reappraisal. The closing pages distinguish local oxygenation from broader ocean models, Sinsk losses from recovery, fossil absence from extinction, and non-marine microfossils from evidence of land plants. Numerical boundary ages use the June 2026 ICS chart with uncertainty.
 
 ## Production rule
 User instruction confirmed 2026-10-02: **writing only until the whole book manuscript is written**.

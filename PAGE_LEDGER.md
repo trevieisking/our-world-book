@@ -4,7 +4,7 @@
 **Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
 
-**Active checkpoint (2026-10-02):** narrative pages 017–247 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–247 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
+**Active checkpoint (2026-10-02):** narrative pages 017–248 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–248 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -255,7 +255,7 @@
 | 245 | Ch. 8 — The Cambrian World | Sinsk extinction, uneven recovery and changing community function | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 246 | Ch. 8 — The Cambrian World | Preservation filters, apparent disappearance and Ordovician persistence | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 247 | Ch. 8 — The Cambrian World | Cambrian–Ordovician boundary, age uncertainty and continuing diversification | ✅ | ✅ | ⬜ | ✅ | ⬜ |
-| 248 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 248 | Ch. 8 — The Cambrian World | Pre-forest continental life, cryptospore limits and transition to Chapter 9 | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 249 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 250 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 251 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -569,4 +569,4 @@ Pages **001–016** remain drafted as v0.1. Author credit/dedication, evidence r
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-**Narrative pages 017–247 are TEXT LOCKED for Phase A. Next target: Chapter 8, pages 248–248.** Continue research, writing, fact-check and GitHub commits page by page. All artwork work waits until the manuscript is complete. Older placeholder rows still require reconciliation.
+**Narrative pages 017–248 are TEXT LOCKED for Phase A. Next target: Chapter 9 — Life Comes Ashore, pages 249–256.** Continue research, writing, fact-check and GitHub commits page by page. All artwork work waits until the manuscript is complete. Older placeholder rows still require reconciliation.
