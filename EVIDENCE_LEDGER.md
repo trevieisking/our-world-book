@@ -138,10 +138,17 @@ This is the claim-control register for **Our World**.
 | E-0107 | 248 | Cambrian spore-like remains and an Early Ordovician Australian assemblage inform hypotheses about stages in the algal–land-plant transition. | PROPOSED developmental continuity | Comparative spore morphology / development | S8-66, S8-67; section support register | Producer identity and full vegetative anatomy often missing; no settled Cambrian land-plant origin date. | ✅ |
 | E-0108 | 248 | Broad and narrow cryptospore definitions include different proposed producers, constraining land-plant inferences from the term alone. | ESTABLISHED terminology distinction / synthesis | Systematic microfossil review | S8-68; section support register | Morphological categories are not automatic organism identities; no complete ecosystem from spores alone. | ✅ |
 
+| E-0109 | 249 | Terrestrialization involves differing habitats and biological requirements across lineages; exposure, residence and reproduction need separate evidence. | STRONGLY SUPPORTED synthesis / explicit working distinction | Palaeobiological synthesis / habitat reasoning | S9-01, S9-02; Chapter 9 support register | Working distinctions do not imply one universal sequence, date or formal habitat taxonomy. | ✅ |
+| E-0110 | 249 | Water loss, changing light and UV stress constrain exposed photosynthetic organisms; cuticles and protective chemistry contribute to coping mechanisms. | ESTABLISHED living physiology / inferred evolutionary significance | Plant biophysics / comparative stress biology | S9-02, S9-03, S9-04; Chapter 9 support register | Living functions and comparative homology do not reconstruct every ancestral trait or its exact origin date. | ✅ |
+| E-0111 | 249 | Many non-seed land plants retain swimming sperm and moisture-dependent fertilisation; spore dispersal is a separate stage. | ESTABLISHED living reproductive biology | Comparative reproductive biology | S9-05; Chapter 9 support register | Not a claim of universal water-dependent fertilisation across all land plants, or proof of a specific fossil life cycle. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
+
+## Chapter 9 source authority
+Claim-linked sources and access limits for E-0109–E-0111, pages 249–249, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.
