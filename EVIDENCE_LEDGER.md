@@ -154,13 +154,17 @@ This is the claim-control register for **Our World**.
 | E-0119 | 252 | Late Ordovician Oman fragments contain masses of similar spores and presumed coverings, linking dispersed forms with probable land-plant sporangia. | ESTABLISHED preserved association / strongly supported sporangial interpretation | Spore-bearing mesofossils / SEM / TEM | S9-16; Chapter 9 support register | Younger than the Argentine assemblage; wall resemblance supports liverwort comparisons without a complete body or secure modern crown assignment. | ✅ |
 | E-0120 | 252 | Fossil occurrences constrain minimum presence while molecular divergence dates depend on rates, calibrations and phylogenetic assignments. | ESTABLISHED evidence distinction | Stratigraphic occurrence / molecular dating methodology | S9-15, S9-16, S9-18; Chapter 9 support register | No exact evolutionary origin established from the oldest sampled fossil or one clock analysis. | ✅ |
 
+| E-0121 | 253 | Cooksonia preserves branching axes with terminal sporangia; Early Devonian C. pertoni specimens reveal differentially thickened conducting cells. | ESTABLISHED fossil morphology and specimen-specific anatomy | Fossil morphology / conducting-cell anatomy | S9-19, S9-23; Chapter 9 support register | Younger anatomical specimens do not prove identical tissues in every Silurian cooksonioid; no universal first vascular plant or direct ancestor asserted. | ✅ |
+| E-0122 | 253 | Axis size constrains available tissue space; small cooksonioid sporophytes may have depended on gametophytes while larger examples could support photosynthetic autonomy. | STRONGLY SUPPORTED functional constraints / proposed physiological interpretation | Fossil size comparison / physiological tissue-allocation model | S9-20, S9-21; S9-05 for generation definitions; Chapter 9 support register | No fossil photosynthetic rate measured; preserved size and tissue allocation support differing hypotheses rather than one physiology for the entire genus. | ✅ |
+| E-0123 | 253 | Detrital zircon U–Pb dating of Welsh and Irish Cooksonia-bearing sediments supplies maximum depositional ages. | ESTABLISHED dating principle / study-specific numerical constraints | Detrital zircon geochronology / stratigraphic context | S9-22; Chapter 9 support register | Crystal formation precedes or coincides with deposition; not a direct exact age of fossil growth or a universal origin date. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Chapter 9 source authority
-Claim-linked sources and access limits for E-0109–E-0120, pages 249–252, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
+Claim-linked sources and access limits for E-0109–E-0123, pages 249–253, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

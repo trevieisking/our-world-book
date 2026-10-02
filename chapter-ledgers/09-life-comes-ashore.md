@@ -6,11 +6,12 @@
 | 250 | Moodies microbial mats, ancient soils and limits of biological weathering evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 251 | Algal sister relationships, inherited cellular systems and changing multicellularity | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 252 | Ordovician cryptospores, sporangial fragments and minimum occurrence dates | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 253–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 253 | Cooksonia branching bodies, vascular anatomy, size-dependent physiology and sediment ages | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 254–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–252 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–253 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -30,4 +31,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 253–256:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 254–256:** continue the research/write/commit loop.
