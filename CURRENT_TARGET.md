@@ -6,15 +6,14 @@
 
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, as recorded in their existing chapter ledgers.
-- Chapter 9 — Life Comes Ashore, **249–274** — TEXT LOCKED; 26 of 28 planned pages.
+- Chapter 9 — Life Comes Ashore, **249–275** — TEXT LOCKED; 27 of 28 planned pages.
 
 ## Next individual target
-**Page 275:** plant reproduction, early seeds and the distinction between preserved ovules and a demonstrated complete reproductive cycle.
 **Page 276:** animal reproduction and terrestrial-ecosystem synthesis; close Chapter 9.
 **Chapter 10 — Worlds Lost begins at page 277.**
 
 ## Current pass
-Page 274 adds three claim checkpoints **E-0184–E-0186**, with sources **S9-95–S9-97**, in `chapter-ledgers/09-life-comes-ashore-support-274.md`. Research, prose and fact-check are saved together; commit and read back before researching page 275.
+Pages **274–275** add six claim checkpoints **E-0184–E-0189**, with sources **S9-95–S9-100**. The individual `chapter-ledgers/09-life-comes-ashore-support-274.md` and `...support-275.md` registers contain page/evidence rows and access records. Research, prose and fact-check are saved together; commit and read back page 275 before researching page 276.
 
 ## Earlier completed checkpoints
 - Pages 267–273: seven separate verified page checkpoints; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files remain unchanged.
