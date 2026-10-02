@@ -49,7 +49,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
-- `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
+- `chapter-ledgers/09-life-comes-ashore-support-265-272.md`
 
 ## Next target
 

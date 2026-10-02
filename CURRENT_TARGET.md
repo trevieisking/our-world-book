@@ -33,7 +33,7 @@ The active Chapter 9 records are:
 - `chapter-ledgers/09-life-comes-ashore.md`
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
-- `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
+- `chapter-ledgers/09-life-comes-ashore-support-265-272.md`
 
 Pages 241–248 are now researched, written and fact-checked in separate GitHub page checkpoints, adding 4,052 prose words and 22 claim checkpoints. **Chapter 8 manuscript is complete.** Artwork remains pending.
 
