@@ -1,8 +1,8 @@
 # Chapter 8 support register — pages 241–248
 
-**Verified through page 242:** 2026-10-02  
+**Verified through page 243:** 2026-10-02  
 **Phase:** A — manuscript / research  
-**Decision:** pages 241–242 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
+**Decision:** pages 241–243 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
 
 ## Scope and evidence boundary
 
@@ -16,6 +16,9 @@ This section widens from individual animals to environments, ecological change a
 | E-0088 | 241 | STRONGLY SUPPORTED record / UNCERTAIN unique cause: Continental erosion and marine flooding help frame Cambrian habitats; proposed ocean-chemistry links do not establish a unique radiation trigger. | S8-43, S8-45 | Regional records and causal hypotheses are separate; the Great Unconformity is not one instantaneous global event. |
 | E-0089 | 242 | STRONGLY SUPPORTED synthesis / model-dependent reconstruction: Cambrian marine oxygen varied; isotope records and chemical-cycle models support broad changes in seafloor oxygenation. | S8-17, S8-46 | Proxy and model assumptions remain; broad reconstructions do not resolve every habitat. |
 | E-0090 | 242 | STRONGLY SUPPORTED local interpretation: Fine Alum Shale sampling identifies brief oxygenated intervals associated with some fossil shells. | S8-47 | Local sampling resolution; other fossil–redox disagreements need independent investigation. |
+| E-0091 | 243 | STRONGLY SUPPORTED functional interpretation: Tamisiocaris frontal appendages support suspension feeding on small waterborne food items. | S8-48 | Appendage-based inference; no identified meal or equally secure complete body. |
+| E-0092 | 243 | STRONGLY SUPPORTED functional interpretation: Cambroraster appendages and body form support sediment sifting near the seabed. | S8-49 | Behaviour inferred; comparison with Tamisiocaris does not reconstruct one community. |
+| E-0093 | 243 | PROPOSED anatomical revision: A 2021 re-examination challenged the fine filtering apparatus proposed for Pahvantia in 2018, assigning much material to trunk and gills. | S8-50, S8-51 | Reinterpretation of incomplete overlapping material; feeding proposal depends on anatomical identification. |
 
 ## Sources and access record
 
@@ -27,6 +30,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 - **S8-17 (reused):** Pruss & Gill (2024), [Life on the Edge: The Cambrian Marine Realm and Oxygenation](https://doi.org/10.1146/annurev-earth-031621-070316). [NASA author-manuscript record](https://ntrs.nasa.gov/citations/20240001283) rechecked for low and variable oxygen framing.
 - **S8-46:** Dahl et al. (2019), [Atmosphere–ocean oxygen and productivity dynamics during early animal radiations](https://doi.org/10.1073/pnas.1901178116). [Princeton author abstract](https://collaborate.princeton.edu/en/publications/atmosphere-ocean-oxygen-and-productivity-dynamics-during-early-an/) checked for multi-region isotope records and mass-balance modelling.
 - **S8-47:** Dahl et al. (2019), [Brief oxygenation events in locally anoxic oceans during the Cambrian solves the animal breathing paradox](https://doi.org/10.1038/s41598-019-48123-2). Accessible article checked for high-resolution scanning and shell associations; no universal application asserted.
+- **S8-48:** Vinther, Stein, Longrich & Harper (2014), [A suspension-feeding anomalocarid from the Early Cambrian](https://doi.org/10.1038/nature13010). [Bristol author abstract](https://research-information.bris.ac.uk/en/publications/a-suspension-feeding-anomalocarid-from-the-early-cambrian/) and indexed author-manuscript material checked. The 0.5 mm estimate is a functional inference.
+- **S8-49:** Moysiuk & Caron (2019), [A new hurdiid radiodont from the Burgess Shale evinces the exploitation of Cambrian infaunal food sources](https://doi.org/10.1098/rspb.2019.1079). Primary abstract/indexed text and [ROM collection account](https://burgess-shale.rom.on.ca/fossils/cambroraster-falcatus/) checked; publisher/PMC full-text opening blocked.
+- **S8-50:** Lerosey-Aubril & Pates (2018), [New suspension-feeding radiodont suggests evolution of microplanktivory in Cambrian macronekton](https://doi.org/10.1038/s41467-018-06229-7). Indexed primary abstract/article passages checked as the historical proposal, not current uncontested anatomy.
+- **S8-51:** Caron & Moysiuk (2021), [A giant nektobenthic radiodont from the Burgess Shale and the significance of hurdiid carapace diversity](https://doi.org/10.1098/rsos.210664). Indexed primary article passages checked for Pahvantia reappraisal; publisher/PMC full-text opening blocked.
 
 ## Page checks
 
@@ -34,9 +41,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 |---:|---:|:---:|:---:|---|
 | 241 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 242 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
+| 243 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 
 All completed pages reviewed for continuity. Artwork and final layout remain pending. Earlier chapter records retain their authority.
 
 ## Next target
 
-**Page 243**, then continue through page 248.
+**Page 244**, then continue through page 248.
