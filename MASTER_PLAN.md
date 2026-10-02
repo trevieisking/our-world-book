@@ -189,6 +189,6 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–241 are TEXT LOCKED. Next: Chapter 8, pages 242–248. Research, write, fact-check, commit and verify each page before researching the next. All new artwork work waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–242 are TEXT LOCKED. Next: Chapter 8, pages 243–248. Research, write, fact-check, commit and verify each page before researching the next. All new artwork work waits until the whole manuscript is written.**
 
 Read `CURRENT_TARGET.md`, the Chapter 8 ledger and its three support registers for the checkpoint. This is manuscript progress, not final publication completion.
