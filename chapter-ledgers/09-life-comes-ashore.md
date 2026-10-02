@@ -26,11 +26,12 @@
 | 270 | Tiktaalik: substrate-supported stance and the 2024 axial/pelvic reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 271 | Zachełmie tracks, underwater surfaces and distinct 2025 fish-trace evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 272 | Acanthostega digits, internal-gill evidence and juvenile growth history | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 273–276 | Locomotor mechanics and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 273 | Ichthyostega backbone regionalisation, joint limits and testing a proposed gait | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 274–276 | Early Carboniferous record, terrestrial reproduction and ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
-**Pages 249–272 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
-All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
+**Pages 249–273 are TEXT LOCKED for Phase A: 25 of 28 chapter pages. Chapter 9 remains in progress.**
+The current pass added seven pages (267–273), 21 claim checkpoints and 19 source records in individual support supplements. All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
 ## Evidence boundaries
 - Distinguish a visit to an exposed surface, residence there, reproduction and broader ecosystem occupation.
@@ -54,6 +55,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Substrate support can occur under water; inferred ligaments and reconstructed joint ranges are not directly preserved movements.
 - Track identity, track-surface environment and wider landscape must be tested separately; Zachełmie and Ujazd/Kopiec record distinct evidence.
 - Acanthostega's digit count and sampled juvenile growth do not define every early tetrapod or establish its entire adult life history.
+- Joint-mobility models constrain gait compatibility without filming ancient behaviour; excluding one gait does not exclude all movement.
 
 ## Support register
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
@@ -65,6 +67,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - `chapter-ledgers/09-life-comes-ashore-support-270.md`
 - `chapter-ledgers/09-life-comes-ashore-support-271.md`
 - `chapter-ledgers/09-life-comes-ashore-support-272.md`
+- `chapter-ledgers/09-life-comes-ashore-support-273.md`
 
 ## Next target
-**Page 273.** Research, write, fact-check, commit and verify before moving to page 274. Root-ledger integration remains separate from these active page/evidence checkpoints.
+**Page 274.** Research, write, fact-check, commit and verify before moving to page 275. Consolidation into the root PAGE_LEDGER/EVIDENCE_LEDGER remains pending; the active chapter and individual page/evidence checkpoints are saved here.

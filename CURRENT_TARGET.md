@@ -14,14 +14,16 @@
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
 - Chapter 8 pages **225–248** — TEXT LOCKED
-- Chapter 9 pages **249–272** — TEXT LOCKED
+- Chapter 9 pages **249–273** — TEXT LOCKED
 
 ## Next target
 ### Chapter 9 — Life Comes Ashore
-**Next individual page: 273.** Continue with early tetrapod joint mechanics and locomotor limits. Chapter ends on page 276. Normal pass size remains about 7–10 pages; commit and verify each page before researching the next.
+**Next individual page: 274.** Continue with the early Carboniferous record and test apparent fossil gaps. Pages 275–276 should complete terrestrial reproduction/ecosystem synthesis and bridge into Chapter 10. Chapter 9 ends on page 276. Normal pass size remains about 7–10 pages; commit and verify each page before researching the next.
 
-## Current continuation
-Pages 267–272 add food-web evidence, early hexapod identities including the August 2026 Chosha description, fin-to-hand anatomy with 2025 developmental research, Tiktaalik body support incorporating the 2024 axial study, Devonian tracks with a separate 2025 fish-trace comparison, and Acanthostega anatomy and juvenile growth. Page/evidence rows and source access are in individual `chapter-ledgers/09-life-comes-ashore-support-267.md` through `...support-272.md` supplements. These preserve earlier records and provide recovery checkpoints.
+## Current continuation — seven-page pass
+Pages **267–273** add **21 claim checkpoints (E-0163–E-0183)** and **19 source records (S9-76–S9-94)**. Each page was researched, written, checked, committed separately and read back before research advanced to the next page. Page/evidence rows and access limits are in individual `chapter-ledgers/09-life-comes-ashore-support-267.md` through `...support-273.md` supplements.
+
+Coverage: food-web evidence; early hexapod identities including the August 2026 Chosha description; fin-to-hand anatomy with 2025 developmental research; Tiktaalik support incorporating the 2024 axial study; Devonian tracks with a distinct 2025 fish-trace comparison; Acanthostega anatomy and juvenile growth; Ichthyostega joint mechanics. Earlier manuscript pages are unchanged.
 
 ## Prior completed checkpoints
 Pages 265–266: separate verified page checkpoints, 1,004 prose words and 6 claims. Pages 257–264: separate verified page checkpoints, 4,056 prose words and 24 claims. Pages 249–256: separate verified page checkpoints, 3,959 prose words and 24 claims. Chapter 9 remains in progress; artwork is pending.
@@ -39,5 +41,5 @@ User instruction confirmed 2026-10-02: **writing only until the whole manuscript
 
 Research one page -> record evidence -> write -> fact-check -> TEXT LOCK -> commit and verify in GitHub -> research the next page. Do not generate images, new artwork briefs, reading-copy PDFs or extra deliverables. Retain existing artwork records for Phase B.
 
-## Status authority
-This file, chapter ledger and individual support supplements control active progress. Each new supplement synchronises its page row and evidence claims at the page checkpoint. Root PAGE_LEDGER/EVIDENCE_LEDGER integration and older placeholder reconciliation must not be confused with verified page production. TEXT LOCKED is Phase A only; FINAL requires later artwork, layout and publication checks.
+## Status authority and remaining reconciliation
+This file, chapter ledger and individual support supplements control active progress. Each new supplement synchronises its page row and evidence claims at the page checkpoint. Consolidation into the root PAGE_LEDGER/EVIDENCE_LEDGER and older placeholder reconciliation remains pending; do not describe those root files as fully synchronised. TEXT LOCKED is Phase A only; FINAL requires later artwork, layout and publication checks.
