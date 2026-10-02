@@ -202,13 +202,17 @@ This is the claim-control register for **Our World**.
 | E-0155 | 264 | Living-liverwort experiments demonstrate enhanced mineral release and fungal effects relative to controls. | CONFIRMED (experimental response) | Controlled plant–fungus / mineral-weathering experiments | S9-66; Chapter 9 support register 257–264 | Tested conditions establish mechanisms, not measured Devonian global weathering rates. | ✅ |
 | E-0156 | 264 | Forest weathering may affect carbon cycling; modeled soil changes can counteract associated cooling. | HYPOTHESIS / MODEL DEPENDENT | Palaeobotanical / geochemical research framework / coupled climate modeling | S9-65; S9-67; Chapter 9 support register 257–264 | Local fossils do not independently measure global fluxes; climate outcomes depend on model assumptions. | ✅ |
 
+| E-0157 | 265 | Nepean wind-deposited sandstones support amphibious arthropod activity on exposed ground. | STRONGLY SUPPORTED | Trackways / sedimentary context | S9-68; Chapter 9 support register 265–272 | Undertracks and uncertain makers do not establish permanent terrestrial residence. | ✅ |
+| E-0158 | 265 | Substrate experiments show track form and preservation varying independently of producer identity. | CONFIRMED (experimental variation) | Controlled modern track-making experiments | S9-70; Chapter 9 support register 265–272 | Living analogues constrain interpretation without uniquely identifying every fossil maker. | ✅ |
+| E-0159 | 265 | Borrowdale sediment context supports mostly submerged activity with brief exposed-surface crossings. | STRONGLY SUPPORTED (context); INFERRED (habitat) | Field sedimentology / traces / evolutionary synthesis | S9-69; S9-71; Chapter 9 support register 265–272 | Journeys and lineage dates do not independently establish fully terrestrial life cycles. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Chapter 9 source authority
-Claim-linked sources and access limits for E-0109–E-0132, pages 249–256, remain in `chapter-ledgers/09-life-comes-ashore-support-249-256.md`. Sources for E-0133–E-0156, pages 257–264, are in `chapter-ledgers/09-life-comes-ashore-support-257-264.md` (verified 2026-10-02). These control the active manuscript checkpoint; legacy register reconciliation remains pending.
+Claim-linked sources and access limits for E-0109–E-0132, pages 249–256, remain in `chapter-ledgers/09-life-comes-ashore-support-249-256.md`. Sources for E-0133–E-0156, pages 257–264, remain in `chapter-ledgers/09-life-comes-ashore-support-257-264.md`. Sources for E-0157–E-0159, pages 265–265, are in `chapter-ledgers/09-life-comes-ashore-support-265-272.md` (verified 2026-10-02). These control the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

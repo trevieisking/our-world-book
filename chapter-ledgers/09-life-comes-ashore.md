@@ -18,11 +18,12 @@
 | 262 | Gilboa: connected tree reconstruction, in-place roots and a mixed forest community | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 263 | Comparing forest roots at Cairo, Svalbard and southwest England; record versus origin | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 264 | Vegetation, river banks and mineral weathering; testing carbon-cycle and climate effects | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 265–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 265 | Arthropod trackways, substrate experiments and exposed-surface visits versus terrestrial residence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 266–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–264 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–265 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -48,7 +49,8 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
+- `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 265–272:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 266–272:** continue the research/write/commit loop.
