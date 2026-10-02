@@ -7,14 +7,16 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–279 TEXT LOCKED**; 3 of 28 planned pages.
-- Continuous narrative checkpoint: **017–279**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **pages 277–280 TEXT LOCKED**; 4 of 28 planned pages.
+- Continuous narrative checkpoint: **017–280**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 280:** end-Permian chronology and the relationship between Siberian magmatism and biological losses. Commit and verify page 279 before researching page 280.
+**Chapter 10 — Worlds Lost, page 281:** end-Permian environmental killing mechanisms and biological responses. Test evidence for changes in temperature, oxygen availability and ocean chemistry without collapsing timing, mechanism and selectivity into one claim. Page 281 research begins only after page 280 is committed and verified.
 
-## Current pass
-Pages **274–279** add eighteen claim checkpoints **E-0184–E-0201**. Sources: **S9-95–S9-102** (eight) and **S10-01–S10-09** (nine). Individual Chapter 9 supplements 274–276 and Chapter 10 supplements 277–279 contain page/evidence rows, notes and access limits.
+## Current continuation — seven-page pass
+Pages **274–280** add **21 claim checkpoints, E-0184–E-0204**, and **20 source records: S9-95–S9-102 (eight) and S10-01–S10-12 (twelve)**. Individual Chapter 9 supplements 274–276 and Chapter 10 supplements 277–280 contain page/evidence rows, fact-check notes and source-access limits.
+
+Coverage: Romer's Gap and sampling; early seed structures; amniotic membranes and uncertain ancestral reproduction; extinction-detection methods; the Ordovician crisis; distinct Devonian crises; and end-Permian chronology. Chapter 9 is complete for manuscript Phase A, and the opening four pages of Chapter 10 are text-locked. Each page has its own GitHub checkpoint and read-back verification before next-page research. Earlier manuscript pages 017–273 are unchanged by this pass.
 
 ## Earlier completed checkpoints
 - Pages 267–273: seven separate verified page checkpoints; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files remain unchanged.
