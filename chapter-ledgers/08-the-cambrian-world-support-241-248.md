@@ -1,8 +1,8 @@
 # Chapter 8 support register — pages 241–248
 
-**Verified through page 244:** 2026-10-02  
+**Verified through page 245:** 2026-10-02  
 **Phase:** A — manuscript / research  
-**Decision:** pages 241–244 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
+**Decision:** pages 241–245 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
 
 ## Scope and evidence boundary
 
@@ -22,6 +22,9 @@ This section widens from individual animals to environments, ecological change a
 | E-0094 | 244 | ESTABLISHED fossil association / strongly supported behaviour: Waptia fossils preserve eggs beneath the carapace, some with embryonic remains, supporting brood care. | S8-52 | Minimum-age evidence; no feelings, post-hatching care or first origin established. |
 | E-0095 | 244 | STRONGLY SUPPORTED anatomical interpretation: Detailed Waptia anatomy supports mandibulate affinities and specialised sensory, swimming and feeding structures. | S8-54 | Finer phylogenetic placement remains under investigation; no modern shrimp identity asserted. |
 | E-0096 | 244 | ESTABLISHED measurements / PROPOSED evolutionary explanation: Chuandianella carried more, smaller eggs than Waptia in studied fossils; researchers interpret the contrast as a reproductive trade-off. | S8-53 | Approximate fossil measurements; complete budgets, survival rates and causes not directly measured; no direct ancestry claimed. |
+| E-0097 | 245 | STRONGLY SUPPORTED regional analysis: Across Sinsk, Siberian skeletal-animal species richness and functional richness followed different trajectories, with recovery involving changed trait combinations. | S8-55 | Regional dataset and assigned traits; no complete global ecological census. |
+| E-0098 | 245 | PROPOSED causal cascade / locally supported redox interpretation: A tectonic-volcanic-climate cascade has been proposed for Sinsk; South China evidence permits persistently oxygenated shallow settings during the crisis. | S8-57, S8-58 | Causal timing remains testable; local oxygenation does not map all seas or refute broader deoxygenation. |
+| E-0099 | 245 | ESTABLISHED fossil assemblage / SUPPORTED ecological interpretation: The post-Sinsk Huayuan biota preserves diverse soft-bodied animals and supports investigations of community reorganisation and possible outer-shelf refuges. | S8-56 | Post-event assemblage; no direct observation of every survivor or universal refugium. |
 
 ## Sources and access record
 
@@ -40,6 +43,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 - **S8-52:** Caron & Vannier (2016), [Waptia and the Diversification of Brood Care in Early Arthropods](https://doi.org/10.1016/j.cub.2015.11.006). [Primary abstract record](https://pubmed.ncbi.nlm.nih.gov/26711492/) and indexed publisher passages checked for egg position, embryos and minimum-age interpretation; publisher full-text opening blocked.
 - **S8-53:** Ou et al. (2020), [Evolutionary trade-off in reproduction of Cambrian arthropods](https://doi.org/10.1126/sciadv.aaz3376). [Indexed primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190318/) checked for comparative brood/egg sizes and proposed trade-off; full-text opening blocked by browser check. Approximate figures retained; phylogenetic and causal hypotheses not made certain.
 - **S8-54:** Vannier, Aria, Taylor & Caron (2018), [Waptia fieldensis Walcott, a mandibulate arthropod from the middle Cambrian Burgess Shale](https://doi.org/10.1098/rsos.172206). Indexed primary abstract/article passages and [ROM collection account](https://burgess-shale.rom.on.ca/fossils/waptia-fieldensis/) checked for methods, anatomy and relationship limits; exact numerical deposit age omitted.
+- **S8-55:** Murphy, Penny, Zhuravlev & Wood (2025), [Changes in metazoan functional diversity across the Cambrian Radiation and the first Phanerozoic mass extinction: the Cambrian Sinsk Event](https://doi.org/10.1098/rspb.2025.0968). [Edinburgh author article](https://www.pure.ed.ac.uk/ws/portalfiles/portal/537889363/murphy-et-al-changes-in-metazoan-functional-diversity-across-the-cambrian-radiation-and-the-first-phanerozoic-mass.pdf) checked for methods, decoupled richness and regional scope.
+- **S8-56:** Zeng et al. (2026), [A Cambrian soft-bodied biota after the first Phanerozoic mass extinction](https://doi.org/10.1038/s41586-025-10030-0). Indexed primary abstract and [CAS research-team account](https://english.cas.cn/special-reports/2026q1/202604/t20260427_1158170.shtml) checked; publisher opening unstable. No exact global recovery curve inferred from one locality.
+- **S8-57:** Myrow et al. (2024), [Tectonic trigger to the first major extinction of the Phanerozoic: The early Cambrian Sinsk event](https://doi.org/10.1126/sciadv.adl3452). [Macquarie archived article](https://research-management.mq.edu.au/ws/portalfiles/portal/420743450/415662775.pdf) checked, including explicit dating-dependent hypothesis and future geochronological tests.
+- **S8-58:** Zhang et al. (2026), [Persistence of oxygenated shallow-marine environments in the Three Gorges area, South China during the first Phanerozoic mass extinction](https://doi.org/10.1016/j.palaeo.2026.114011). Indexed publisher abstract/highlights checked; full text blocked. Local redox interpretation retained with geographical limits.
 
 ## Page checks
 
@@ -49,9 +56,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 | 242 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 243 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 244 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
+| 245 | 502 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 
 All completed pages reviewed for continuity. Artwork and final layout remain pending. Earlier chapter records retain their authority.
 
 ## Next target
 
-**Page 245**, then continue through page 248.
+**Page 246**, then continue through page 248.

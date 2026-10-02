@@ -4,12 +4,12 @@
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 225–232 | Boundary, fossil visibility, burrowing, skeletons, predation, eyes, preservation and food webs | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 233–240 | Named fossils, stem/crown relationships, appendages, feeding, attachments, reefs and early chordates | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 241–244 | Wider environments, ecological change and transition toward terrestrial life | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 245–248 | Continue wider environments, ecological innovations, turnover and chapter transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 241–245 | Wider environments, ecological change and transition toward terrestrial life | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 246–248 | Continue wider environments, ecological innovations, turnover and chapter transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 8 status
 
-**Pages 225–244 are TEXT LOCKED for Phase A. Chapter 8 remains in progress.**
+**Pages 225–245 are TEXT LOCKED for Phase A. Chapter 8 remains in progress.**
 
 Existing artwork briefs are retained. New pages 241–248 remain unbriefed during the writing-only loop. Artwork, final layout and publication review remain later phases.
 
@@ -35,4 +35,4 @@ Existing artwork briefs are retained. New pages 241–248 remain unbriefed durin
 
 ## Next target
 
-**Chapter 8, pages 245–248:** continue one researched, checked and committed page at a time.
+**Chapter 8, pages 246–248:** continue one researched, checked and committed page at a time.
