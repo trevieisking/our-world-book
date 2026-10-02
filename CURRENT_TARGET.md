@@ -2,7 +2,7 @@
 
 **Phase:** A — Manuscript / Research  
 **Book:** *Our World: The History We Know*  
-**Checkpoint verified:** 2026-10-02
+**Checkpoint checked:** 2026-10-02
 
 ## Locked manuscript status
 - Prologue pages **017–032** — TEXT LOCKED
@@ -14,47 +14,30 @@
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
 - Chapter 8 pages **225–248** — TEXT LOCKED
-- Chapter 9 pages **249–266** — TEXT LOCKED
+- Chapter 9 pages **249–267** — TEXT LOCKED
 
 ## Next target
 ### Chapter 9 — Life Comes Ashore
-Pages **267–272**
+**Next individual page: 268.** Continue terrestrial arthropods and the vertebrate transition. Chapter ends on page 276. Normal pass size remains about 7–10 pages; do not research the next page before committing and verifying the current page.
 
-Next individual page: **267**. Continue the evidence-led history of terrestrial animals and ecosystems.
+## Current continuation
+Page 267 adds food-web evidence from coprolites, probable decay associations and feeding anatomy. Its page row, claim rows, source access and fact-check are saved together in `chapter-ledgers/09-life-comes-ashore-support-267.md`. Individual supplements avoid re-writing earlier evidence records and provide recovery checkpoints.
 
-## Completed checkpoints
-Pages 265–266 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 1,004 prose words and 6 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
+## Prior completed checkpoints
+Pages 265–266: separate verified page checkpoints, 1,004 prose words and 6 claims. Pages 257–264: separate verified page checkpoints, 4,056 prose words and 24 claims. Pages 249–256: separate verified page checkpoints, 3,959 prose words and 24 claims. Chapter 9 remains in progress; artwork is pending.
 
-Pages 257–264 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 4,056 prose words and 24 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
-
-Pages 249–256 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 3,959 prose words and 24 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
-
-The active Chapter 9 records are:
+Earlier Chapter 9 records remain:
 - `chapter-ledgers/09-life-comes-ashore.md`
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
-- `chapter-ledgers/09-life-comes-ashore-support-265-272.md`
+- `chapter-ledgers/09-life-comes-ashore-support-265-272.md` (earlier checkpoint through 266; later pages use individual supplements)
 
-Pages 241–248 are now researched, written and fact-checked in separate GitHub page checkpoints, adding 4,052 prose words and 22 claim checkpoints. **Chapter 8 manuscript is complete.** Artwork remains pending.
-
-Pages 225–232 were recovered, fact-checked and locked. Pages 233–240 are now researched, drafted, fact-checked and TEXT LOCKED, with eight new artwork briefs and fourteen claim checkpoints.
-
-The current Chapter 8 records are:
-- `chapter-ledgers/08-the-cambrian-world.md`
-- `chapter-ledgers/08-the-cambrian-world-support-225-232.md`
-- `chapter-ledgers/08-the-cambrian-world-support-233-240.md`
-- `chapter-ledgers/08-the-cambrian-world-support-241-248.md`
-
-The chapter records include the 2025 *Shishania* reinterpretation, competing *Hallucigenia* placements, revised 2024 *Pikaia* anatomy and the 2021 *Pahvantia* reappraisal. The closing pages distinguish local oxygenation from broader ocean models, Sinsk losses from recovery, fossil absence from extinction, and non-marine microfossils from evidence of land plants. Numerical boundary ages use the June 2026 ICS chart with uncertainty.
+Chapter 8 manuscript is complete. Pages 241–248 added 4,052 prose words and 22 claims. Pages 225–232 were recovered and checked; pages 233–240 added eight briefs and fourteen claims before the writing-only rule. Its chapter ledger and support registers 225–232, 233–240 and 241–248 remain authoritative. They retain the 2025 Shishania reassessment, competing Hallucigenia placements, 2024 Pikaia anatomy and 2021 Pahvantia reappraisal, with local/global oxygen and preservation boundaries. Numerical boundary ages use the June 2026 ICS chart with uncertainty.
 
 ## Production rule
-User instruction confirmed 2026-10-02: **writing only until the whole book manuscript is written**.
+User instruction confirmed 2026-10-02: **writing only until the whole manuscript is written**.
 
-Continue **research one page -> record evidence -> write -> fact-check -> text lock -> commit and verify in GitHub -> research the next page**. Normally complete about 7–10 pages in a pass and report back.
-
-Do not generate images or spend this loop authoring new image briefs, reading-copy PDFs or other extra deliverables. Existing artwork records remain for Phase B.
+Research one page -> record evidence -> write -> fact-check -> TEXT LOCK -> commit and verify in GitHub -> research the next page. Do not generate images, new artwork briefs, reading-copy PDFs or extra deliverables. Retain existing artwork records for Phase B.
 
 ## Status authority
-This file and per-chapter support registers control active progress. New page, evidence and chapter rows are synchronised at every page checkpoint. Older placeholder rows and support integration still require a later reconciliation pass.
-
-TEXT LOCKED is a Phase A checkpoint. FINAL requires later artwork, layout and publication checks.
+This file, chapter ledger and individual support supplements control active progress. Each new supplement synchronises its page row and evidence claims at the page checkpoint. Root PAGE_LEDGER/EVIDENCE_LEDGER integration and older placeholder reconciliation must not be confused with verified page production. TEXT LOCKED is Phase A only; FINAL requires later artwork, layout and publication checks.

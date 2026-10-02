@@ -20,16 +20,14 @@
 | 264 | Vegetation, river banks and mineral weathering; testing carbon-cycle and climate effects | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 265 | Arthropod trackways, substrate experiments and exposed-surface visits versus terrestrial residence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 266 | Spiracles and book-lung supports; revised fossil ages and air-breathing capacity versus habitat | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 267–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 267 | Coprolites, probable decay associations and predatory feeding anatomy | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 268–276 | Remaining terrestrial arthropods, vertebrate transitions and chapter synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
-
-**Pages 249–266 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
-
+**Pages 249–267 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
 ## Evidence boundaries
-
 - Distinguish a visit to an exposed surface, residence there, reproduction and broader ecosystem occupation.
 - Continental freshwater life does not establish permanently dry habitation.
 - First fossil appearance gives a minimum occurrence, not an exact evolutionary origin.
@@ -45,13 +43,13 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Fossil wood precedes some large-tree forms; measured geometry does not directly measure ancient water flow.
 - Forest record extensions do not establish a universal origin date, and sedimentary settings filter what survives.
 - Weathering experiments establish local mechanisms; global carbon and climate effects require scaling and model assumptions.
+- Coprolite contents establish ingestion more securely than producer identity or selective diet; feeding anatomy does not identify a particular prey encounter.
 
 ## Support register
-
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
-- `chapter-ledgers/09-life-comes-ashore-support-265-272.md`
+- `chapter-ledgers/09-life-comes-ashore-support-265-272.md` — earlier verified checkpoint through 266.
+- `chapter-ledgers/09-life-comes-ashore-support-267.md` — individual page/evidence supplement.
 
 ## Next target
-
-**Chapter 9 — Life Comes Ashore, pages 267–272:** continue the research/write/commit loop.
+**Page 268.** Research, write, fact-check, commit and verify before moving to page 269. Root-ledger integration remains separate from these active page/evidence checkpoints.
