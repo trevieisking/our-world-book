@@ -4,7 +4,7 @@
 **Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
 
-**Active checkpoint (2026-10-02):** narrative pages 017–263 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–263 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
+**Active checkpoint (2026-10-02):** narrative pages 017–264 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–264 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -271,7 +271,7 @@
 | 261 | Ch. 9 — Life Comes Ashore | Wood before large trees: cambial anatomy, hydraulic estimates and varied trunk growth | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 262 | Ch. 9 — Life Comes Ashore | Gilboa: connected tree reconstruction, in-place roots and a mixed forest community | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 263 | Ch. 9 — Life Comes Ashore | Comparing forest roots at Cairo, Svalbard and southwest England; record versus origin | ✅ | ✅ | ⬜ | ✅ | ⬜ |
-| 264 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 264 | Ch. 9 — Life Comes Ashore | Vegetation, river banks and mineral weathering; testing carbon-cycle and climate effects | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 265 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 266 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 267 | Ch. 9 — Life Comes Ashore | Ch. 9 — Life Comes Ashore — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -569,4 +569,4 @@ Pages **001–016** remain drafted as v0.1. Author credit/dedication, evidence r
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-**Narrative pages 017–263 are TEXT LOCKED for Phase A. Next target: Chapter 9 — Life Comes Ashore, pages 264–264.** Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written. Older placeholder rows still require reconciliation.
+**Narrative pages 017–264 are TEXT LOCKED for Phase A. Next target: Chapter 9 — Life Comes Ashore, pages 265–272.** Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written. Older placeholder rows still require reconciliation.

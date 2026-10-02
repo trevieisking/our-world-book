@@ -198,13 +198,17 @@ This is the claim-control register for **Our World**.
 | E-0152 | 263 | Svalbard lycophyte stands preserve swollen bases and small ribbon-like roots; spore evidence supports an early Late Devonian age rather than the previous latest-Devonian attribution. | CONFIRMED (upright fossils); STRONGLY SUPPORTED (age and ecology) | In-place trees / root morphology / palynology | S9-62; Chapter 9 support register 257–264 | One local wet-soil basin is not a universal forest stage; modern geography does not establish ancient climate. | ✅ |
 | E-0153 | 263 | The 2024 Hangman Sandstone study extends forest evidence into an earlier Middle Devonian interval than the New York sites and documents uneven preservation of plant–sediment interactions. | CONFIRMED (forest evidence); STRONGLY SUPPORTED (older record and sediment context) | Fossils / rooting features / sedimentary structures / stratigraphic comparison | S9-63; Chapter 9 support register 257–264 | Approximately 390 million years is a contextual age, not an exact first-forest origin; preservation varies across depositional settings. | ✅ |
 
+| E-0154 | 264 | River deposits and modern tests support vegetation influencing bank strength and channel form. | STRONGLY SUPPORTED | Comparative sedimentology / modern observations / experimental analogues | S9-64; Chapter 9 support register 257–264 | Other physical controls matter; modern tests do not recreate ancient conditions. | ✅ |
+| E-0155 | 264 | Living-liverwort experiments demonstrate enhanced mineral release and fungal effects relative to controls. | CONFIRMED (experimental response) | Controlled plant–fungus / mineral-weathering experiments | S9-66; Chapter 9 support register 257–264 | Tested conditions establish mechanisms, not measured Devonian global weathering rates. | ✅ |
+| E-0156 | 264 | Forest weathering may affect carbon cycling; modeled soil changes can counteract associated cooling. | HYPOTHESIS / MODEL DEPENDENT | Palaeobotanical / geochemical research framework / coupled climate modeling | S9-65; S9-67; Chapter 9 support register 257–264 | Local fossils do not independently measure global fluxes; climate outcomes depend on model assumptions. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Chapter 9 source authority
-Claim-linked sources and access limits for E-0109–E-0132, pages 249–256, remain in `chapter-ledgers/09-life-comes-ashore-support-249-256.md`. Sources for E-0133–E-0153, pages 257–263, are in `chapter-ledgers/09-life-comes-ashore-support-257-264.md` (verified 2026-10-02). These control the active manuscript checkpoint; legacy register reconciliation remains pending.
+Claim-linked sources and access limits for E-0109–E-0132, pages 249–256, remain in `chapter-ledgers/09-life-comes-ashore-support-249-256.md`. Sources for E-0133–E-0156, pages 257–264, are in `chapter-ledgers/09-life-comes-ashore-support-257-264.md` (verified 2026-10-02). These control the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

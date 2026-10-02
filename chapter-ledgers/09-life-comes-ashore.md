@@ -17,11 +17,12 @@
 | 261 | Wood before large trees: cambial anatomy, hydraulic estimates and varied trunk growth | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 262 | Gilboa: connected tree reconstruction, in-place roots and a mixed forest community | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 263 | Comparing forest roots at Cairo, Svalbard and southwest England; record versus origin | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 264–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 264 | Vegetation, river banks and mineral weathering; testing carbon-cycle and climate effects | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 265–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–263 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–264 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -37,6 +38,11 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Preserved exchange structures do not measure fossil nutrient flux; living experiments remain taxon- and condition-specific.
 - Exceptional hot-spring preservation is a selective local record, not a complete regional or global census.
 - Dates from volcanic and hydrothermal minerals require calibration and correlation with fossil-bearing layers.
+- Preserved conducting tissues and air pathways establish anatomy; physiological performance requires additional evidence.
+- Rooting function, true-root identity and independently evolved leaf structures remain distinct questions.
+- Fossil wood precedes some large-tree forms; measured geometry does not directly measure ancient water flow.
+- Forest record extensions do not establish a universal origin date, and sedimentary settings filter what survives.
+- Weathering experiments establish local mechanisms; global carbon and climate effects require scaling and model assumptions.
 
 ## Support register
 
@@ -45,4 +51,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 264–264:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 265–272:** continue the research/write/commit loop.

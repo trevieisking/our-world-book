@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 263:** 2026-10-02  
+**Verified through page 264:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -33,6 +33,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0151 | 263 | CONFIRMED (root traces); STRONGLY SUPPORTED (attribution): Cairo surface maps and soil cores preserve extensive branched roots and depth traces assigned comparatively to the Archaeopteris group; other fossils show modern-like growth with spore reproduction. | S9-60; S9-61 | Root assignment does not imply every trace preserves diagnostic wood; architectural resemblance is not seed reproduction or a demonstrated direct living ancestor. |
 | E-0152 | 263 | CONFIRMED (upright fossils); STRONGLY SUPPORTED (age and ecology): Svalbard lycophyte stands preserve swollen bases and small ribbon-like roots; spore evidence supports an early Late Devonian age rather than the previous latest-Devonian attribution. | S9-62 | One local wet-soil basin is not a universal forest stage; modern geography does not establish ancient climate. |
 | E-0153 | 263 | CONFIRMED (forest evidence); STRONGLY SUPPORTED (older record and sediment context): The 2024 Hangman Sandstone study extends forest evidence into an earlier Middle Devonian interval than the New York sites and documents uneven preservation of plant–sediment interactions. | S9-63 | Approximately 390 million years is a contextual age, not an exact first-forest origin; preservation varies across depositional settings. |
+| E-0154 | 264 | STRONGLY SUPPORTED: River deposits and modern tests support vegetation influencing bank strength and channel form. | S9-64 | Other physical controls matter; modern tests do not recreate ancient conditions. |
+| E-0155 | 264 | CONFIRMED (experimental response): Living-liverwort experiments demonstrate enhanced mineral release and fungal effects relative to controls. | S9-66 | Tested conditions establish mechanisms, not measured Devonian global weathering rates. |
+| E-0156 | 264 | HYPOTHESIS / MODEL DEPENDENT: Forest weathering may affect carbon cycling; modeled soil changes can counteract associated cooling. | S9-65; S9-67 | Local fossils do not independently measure global fluxes; climate outcomes depend on model assumptions. |
 
 ## Sources and access record
 
@@ -65,6 +68,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-61:** Meyer-Berthaud, B., Scheckler, S. E. & Wendt, J. (1999), *Archaeopteris is the earliest known modern tree*. **Nature** 398, 700–701. [doi:10.1038/19516](https://doi.org/10.1038/19516). Indexed publisher abstract and author-deposited text checked for spore reproduction and branching / wood comparisons. 'Modern' is limited to specified architectural features; title not used as a universal tree-origin claim.
 - **S9-62:** Berry, C. M. & Marshall, J. E. A. (2015), *Lycopsid forests in the early Late Devonian paleoequatorial zone of Svalbard*. **Geology** 43, 1043–1046. [doi:10.1130/G37000.1](https://doi.org/10.1130/G37000.1). [Author-deposited published article](https://orca.cardiff.ac.uk/id/eprint/81746/1/Geology-2015-Berry-1043-6.pdf) checked for root shape, upright stands, spore dating and sedimentary setting. Primary article year 2015 takes precedence over a conflicting repository metadata year; no global climate effect asserted here.
 - **S9-63:** Davies, N. S., McMahon, W. J. & Berry, C. M. (2024), *Earth's earliest forest: fossilized trees and vegetation-induced sedimentary structures from the Middle Devonian (Eifelian) Hangman Sandstone Formation, Somerset and Devon, SW England*. **Journal of the Geological Society** 181, jgs2023-204. [doi:10.1144/jgs2023-204](https://doi.org/10.1144/jgs2023-204). Full [author-repository abstract](https://orca.cardiff.ac.uk/id/eprint/166971/) checked for fossil attribution, stratigraphic interval and preservation bias. Full PDF unavailable. Approximate 390-million-year age corroborated by the [research team's university account](https://www.cam.ac.uk/stories/earths-earliest-forest-somerset). Record extension, not exact evolutionary origin, is asserted.
+- **S9-64:** Gibling, M. R. & Davies, N. S. (2012), *Palaeozoic landscapes shaped by plant evolution*. **Nature Geoscience** 5, 99–105. [doi:10.1038/ngeo1376](https://doi.org/10.1038/ngeo1376). Full [scholarly deposited article](https://sseh.uchicago.edu/doc/Gibling_and_Davies_2012.pdf) checked. Authored synthesis of river deposits and process tests; older atmospheric and origin-date claims are not adopted.
+- **S9-65:** Morris, J. L. et al. (2015), *Investigating Devonian trees as geo-engineers of past climates: linking palaeosols to palaeobotany and experimental geobiology*. **Palaeontology** 58, 787–801. [doi:10.1111/pala.12185](https://doi.org/10.1111/pala.12185). [Publisher full text](https://onlinelibrary.wiley.com/doi/full/10.1111/pala.12185) checked for the hypothesis, weathering–carbon link and investigation framework. Proposed tests are distinguished from demonstrated global outcomes.
+- **S9-66:** Quirk, J. et al. (2015), *Constraining the role of early land plants in Palaeozoic weathering and global cooling*. **Proceedings of the Royal Society B** 282, 20151115. [doi:10.1098/rspb.2015.1115](https://doi.org/10.1098/rspb.2015.1115). Full [author-deposited published article](https://eprints.whiterose.ac.uk/id/eprint/104983/1/Constraining%20the%20role%20of%20early%20land%20plants%20in%20Palaeozoic%20weathering%20and%20global%20cooling.pdf) checked for experimental controls, mineral responses and scaling limits. No direct ancient flux is claimed.
+- **S9-67:** Le Hir, G. et al. (2011), *The climate change caused by the land plant invasion in the Devonian*. **Earth and Planetary Science Letters** 310, 203–212. [doi:10.1016/j.epsl.2011.08.042](https://doi.org/10.1016/j.epsl.2011.08.042). Indexed [publisher abstract](https://www.sciencedirect.com/science/article/pii/S0012821X11005061) checked; direct article and author-repository access were unavailable. The qualitative modeled counteracting effect is reported without adopting numerical reconstructions.
 
 ## Page checks
 
@@ -77,9 +84,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 | 261 | 515 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 262 | 513 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 263 | 519 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 264 | 504 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 264–264.**
+**Chapter 9 — Life Comes Ashore, pages 265–272.**
