@@ -14,20 +14,23 @@
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
 - Chapter 8 pages **225–248** — TEXT LOCKED
-- Chapter 9 pages **249–256** — TEXT LOCKED
+- Chapter 9 pages **249–257** — TEXT LOCKED
 
 ## Next target
 ### Chapter 9 — Life Comes Ashore
-Pages **257–264**
+Pages **258–264**
 
-Next individual page: **257**. Begin with internal water transport and support in early plants, then attachment structures, roots and the development of terrestrial vegetation. Continue the separate evidence-led histories of plants, fungi and animals.
+Next individual page: **258**. Continue the evidence-led history of terrestrial plants and ecosystems.
 
 ## Completed checkpoints
+Pages 257–257 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 490 prose words and 3 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
+
 Pages 249–256 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 3,959 prose words and 24 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
 
 The active Chapter 9 records are:
 - `chapter-ledgers/09-life-comes-ashore.md`
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
+- `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
 
 Pages 241–248 are now researched, written and fact-checked in separate GitHub page checkpoints, adding 4,052 prose words and 22 claim checkpoints. **Chapter 8 manuscript is complete.** Artwork remains pending.
 

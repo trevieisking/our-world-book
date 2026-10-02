@@ -10,11 +10,12 @@
 | 254 | Ancient fungi: filamentous growth, fossil identity and habitat limits | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 255 | Plant–fungus associations: fossil arbuscules and experimentally measured exchange | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 256 | Rhynie preservation: hot-spring habitats, dating constraints and regional flora | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 257–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 257 | Water- and food-conducting tissues: anatomy, wall chemistry and asynchronous evolution | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 258–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–256 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–257 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -34,7 +35,8 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 ## Support register
 
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
+- `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 257–264:** begin with plant transport tissues and support, then attachment structures, roots and expanding vegetation. Research and checkpoint each page before starting the next.
+**Chapter 9 — Life Comes Ashore, pages 258–264:** continue the research/write/commit loop.
