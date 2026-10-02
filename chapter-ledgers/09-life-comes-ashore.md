@@ -3,11 +3,12 @@
 | Pages | Subject | Text | Research | Artwork brief | Fact-check | Phase A |
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 249 | Terrestrial habitat stages, water balance, exposure and reproductive dependence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 250–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 250 | Moodies microbial mats, ancient soils and limits of biological weathering evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 251–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–249 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–250 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -27,4 +28,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 250–256:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 251–256:** continue the research/write/commit loop.
