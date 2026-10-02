@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 258:** 2026-10-02  
+**Verified through page 259:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -18,6 +18,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0136 | 258 | CONFIRMED (preserved anatomy): Rhynia and Aglaophyton preserve stomata connected through channels to internal chambers; stomatal form and distribution vary across the Rhynie flora. | S9-41 | Pore anatomy records an air pathway, not directly measured aperture movement or gas exchange in the fossil plant. |
 | E-0137 | 258 | CONFIRMED (tested moss experiment); STRONGLY SUPPORTED (developmental relationship): Chater et al. disrupted stomatal-development regulators in a moss, producing stomata-less capsules with delayed dehiscence and identifying conserved developmental relationships with flowering plants. | S9-43; S9-42 | The experiment concerns a living moss; shared developmental genes do not establish identical physiological regulation in extinct plants. |
 | E-0138 | 258 | CONFIRMED (2025 sampled result); DEBATED (ancestral function): A 2022 synthesis supports ancestral active regulation, while Duckett et al. (2025) report no response to tested external cues in more than 25,000 apertures from twelve moss species, challenging that interpretation. | S9-41; S9-44; S9-42 | Results are bounded by sampled species and treatments; neither living experiment directly measures extinct stomatal physiology. |
+| E-0139 | 259 | CONFIRMED (tip anatomy); STRONGLY SUPPORTED (capless interpretation): Asteroxylon rooting-axis tips preserve continuous outer tissue and cell arrangements inconsistent with root-cap production. | S9-45; S9-48 | Rooting function and organ identity are distinct; the inference uses preserved tissues, not missing anatomy alone. |
+| E-0140 | 259 | CONFIRMED (connections); STRONGLY SUPPORTED (development): Serial reconstruction distinguishes three Asteroxylon axis types; junctions and meristem evidence support rooting-axis development through unequal tip division. | S9-46 | The connected reconstructed portion is not a complete census of the entire plant; development is inferred from fossil structure. |
+| E-0141 | 259 | STRONGLY SUPPORTED (phylogenetic interpretation): Comparative fossil character mapping supports stepwise root evolution and at least two independent origins, in lycophytes and the fern–seed-plant lineage. | S9-47; S9-45; S9-48 | The number and sequence depend on reconstructed relationships and character definitions; no continuous ancestral series is claimed. |
 
 ## Sources and access record
 
@@ -31,6 +34,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-42:** Chen, G. et al. (2024), *Stomatal evolution and plant adaptation to future climate*. **Plant, Cell & Environment** 47, 3299–3315. [doi:10.1111/pce.14953](https://doi.org/10.1111/pce.14953). [Institutional full text](https://eprints.whiterose.ac.uk/id/eprint/212643/1/Plant%20Cell%20%20%20Environment%20-%202024%20-%20Chen%20-%20Stomatal%20evolution%20and%20plant%20adaptation%20to%20future%20climate.pdf) checked for guard-cell pressure, gas exchange and distinctions between developmental and movement-related gene histories. Conflicting early-origin estimates not adopted.
 - **S9-43:** Chater, C. C. et al. (2016), *Origin and function of stomata in the moss Physcomitrella patens*. **Nature Plants** 2, 16179. [doi:10.1038/nplants.2016.179](https://doi.org/10.1038/nplants.2016.179). Indexed publisher abstract, [PubMed](https://pubmed.ncbi.nlm.nih.gov/27892923/) and indexed author manuscript excerpts checked for gene disruptions, protein interactions and delayed capsule dehiscence. Direct publisher / PMC body unavailable.
 - **S9-44:** Duckett, J. G., Schickler, H. & Pressel, S. (2025), *The effects of external cues on moss stomatal apertures: a reappraisal of existing data and new experimental evidence*. **Bryophyte Diversity and Evolution** 49, 1–21. [doi:10.11646/bde.49.1.1](https://doi.org/10.11646/bde.49.1.1). [Full publisher abstract](https://www.mapress.com/bde/article/view/bde.49.1.1) checked for twelve-species sampling, more than 25,000 apertures, split-capsule controls and reported absence of responses. Full article requires subscription; no unaccessed methods detail asserted.
+- **S9-45:** Hetherington, A. J. & Dolan, L. (2018), *Stepwise and independent origins of roots among land plants*. **Nature** 561, 235–238. [doi:10.1038/s41586-018-0445-z](https://doi.org/10.1038/s41586-018-0445-z). Publisher abstract, figure captions and extended-data descriptions checked for epidermis, cell divisions and cap absence; subscription body not accessed.
+- **S9-46:** Hetherington, A. J., Bridson, S. L., Jones, A. L., Hass, H., Kerp, H. & Dolan, L. (2021), *An evidence-based 3D reconstruction of Asteroxylon mackiei, the most complex plant preserved from the Rhynie chert*. **eLife** 10, e69447. [doi:10.7554/eLife.69447](https://doi.org/10.7554/eLife.69447). Indexed primary abstract, results and [figure descriptions](https://elifesciences.org/articles/69447/figures) checked, plus published peer-review clarification that the work reconstructs the rooting system rather than the whole plant. Direct full article / PDF blocked.
+- **S9-47:** Hetherington, A. J. & Dolan, L. (2019), *Rhynie chert fossils demonstrate the independent origin and gradual evolution of lycophyte roots*. **Current Opinion in Plant Biology** 47, 119–126. [doi:10.1016/j.pbi.2018.12.001](https://doi.org/10.1016/j.pbi.2018.12.001). Indexed publisher abstract and introduction checked for character mapping, lineage definitions and independent-origin interpretation; institutional publication metadata verified.
+- **S9-48:** Kenrick, P. & Strullu-Derrien, C. (2014), *The Origin and Early Evolution of Roots*. **Plant Physiology** 166, 570–580. [doi:10.1104/pp.114.244517](https://doi.org/10.1104/pp.114.244517). Indexed primary abstract and text checked for root characteristics, protective cap and piecemeal evolution. Earlier geological boundary numbers not adopted.
 
 ## Page checks
 
@@ -38,9 +45,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 |---:|---:|:---:|:---:|---|
 | 257 | 490 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 258 | 505 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 259 | 499 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 259–264.**
+**Chapter 9 — Life Comes Ashore, pages 260–264.**
