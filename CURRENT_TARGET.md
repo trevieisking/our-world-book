@@ -14,14 +14,14 @@
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
 - Chapter 8 pages **225–248** — TEXT LOCKED
-- Chapter 9 pages **249–269** — TEXT LOCKED
+- Chapter 9 pages **249–270** — TEXT LOCKED
 
 ## Next target
 ### Chapter 9 — Life Comes Ashore
-**Next individual page: 270.** Continue the vertebrate transition from fins to limbs. Chapter ends on page 276. Normal pass size remains about 7–10 pages; commit and verify each page before researching the next.
+**Next individual page: 271.** Continue with vertebrate traces and the timing of the fin-to-limb transition. Chapter ends on page 276. Normal pass size remains about 7–10 pages; commit and verify each page before researching the next.
 
 ## Current continuation
-Pages 267–269 add food-web evidence, early hexapod identities including the August 2026 Chosha description, and fin-to-hand anatomy with 2025 developmental research. Their page rows, claim rows, source access and checks are saved in individual `chapter-ledgers/09-life-comes-ashore-support-267.md`, `...support-268.md` and `...support-269.md` supplements. These preserve earlier records and provide recovery checkpoints.
+Pages 267–270 add food-web evidence, early hexapod identities including the August 2026 Chosha description, fin-to-hand anatomy with 2025 developmental research, and Tiktaalik body support incorporating the 2024 axial study. Page/evidence rows and source access are in individual `chapter-ledgers/09-life-comes-ashore-support-267.md` through `...support-270.md` supplements. These preserve earlier records and provide recovery checkpoints.
 
 ## Prior completed checkpoints
 Pages 265–266: separate verified page checkpoints, 1,004 prose words and 6 claims. Pages 257–264: separate verified page checkpoints, 4,056 prose words and 24 claims. Pages 249–256: separate verified page checkpoints, 3,959 prose words and 24 claims. Chapter 9 remains in progress; artwork is pending.
