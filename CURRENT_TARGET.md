@@ -14,16 +14,16 @@
 - Chapter 6 pages **177–200** — TEXT LOCKED
 - Chapter 7 pages **201–224** — TEXT LOCKED
 - Chapter 8 pages **225–248** — TEXT LOCKED
-- Chapter 9 pages **249–253** — TEXT LOCKED
+- Chapter 9 pages **249–254** — TEXT LOCKED
 
 ## Next target
 ### Chapter 9 — Life Comes Ashore
-Pages **254–256**
+Pages **255–256**
 
-Next individual page: **254**. Continue the separate evidence-led histories of terrestrial plants, fungi and animals.
+Next individual page: **255**. Continue the separate evidence-led histories of terrestrial plants, fungi and animals.
 
 ## Completed checkpoints
-Pages 249–253 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 2,469 prose words and 15 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
+Pages 249–254 are now researched, written and fact-checked in separate verified GitHub page checkpoints, adding 2,967 prose words and 18 claim checkpoints. Chapter 9 remains in progress; artwork is pending.
 
 The active Chapter 9 records are:
 - `chapter-ledgers/09-life-comes-ashore.md`

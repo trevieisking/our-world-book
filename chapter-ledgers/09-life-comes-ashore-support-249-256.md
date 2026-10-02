@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 249–256
 
-**Verified through page 253:** 2026-10-02  
+**Verified through page 254:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. All artwork work deferred until the whole manuscript is written.
 
@@ -27,6 +27,9 @@ The opening pages follow terrestrial habitats, early microbial occupation, algal
 | E-0121 | 253 | ESTABLISHED fossil morphology and specimen-specific anatomy: Cooksonia preserves branching axes with terminal sporangia; Early Devonian C. pertoni specimens reveal differentially thickened conducting cells. | S9-19, S9-23 | Younger anatomical specimens do not prove identical tissues in every Silurian cooksonioid; no universal first vascular plant or direct ancestor asserted. |
 | E-0122 | 253 | STRONGLY SUPPORTED functional constraints / proposed physiological interpretation: Axis size constrains available tissue space; small cooksonioid sporophytes may have depended on gametophytes while larger examples could support photosynthetic autonomy. | S9-20, S9-21; S9-05 for generation definitions | No fossil photosynthetic rate measured; preserved size and tissue allocation support differing hypotheses rather than one physiology for the entire genus. |
 | E-0123 | 253 | ESTABLISHED dating principle / study-specific numerical constraints: Detrital zircon U–Pb dating of Welsh and Irish Cooksonia-bearing sediments supplies maximum depositional ages. | S9-22 | Crystal formation precedes or coincides with deposition; not a direct exact age of fossil growth or a universal origin date. |
+| E-0124 | 254 | CONFIRMED (living physiology); UNCERTAIN (ancestral extrapolation): Many living fungi grow as hyphae forming mycelia and obtain organic nutrients by absorption, often using extracellular enzymes; these traits do not identify the food or ancestral lifestyle of an isolated fossil. | S9-24 | Fungal forms and ecological strategies vary. Modern decomposition cannot be assigned to every early filament. |
+| E-0125 | 254 | STRONGLY SUPPORTED (reported fungal affinity); UNCERTAIN (terrestrial residence): Loron et al. identify Ourasphaira from approximately 1,010–890 Ma Grassy Bay shales as fungal using morphology, wall ultrastructure and spectroscopy; estuarine preservation does not demonstrate permanent dry-land occupation. | S9-25 | Host-rock interval is not an exact origin date. Combined fungal-affinity argument is not a claim of a crown mushroom or direct living ancestor. |
+| E-0126 | 254 | STRONGLY SUPPORTED (probable fungal growth); DEBATED (Dikarya placement): Smith's Tortotubus study reconstructs retrograde branching and cord-forming differentiated growth; Auxier et al. accept probable fungal hyphae but challenge placement in Dikarya. | S9-26; S9-27 | Growth reconstructed across specimens. Anatomical resemblance alone does not establish homology, nutrient transport or a specific feeding relationship. |
 
 ## Sources and access record
 
@@ -55,6 +58,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 - **S9-21:** Libertín, M., Kvaček, J., Bek, J., Žárský, V. & Štorch, P. (2018), *Sporophytes of polysporangiate land plants from the early Silurian period may have been photosynthetically autonomous*. **Nature Plants** 4, 269–271. [doi:10.1038/s41477-018-0140-y](https://doi.org/10.1038/s41477-018-0140-y). Primary publisher indexed article summary and [publisher-hosted supplement](https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41477-018-0140-y/MediaObjects/41477_2018_140_MOESM1_ESM.pdf) checked for Czech cooksonioid morphology and inferred autonomy. Direct article open failed. Broadly Silurian occurrence used; historical 432 Ma estimate not treated as an exact globally calibrated origin.
 - **S9-22:** Garza, H. K. et al. (2024), *Detrital U-Pb ages for the first well-preserved vascular plant Cooksonia from the UK and Irish macrofossil record*. **Geological Magazine** 161, e19. [doi:10.1017/S0016756824000384](https://doi.org/10.1017/S0016756824000384). Accessible publisher full article checked for detrital-zircon methods, site-specific maximum depositional ages and precision limits. No plant-body age directly dated. Introductory blanket molecular-origin, tetrad-origin and oldest-global-site statements not adopted; Czech and older fragmentary records kept separate.
 - **S9-23:** Edwards, D. & Kenrick, P. (2015), *The early evolution of land plants, from fossils to genomics: a commentary on Lang (1937) ‘On the plant-remains from the Downtonian of England and Wales’*. **Philosophical Transactions of the Royal Society B** 370, 20140343. [doi:10.1098/rstb.2014.0343](https://doi.org/10.1098/rstb.2014.0343). Primary publisher/PMC indexed article text and author institutional record checked for Cooksonia form, preservation and anatomical advances. No outdated relationships or complete reconstructed basal organs adopted.
+- **S9-24:** Naranjo-Ortiz, M. A. & Gabaldón, T. (2019), *Fungal evolution: major ecological adaptations and evolutionary transitions*. **Biological Reviews** 94, 1443–1476. [doi:10.1111/brv.12510](https://doi.org/10.1111/brv.12510). Full publisher text checked, especially introduction and terrestrialization limits; speculative scenarios are not presented as established events.
+- **S9-25:** Loron, C. C. et al. (2019), *Early fungi from the Proterozoic era in Arctic Canada*. **Nature** 570, 232–235. [doi:10.1038/s41586-019-1217-0](https://doi.org/10.1038/s41586-019-1217-0). Indexed publisher abstract and [research-team account](https://www.earlylife.uliege.be/cms/c_4961524/en/researchers-from-uliege-discover-the-oldest-fossil-fungi-known-to-date) checked; direct article access blocked. [Author correction](https://doi.org/10.1038/s41586-019-1396-8), Nature 571, E11, checked through indexed publisher text: TEM methods replacement. Historical superlatives and universal terrestrial-arrival claims are not adopted.
+- **S9-26:** Smith, M. R. (2016), *Cord-forming Palaeozoic fungi in terrestrial assemblages*. **Botanical Journal of the Linnean Society** 180, 452–460. [doi:10.1111/boj.12389](https://doi.org/10.1111/boj.12389). Publisher abstract and supporting-information listing checked; full body not accessible. Morphology and reconstructed growth retained; Dikarya assignment paired with its published critique.
+- **S9-27:** Auxier, B. et al. (2016), *No place among the living: phylogenetic considerations place the Palaeozoic fossil T. protuberans in Fungi but not in Dikarya. A comment on M. Smith (2016)*. **Botanical Journal of the Linnean Society** 182, 723–728. [doi:10.1111/boj.12479](https://doi.org/10.1111/boj.12479). Publisher abstract checked (Oxford redirect / indexed Wiley text); probable fungal hyphae distinguished from disputed exact clade placement.
 
 ## Page checks
 
@@ -65,9 +72,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 | 251 | 494 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 252 | 489 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 253 | 491 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 254 | 498 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Previous chapter evidence registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 254–256.**
+**Chapter 9 — Life Comes Ashore, pages 255–256.**
