@@ -25,10 +25,11 @@
 | 269 | Distal fin bones, Elpistostege and experimental evidence for regulatory reuse | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 270 | Tiktaalik: substrate-supported stance and the 2024 axial/pelvic reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 271 | Zachełmie tracks, underwater surfaces and distinct 2025 fish-trace evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 272–276 | Early tetrapod bodies, locomotion and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 272 | Acanthostega digits, internal-gill evidence and juvenile growth history | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 273–276 | Locomotor mechanics and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
-**Pages 249–271 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–272 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
 ## Evidence boundaries
@@ -52,6 +53,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Fin-bone arrangements, skeletal homology, regulatory reuse and terrestrial locomotion require different evidence.
 - Substrate support can occur under water; inferred ligaments and reconstructed joint ranges are not directly preserved movements.
 - Track identity, track-surface environment and wider landscape must be tested separately; Zachełmie and Ujazd/Kopiec record distinct evidence.
+- Acanthostega's digit count and sampled juvenile growth do not define every early tetrapod or establish its entire adult life history.
 
 ## Support register
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
@@ -62,6 +64,7 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - `chapter-ledgers/09-life-comes-ashore-support-269.md`
 - `chapter-ledgers/09-life-comes-ashore-support-270.md`
 - `chapter-ledgers/09-life-comes-ashore-support-271.md`
+- `chapter-ledgers/09-life-comes-ashore-support-272.md`
 
 ## Next target
-**Page 272.** Research, write, fact-check, commit and verify before moving to page 273. Root-ledger integration remains separate from these active page/evidence checkpoints.
+**Page 273.** Research, write, fact-check, commit and verify before moving to page 274. Root-ledger integration remains separate from these active page/evidence checkpoints.
