@@ -150,13 +150,17 @@ This is the claim-control register for **Our World**.
 | E-0116 | 251 | Four filamentous zygnematophyte genomes reveal shared cell-wall enzymes and co-expression networks linking environment and growth. | ESTABLISHED comparative genomic findings / inferred ancestral traits | Genome assembly / gene-family comparison / co-expression | S9-12; Chapter 9 support register | Co-expression and gene homology do not directly recover an ancestral genome or prove all ancestral functions. | ✅ |
 | E-0117 | 251 | Streptophyte multicellular evolution includes repeated gains, reductions and losses rather than one sequence of increasing body complexity. | STRONGLY SUPPORTED synthesis / model-dependent ancestral reconstruction | Ancestral-state reconstruction / comparative cell biology | S9-13, S9-14; Chapter 9 support register | Ancestral states and mechanisms are inferred from sampled organisms and phylogenetic models; no exact emergence date adopted. | ✅ |
 
+| E-0118 | 252 | The Argentine early Middle Ordovician cryptospore assemblage documents resistant reproductive remains interpreted as land-plant evidence around 470 million years ago. | ESTABLISHED microfossil occurrence / strongly supported botanical interpretation | Palynology / spore morphology / stratigraphic context | S9-15, S9-17; Chapter 9 support register | Approximate current-friendly age, not the 2010 exact calibration; dispersed spores do not establish parent stature or local ground cover, and broad cryptospore usage includes other proposed producers. | ✅ |
+| E-0119 | 252 | Late Ordovician Oman fragments contain masses of similar spores and presumed coverings, linking dispersed forms with probable land-plant sporangia. | ESTABLISHED preserved association / strongly supported sporangial interpretation | Spore-bearing mesofossils / SEM / TEM | S9-16; Chapter 9 support register | Younger than the Argentine assemblage; wall resemblance supports liverwort comparisons without a complete body or secure modern crown assignment. | ✅ |
+| E-0120 | 252 | Fossil occurrences constrain minimum presence while molecular divergence dates depend on rates, calibrations and phylogenetic assignments. | ESTABLISHED evidence distinction | Stratigraphic occurrence / molecular dating methodology | S9-15, S9-16, S9-18; Chapter 9 support register | No exact evolutionary origin established from the oldest sampled fossil or one clock analysis. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
 
 Full sources and access limits for E-0087–E-0108, pages 241–248, are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md` (verified 2026-10-02). The section was researched, written, checked and committed one page at a time; new artwork work is deferred.
 
 ## Chapter 9 source authority
-Claim-linked sources and access limits for E-0109–E-0117, pages 249–251, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
+Claim-linked sources and access limits for E-0109–E-0120, pages 249–252, are in `chapter-ledgers/09-life-comes-ashore-support-249-256.md` (verified 2026-10-02). This is the active manuscript checkpoint; legacy register reconciliation remains pending.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

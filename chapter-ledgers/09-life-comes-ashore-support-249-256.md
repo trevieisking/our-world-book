@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 249–256
 
-**Verified through page 251:** 2026-10-02  
+**Verified through page 252:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. All artwork work deferred until the whole manuscript is written.
 
@@ -21,6 +21,9 @@ The opening pages follow terrestrial habitats, early microbial occupation, algal
 | E-0115 | 251 | STRONGLY SUPPORTED phylogenetic relationship: Genome-scale comparisons support Zygnematophyceae as the closest living algal relatives of land plants. | S9-11, S9-12, S9-13, S9-14 | Living sister lineage is not an unchanged direct ancestor; exact ancestral phenotype requires further inference. The 2019 study retains uncertainty in deep short branches. |
 | E-0116 | 251 | ESTABLISHED comparative genomic findings / inferred ancestral traits: Four filamentous zygnematophyte genomes reveal shared cell-wall enzymes and co-expression networks linking environment and growth. | S9-12 | Co-expression and gene homology do not directly recover an ancestral genome or prove all ancestral functions. |
 | E-0117 | 251 | STRONGLY SUPPORTED synthesis / model-dependent ancestral reconstruction: Streptophyte multicellular evolution includes repeated gains, reductions and losses rather than one sequence of increasing body complexity. | S9-13, S9-14 | Ancestral states and mechanisms are inferred from sampled organisms and phylogenetic models; no exact emergence date adopted. |
+| E-0118 | 252 | ESTABLISHED microfossil occurrence / strongly supported botanical interpretation: The Argentine early Middle Ordovician cryptospore assemblage documents resistant reproductive remains interpreted as land-plant evidence around 470 million years ago. | S9-15, S9-17 | Approximate current-friendly age, not the 2010 exact calibration; dispersed spores do not establish parent stature or local ground cover, and broad cryptospore usage includes other proposed producers. |
+| E-0119 | 252 | ESTABLISHED preserved association / strongly supported sporangial interpretation: Late Ordovician Oman fragments contain masses of similar spores and presumed coverings, linking dispersed forms with probable land-plant sporangia. | S9-16 | Younger than the Argentine assemblage; wall resemblance supports liverwort comparisons without a complete body or secure modern crown assignment. |
+| E-0120 | 252 | ESTABLISHED evidence distinction: Fossil occurrences constrain minimum presence while molecular divergence dates depend on rates, calibrations and phylogenetic assignments. | S9-15, S9-16, S9-18 | No exact evolutionary origin established from the oldest sampled fossil or one clock analysis. |
 
 ## Sources and access record
 
@@ -40,6 +43,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 - **S9-12:** Feng, X. et al. (2024), *Genomes of multicellular algal sisters to land plants illuminate signaling network evolution*. **Nature Genetics** 56, 1018–1031. [doi:10.1038/s41588-024-01737-3](https://doi.org/10.1038/s41588-024-01737-3). [Author institutional abstract](https://digitalcommons.unl.edu/plantscifacpub/293/) and primary publisher indexed results checked for four genomes, cell-wall enzymes and co-expression networks. Direct publisher full-text open failed; not represented as full-text reading.
 - **S9-13:** Darienko, T. et al. (2026), *The evolutionary origins of streptophyte multicellularity*. **New Phytologist** 251, 2365–2383. [doi:10.1111/nph.71415](https://doi.org/10.1111/nph.71415). Accessible publisher full review checked, including sister relationships, ancestral-state inference, losses/reductions and regulatory hypotheses. Published online 9 July 2026. No billion-year multicellular origin estimate treated as a direct fossil observation.
 - **S9-14:** Hess, S. et al. (2022), *A phylogenomically informed five-order system for the closest relatives of land plants*. **Current Biology** 32, 4473–4482.e7. [doi:10.1016/j.cub.2022.08.022](https://doi.org/10.1016/j.cub.2022.08.022). Primary publisher/PMC indexed summary and [co-author university research account](https://blog.umd.edu/algaeevolve/2022/11/08/a-phylogenomically-informed-five-order-system-for-the-closest-relatives-of-land-plants/) checked for phylogenomic sampling and inferred multiple filamentous origins. Used for relationship support and comparison, without treating modern taxa as ancestors.
+- **S9-15:** Rubinstein, C. V., Gerrienne, P., de la Puente, G. S., Astini, R. A. & Steemans, P. (2010), *Early Middle Ordovician evidence for land plants in Argentina (eastern Gondwana)*. **New Phytologist** 188, 365–369. [doi:10.1111/j.1469-8137.2010.03433.x](https://doi.org/10.1111/j.1469-8137.2010.03433.x). Accessible publisher article checked for assemblage, depositional context, resistant wall material and proposed affinities. Older 473–471 Ma numerical calibration rendered only as approximately 470 Ma; historical earliest-record and Gondwanan-origin claims not adopted as current settled conclusions.
+- **S9-16:** Wellman, C. H., Osterloff, P. L. & Mohiuddin, U. (2003), *Fragments of the earliest land plants*. **Nature** 425, 282–285. [doi:10.1038/nature01884](https://doi.org/10.1038/nature01884). [Author repository article](https://eprints.whiterose.ac.uk/id/eprint/106/1/wellmanch1.pdf) fully accessible and checked. Specimens are Late Ordovician Oman spore masses with presumed sporangial coverings. Ultrastructure, comparison with coprolites and incomplete parent anatomy checked; no obsolete 475 Ma claim copied from its introduction.
+- **S9-17:** Wang, K., Xu, H.-H., Liu, F. & Wang, Y. (2026), *Dynamic evolution of cryptospores: The origin and rise of the land flora*. **Earth-Science Reviews** 277, 105476. [doi:10.1016/j.earscirev.2026.105476](https://doi.org/10.1016/j.earscirev.2026.105476). Primary publisher indexed summary and [research-team account](https://english.nigpas.cas.cn/new/hs/rp/202604/t20260424_1157924.html) checked for broad/narrow definitions and resolution limits. Same publication as Chapter 8 source S8-68. Direct publisher full-text open failed.
+- **S9-18:** Harris, A. M. et al. (2022), *Divergent evolutionary trajectories of bryophytes and tracheophytes from a complex common ancestor of land plants*. **Nature Ecology & Evolution**. [doi:10.1038/s41559-022-01885-x](https://doi.org/10.1038/s41559-022-01885-x). Accessible publisher full article checked for rate/time inference, fossil calibration assignments and sensitivity to maximum-age constraints. Used for method limits; its preferred Cambrian numerical origin is not asserted as the uniquely settled date.
 
 ## Page checks
 
@@ -48,9 +55,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 | 249 | 499 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 250 | 496 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 251 | 494 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 252 | 489 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Previous chapter evidence registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 252–256.**
+**Chapter 9 — Life Comes Ashore, pages 253–256.**
