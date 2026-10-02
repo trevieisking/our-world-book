@@ -189,8 +189,12 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–273 are TEXT LOCKED. Next individual page: 274, Chapter 9 — Life Comes Ashore. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–280 are TEXT LOCKED. Next individual page: 281, Chapter 10 — Worlds Lost. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
-The 2026-10-02 continuation added seven pages (267–273), each saved and verified as a separate manuscript checkpoint, with 21 claim checkpoints (E-0163–E-0183) and 19 source records (S9-76–S9-94). Chapter 9 has 25 of its 28 manuscript pages text-locked; pages 274–276 remain.
+**Chapter 9 — Life Comes Ashore is complete for manuscript Phase A: pages 249–276, all 28 planned chapter pages. Chapter 10 has pages 277–280 TEXT LOCKED: four of its 28 planned pages.**
 
-Read `CURRENT_TARGET.md`, `chapter-ledgers/09-life-comes-ashore.md` and the individual support registers for pages 267–273. These contain the current page/evidence rows and source-access limits. Consolidation into the large root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md`, including older placeholder reconciliation, remains pending and is not claimed complete. Chapter 9 remains in progress; this is manuscript progress, not final publication completion.
+The latest 2026-10-02 continuation added seven pages (274–280), each saved and read back as a separate manuscript checkpoint, with 21 claim checkpoints (E-0184–E-0204) and 20 source records (S9-95–S9-102 and S10-01–S10-12). It completes the terrestrial-life chapter and opens the extinction investigation. Earlier manuscript pages 017–273 are unchanged by this pass.
+
+The preceding continuation added seven pages (267–273), 21 claim checkpoints (E-0163–E-0183) and 19 source records (S9-76–S9-94); those manuscript and support files remain intact.
+
+Read `CURRENT_TARGET.md`, the Chapter 9 and Chapter 10 ledgers, and the individual support registers for pages 267–280. These contain the current page/evidence rows and source-access limits. Consolidation into the large root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md`, including older placeholder reconciliation, remains pending and is not claimed complete. TEXT LOCKED is manuscript progress, not final artwork, layout or publication completion.
