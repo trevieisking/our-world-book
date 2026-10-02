@@ -9,11 +9,12 @@
 | 253 | Cooksonia branching bodies, vascular anatomy, size-dependent physiology and sediment ages | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 254 | Ancient fungi: filamentous growth, fossil identity and habitat limits | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 255 | Plant–fungus associations: fossil arbuscules and experimentally measured exchange | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 256–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 256 | Rhynie preservation: hot-spring habitats, dating constraints and regional flora | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 257–276 | Continue terrestrial ecosystems, vascular plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–255 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–256 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -26,6 +27,9 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 - Genetic comparisons and molecular dates involve models, calibration and sampling.
 - Isolated spores require producer and transport checks; not all cryptospores establish embryophytes.
 - Fungal identity, terrestrial habitat and plant partnership require separate evidence.
+- Preserved exchange structures do not measure fossil nutrient flux; living experiments remain taxon- and condition-specific.
+- Exceptional hot-spring preservation is a selective local record, not a complete regional or global census.
+- Dates from volcanic and hydrothermal minerals require calibration and correlation with fossil-bearing layers.
 
 ## Support register
 
@@ -33,4 +37,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 256–256:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 257–264:** begin with plant transport tissues and support, then attachment structures, roots and expanding vegetation. Research and checkpoint each page before starting the next.
