@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 257:** 2026-10-02  
+**Verified through page 258:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -15,6 +15,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0133 | 257 | CONFIRMED (observed anatomy); STRONGLY SUPPORTED (transport interpretation): Early Devonian Rhynia, Asteroxylon and Aglaophyton preserve different conducting-cell architectures; transport capacity does not imply a fully modern combination of vascular-cell traits. | S9-37; S9-38; S9-39 | Anatomy supports functional comparison; fossils are not measured living flow systems and exact tissue homologies across all land plants remain debated. |
 | E-0134 | 257 | STRONGLY SUPPORTED (chemical interpretation): Boyce et al. infer that some early conducting tissues were weakly lignified or unlignified, with possible lignification in outer tissues; wall thickness alone cannot identify original lignin chemistry. | S9-38 | Burial changes chemistry. Tissue comparisons, carbon quantity and analytical controls constrain the inference; no pristine ancient lignin assay claimed. |
 | E-0135 | 257 | STRONGLY SUPPORTED (2026 anatomical interpretation): Cooper and Hetherington distinguish Rhynie food-conducting cells from modern phloem and identify putative Asteroxylon sieve pores, supporting gradual phloem assembly asynchronous with xylem. | S9-40; S9-39 | Putative pores and functional inference retain uncertainty. Better preservation of xylem creates record bias; first fossil occurrences are not exact tissue-origin dates. |
+| E-0136 | 258 | CONFIRMED (preserved anatomy): Rhynia and Aglaophyton preserve stomata connected through channels to internal chambers; stomatal form and distribution vary across the Rhynie flora. | S9-41 | Pore anatomy records an air pathway, not directly measured aperture movement or gas exchange in the fossil plant. |
+| E-0137 | 258 | CONFIRMED (tested moss experiment); STRONGLY SUPPORTED (developmental relationship): Chater et al. disrupted stomatal-development regulators in a moss, producing stomata-less capsules with delayed dehiscence and identifying conserved developmental relationships with flowering plants. | S9-43; S9-42 | The experiment concerns a living moss; shared developmental genes do not establish identical physiological regulation in extinct plants. |
+| E-0138 | 258 | CONFIRMED (2025 sampled result); DEBATED (ancestral function): A 2022 synthesis supports ancestral active regulation, while Duckett et al. (2025) report no response to tested external cues in more than 25,000 apertures from twelve moss species, challenging that interpretation. | S9-41; S9-44; S9-42 | Results are bounded by sampled species and treatments; neither living experiment directly measures extinct stomatal physiology. |
 
 ## Sources and access record
 
@@ -24,15 +27,20 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-38:** Boyce, C. K. et al. (2003), *Chemical Evidence for Cell Wall Lignification and the Evolution of Tracheids in Early Devonian Plants*. **International Journal of Plant Sciences** 164, 691–702. [doi:10.1086/377113](https://doi.org/10.1086/377113). [Full author-hosted paper](https://hazen.carnegiescience.edu/sites/default/files/179-Boyce-2003-IJPS.pdf) checked, including chemical preservation controls and interpretation limits; fossil chemistry not treated as unaltered living chemistry.
 - **S9-39:** Woudenberg, S., Renema, J., Tomescu, A. M. F., De Rybel, B. & Weijers, D. (2022), *Deep origin and gradual evolution of transporting tissues: Perspectives from across the land plants*. **Plant Physiology** 190, 85–99. [doi:10.1093/plphys/kiac304](https://doi.org/10.1093/plphys/kiac304). Indexed primary article introduction and PubMed figure descriptions checked for transport definitions and stepwise evolution. Direct publisher / institutional full text blocked; blanket origin dates not adopted.
 - **S9-40:** Cooper, L. M. & Hetherington, A. J. (2026), *Phloem evolved gradually and asynchronously to xylem in early vascular plants*. **Current Biology** 36, 3415–3424.e4. [doi:10.1016/j.cub.2026.05.072](https://doi.org/10.1016/j.cub.2026.05.072). Published 23 June online / 6 July issue. Indexed primary abstract checked through [PubMed](https://pubmed.ncbi.nlm.nih.gov/42335885/) and publisher. Full body blocked; older preprint not used as final authority. Putative sieve pores and proposed FCC interpretation retained with their limits.
+- **S9-41:** Clark, J. W. et al. (2022), *The origin and evolution of stomata*. **Current Biology** 32, R539–R553. [doi:10.1016/j.cub.2022.04.040](https://doi.org/10.1016/j.cub.2022.04.040). [Author-deposited manuscript](https://www.pure.ed.ac.uk/ws/portalfiles/portal/285718176/Clark_Stomata_Revision_180328.pdf) checked for fossil anatomy and the ancestral hydroactive-regulation argument. That physiological interpretation is attributed and assessed beside S9-44.
+- **S9-42:** Chen, G. et al. (2024), *Stomatal evolution and plant adaptation to future climate*. **Plant, Cell & Environment** 47, 3299–3315. [doi:10.1111/pce.14953](https://doi.org/10.1111/pce.14953). [Institutional full text](https://eprints.whiterose.ac.uk/id/eprint/212643/1/Plant%20Cell%20%20%20Environment%20-%202024%20-%20Chen%20-%20Stomatal%20evolution%20and%20plant%20adaptation%20to%20future%20climate.pdf) checked for guard-cell pressure, gas exchange and distinctions between developmental and movement-related gene histories. Conflicting early-origin estimates not adopted.
+- **S9-43:** Chater, C. C. et al. (2016), *Origin and function of stomata in the moss Physcomitrella patens*. **Nature Plants** 2, 16179. [doi:10.1038/nplants.2016.179](https://doi.org/10.1038/nplants.2016.179). Indexed publisher abstract, [PubMed](https://pubmed.ncbi.nlm.nih.gov/27892923/) and indexed author manuscript excerpts checked for gene disruptions, protein interactions and delayed capsule dehiscence. Direct publisher / PMC body unavailable.
+- **S9-44:** Duckett, J. G., Schickler, H. & Pressel, S. (2025), *The effects of external cues on moss stomatal apertures: a reappraisal of existing data and new experimental evidence*. **Bryophyte Diversity and Evolution** 49, 1–21. [doi:10.11646/bde.49.1.1](https://doi.org/10.11646/bde.49.1.1). [Full publisher abstract](https://www.mapress.com/bde/article/view/bde.49.1.1) checked for twelve-species sampling, more than 25,000 apertures, split-capsule controls and reported absence of responses. Full article requires subscription; no unaccessed methods detail asserted.
 
 ## Page checks
 
 | Page | Prose words | Research | Fact-check | GitHub sequence |
 |---:|---:|:---:|:---:|---|
 | 257 | 490 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 258 | 505 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 258–264.**
+**Chapter 9 — Life Comes Ashore, pages 259–264.**
