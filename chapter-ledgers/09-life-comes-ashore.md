@@ -27,11 +27,11 @@
 | 271 | Zachełmie tracks, underwater surfaces and distinct 2025 fish-trace evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 272 | Acanthostega digits, internal-gill evidence and juvenile growth history | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 273 | Ichthyostega backbone regionalisation, joint limits and testing a proposed gait | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 274–276 | Early Carboniferous record, terrestrial reproduction and ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 274 | Romer's Gap: oxygen hypothesis, sampling and new early Carboniferous faunas | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 275–276 | Terrestrial reproduction and ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
-**Pages 249–273 are TEXT LOCKED for Phase A: 25 of 28 chapter pages. Chapter 9 remains in progress.**
-The current pass added seven pages (267–273), 21 claim checkpoints and 19 source records in individual support supplements. All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
+**Pages 249–274 are TEXT LOCKED for Phase A: 26 of 28 chapter pages.** Artwork, final layout and publication review remain pending.
 
 ## Evidence boundaries
 - Distinguish a visit to an exposed surface, residence there, reproduction and broader ecosystem occupation.
@@ -56,18 +56,13 @@ The current pass added seven pages (267–273), 21 claim checkpoints and 19 sour
 - Track identity, track-surface environment and wider landscape must be tested separately; Zachełmie and Ujazd/Kopiec record distinct evidence.
 - Acanthostega's digit count and sampled juvenile growth do not define every early tetrapod or establish its entire adult life history.
 - Joint-mobility models constrain gait compatibility without filming ancient behaviour; excluding one gait does not exclude all movement.
+- Sparse fossil occurrence, local abundance and modelled atmospheric oxygen are distinct evidence questions.
 
 ## Support register
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
 - `chapter-ledgers/09-life-comes-ashore-support-265-272.md` — earlier verified checkpoint through 266.
-- `chapter-ledgers/09-life-comes-ashore-support-267.md`
-- `chapter-ledgers/09-life-comes-ashore-support-268.md`
-- `chapter-ledgers/09-life-comes-ashore-support-269.md`
-- `chapter-ledgers/09-life-comes-ashore-support-270.md`
-- `chapter-ledgers/09-life-comes-ashore-support-271.md`
-- `chapter-ledgers/09-life-comes-ashore-support-272.md`
-- `chapter-ledgers/09-life-comes-ashore-support-273.md`
+- Individual registers `chapter-ledgers/09-life-comes-ashore-support-267.md` through `chapter-ledgers/09-life-comes-ashore-support-274.md` retain page rows, claims, sources and fact-checks.
 
 ## Next target
-**Page 274.** Research, write, fact-check, commit and verify before moving to page 275. Consolidation into the root PAGE_LEDGER/EVIDENCE_LEDGER remains pending; the active chapter and individual page/evidence checkpoints are saved here.
+**Page 275.** Commit and verify each page before researching the next. Root Page/Evidence Ledger consolidation remains pending; these individual supplements preserve the active checkpoints.
