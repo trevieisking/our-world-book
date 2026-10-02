@@ -189,6 +189,6 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — MANUSCRIPT / RESEARCH PASS. Narrative pages 017–232 are TEXT LOCKED. Chapter 8 is complete through pages 225–232; next: research and draft pages 233–240 — named Cambrian communities, evolutionary relationships and animal structures/ecologies. Artwork is planned now and generated later in Phase B.**
+**PHASE A — MANUSCRIPT / RESEARCH PASS. Narrative pages 017–240 are TEXT LOCKED. Chapter 8 is complete through page 240; next: research and draft pages 241–248 — wider Cambrian environments, ecological innovations, turnover and a qualified transition toward life ashore. Artwork is planned now and generated later in Phase B.**
 
-Read `CURRENT_TARGET.md`, the Chapter 8 ledger and its support register for the current checkpoint. This is manuscript progress, not final book completion.
+Read `CURRENT_TARGET.md`, the Chapter 8 ledger and both support registers for the current checkpoint. This is manuscript progress, not final book completion.

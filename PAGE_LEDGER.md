@@ -4,7 +4,7 @@
 **Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
 
-**Active checkpoint (2026-10-02):** narrative pages 017–232 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–232 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means an evidence-constrained Phase B brief, not a finished image.
+**Active checkpoint (2026-10-02):** narrative pages 017–240 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–240 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means an evidence-constrained Phase B brief, not a finished image.
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -240,14 +240,14 @@
 | 230 | Ch. 8 — The Cambrian World | Compound eyes, sensory ecology and species-specific feeding mechanics | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 231 | Ch. 8 — The Cambrian World | Lagerstätten, burial chemistry and Chengjiang depositional setting | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 232 | Ch. 8 — The Cambrian World | Evidence-graded food webs and interacting environmental/ecological drivers | ✅ | ✅ | 🟨 | ✅ | ⬜ |
-| 233 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 234 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 235 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 236 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 237 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 238 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 239 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 240 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 233 | Ch. 8 — The Cambrian World | Stem/crown groups, character evidence and limits of direct ancestry | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 234 | Ch. 8 — The Cambrian World | Naraoia jointed appendages and anatomy-based functional inference | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 235 | Ch. 8 — The Cambrian World | Hallucigenia orientation, claws and disputed panarthropod placement | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 236 | Ch. 8 — The Cambrian World | Ottoia anterior armature, diagnostic fragments and preserved meals | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 237 | Ch. 8 — The Cambrian World | Radula-like mouthparts and the revised Shishania interpretation | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 238 | Ch. 8 — The Cambrian World | Nisusia attachment to Wiwaxia and inferred commensal benefits | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 239 | Ch. 8 — The Cambrian World | Archaeocyath frameworks, modelled feeding and environmental limits | ✅ | ✅ | 🟨 | ✅ | ⬜ |
+| 240 | Ch. 8 — The Cambrian World | Revised Pikaia anatomy, Haikouichthys and early chordate relationships | ✅ | ✅ | 🟨 | ✅ | ⬜ |
 | 241 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 242 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 243 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -559,8 +559,8 @@
 - ✅ Complete
 - — Not required
 
-## Next page target
-Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete evidence review, and generate required front-matter artwork before FINAL. Then move to pages **017–032**.
+## Front-matter backlog
+Pages **001–016** remain drafted as v0.1. Author credit/dedication, evidence review and artwork must be resolved during the applicable production phases before FINAL; they do not replace the active manuscript target below.
 
 
 ## Phase status
@@ -569,4 +569,4 @@ Pages **001–016** drafted as v0.1. Resolve author credit/dedication, complete 
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-The **Prologue, pages 017–032, is TEXT LOCKED for Phase A**. Next target: refine and research **Chapter 1, pages 033–056 — Before There Was an Earth**. Artwork remains deferred to Phase B.
+**Narrative pages 017–240 are TEXT LOCKED for Phase A. Next target: Chapter 8, pages 241–248 — wider Cambrian environments, ecological change and the transition toward life ashore.** Artwork remains deferred to Phase B; older placeholder rows still require reconciliation.
