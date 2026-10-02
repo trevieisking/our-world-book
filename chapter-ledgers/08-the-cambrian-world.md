@@ -4,13 +4,14 @@
 |---|---|:---:|:---:|:---:|:---:|:---:|
 | 225–232 | Boundary, fossil visibility, burrowing, skeletons, predation, eyes, preservation and food webs | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
 | 233–240 | Named fossils, stem/crown relationships, appendages, feeding, attachments, reefs and early chordates | ✅ | ✅ | ✅ | ✅ | TEXT LOCKED |
-| 241–248 | Wider Cambrian habitats, environmental change, ecological innovations, turnover and transition toward life ashore | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 241 | Wider environments, ecological change and transition toward terrestrial life | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 242–248 | Continue wider environments, ecological innovations, turnover and chapter transition | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 8 status
 
-**Pages 225–240 are TEXT LOCKED for Phase A. Chapter 8 remains in progress.**
+**Pages 225–241 are TEXT LOCKED for Phase A. Chapter 8 remains in progress.**
 
-Artwork is briefed but not generated. Final layout and publication review remain later phases.
+Existing artwork briefs are retained. New pages 241–248 remain unbriefed during the writing-only loop. Artwork, final layout and publication review remain later phases.
 
 ## Evidence boundaries
 
@@ -30,7 +31,8 @@ Artwork is briefed but not generated. Final layout and publication review remain
 
 - `chapter-ledgers/08-the-cambrian-world-support-225-232.md`
 - `chapter-ledgers/08-the-cambrian-world-support-233-240.md`
+- `chapter-ledgers/08-the-cambrian-world-support-241-248.md`
 
 ## Next target
 
-**Pages 241–248:** widen from particular animals to habitat diversity, changing ocean conditions, ecological innovations and turnover; finish Chapter 8 with a qualified transition toward life ashore.
+**Chapter 8, pages 242–248:** continue one researched, checked and committed page at a time.

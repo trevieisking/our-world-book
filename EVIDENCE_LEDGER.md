@@ -108,8 +108,13 @@ This is the claim-control register for **Our World**.
 | E-0085 | 240 | 2024 *Pikaia* interpretation identifies a dorsal nerve cord and reverses earlier body orientation. | STRONGLY SUPPORTED revised model | Fossil anatomy / comparative inference | S8-38, S8-39; see section support register | Organ identification and phylogenetic topology remain hypotheses; older drawings need revision, not automatic reuse. | ✅ |
 | E-0086 | 240 | Chengjiang *Haikouichthys* records early vertebrate anatomy including a differentiated head and eyes. | STRONGLY SUPPORTED | Fossil anatomy / comparative inference | S8-40; see section support register | Possible sensory capsules are not treated as established; no mineralised backbone or direct human ancestor claimed. | ✅ |
 
+| E-0087 | 241 | Grand Canyon Cambrian formations record coastal and shallow-marine settings; zircon and fossil evidence constrain regional Sauk onlap. | ESTABLISHED record / STRONGLY SUPPORTED environmental interpretation | Stratigraphy / geochronology | S8-43, S8-44; section support register | A detrital grain dates crystallisation, not automatically sediment deposition; no one age applies to all flooding. | ✅ |
+| E-0088 | 241 | Continental erosion and marine flooding help frame Cambrian habitats; proposed ocean-chemistry links do not establish a unique radiation trigger. | STRONGLY SUPPORTED record / UNCERTAIN unique cause | Sedimentology / explanatory synthesis | S8-43, S8-45; section support register | Regional records and causal hypotheses are separate; the Great Unconformity is not one instantaneous global event. | ✅ |
+
 ## Chapter 8 source authority
 Full claim-linked sources, access limitations and verification decisions for E-0059–E-0072 are in `chapter-ledgers/08-the-cambrian-world-support-225-232.md` (verified 2026-10-02). Full sources and access limits for E-0073–E-0086 are in `chapter-ledgers/08-the-cambrian-world-support-233-240.md` (verified 2026-10-02). Earlier chapter support registers remain authoritative where legacy book-wide entries have not yet been reconciled.
+
+Full sources for the current page-by-page loop are in `chapter-ledgers/08-the-cambrian-world-support-241-248.md`; that register states the exact page verified.
 
 ## Evidence-status definitions
 See `MASTER_PLAN.md`.

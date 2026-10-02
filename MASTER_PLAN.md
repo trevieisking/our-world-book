@@ -142,19 +142,19 @@ For each target page or spread:
 4. Research it from high-quality sources.
 5. Record important claims in the Evidence Ledger.
 6. Draft the page in final-quality book prose.
-7. Identify any visual the finished spread will need.
-8. Add an evidence-constrained placeholder/brief to the Image Ledger, but **do not stop to generate it**.
+7. Keep artwork pending; the user requested a writing-only loop on 2026-10-02.
+8. Defer new artwork briefs and generation until the whole manuscript is written; retain existing briefs for the later pass.
 9. Fact-check every material claim.
 10. Mark the page **TEXT LOCKED** when prose, evidence and fact-check agree.
 11. Update the ledgers.
-12. Commit the target.
-13. Continue immediately to the next page/spread.
+12. Commit and verify the completed page in GitHub.
+13. Research the next page only after that checkpoint; normally complete about 7–10 pages per pass.
 
 This phase continues through the entire manuscript before the main artwork pass begins.
 
 ### PHASE B — ARTWORK PASS
-After the manuscript is text-locked:
-1. Work through the Image Ledger in page order.
+After the whole manuscript is text-locked:
+1. Complete pending artwork briefs and work through the Image Ledger in page order.
 2. Re-check each image brief against the final surrounding text.
 3. If image generation requires explicit activation, ask: **"Trev/buddy, can you enable the image tool?"**
 4. Generate only the approved, evidence-constrained visual.
@@ -189,6 +189,6 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — MANUSCRIPT / RESEARCH PASS. Narrative pages 017–240 are TEXT LOCKED. Chapter 8 is complete through page 240; next: research and draft pages 241–248 — wider Cambrian environments, ecological innovations, turnover and a qualified transition toward life ashore. Artwork is planned now and generated later in Phase B.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–241 are TEXT LOCKED. Next: Chapter 8, pages 242–248. Research, write, fact-check, commit and verify each page before researching the next. All new artwork work waits until the whole manuscript is written.**
 
-Read `CURRENT_TARGET.md`, the Chapter 8 ledger and both support registers for the current checkpoint. This is manuscript progress, not final book completion.
+Read `CURRENT_TARGET.md`, the Chapter 8 ledger and its three support registers for the checkpoint. This is manuscript progress, not final publication completion.
