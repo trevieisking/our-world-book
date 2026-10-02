@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 259:** 2026-10-02  
+**Verified through page 260:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -21,6 +21,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0139 | 259 | CONFIRMED (tip anatomy); STRONGLY SUPPORTED (capless interpretation): Asteroxylon rooting-axis tips preserve continuous outer tissue and cell arrangements inconsistent with root-cap production. | S9-45; S9-48 | Rooting function and organ identity are distinct; the inference uses preserved tissues, not missing anatomy alone. |
 | E-0140 | 259 | CONFIRMED (connections); STRONGLY SUPPORTED (development): Serial reconstruction distinguishes three Asteroxylon axis types; junctions and meristem evidence support rooting-axis development through unequal tip division. | S9-46 | The connected reconstructed portion is not a complete census of the entire plant; development is inferred from fossil structure. |
 | E-0141 | 259 | STRONGLY SUPPORTED (phylogenetic interpretation): Comparative fossil character mapping supports stepwise root evolution and at least two independent origins, in lycophytes and the fern–seed-plant lineage. | S9-47; S9-45; S9-48 | The number and sequence depend on reconstructed relationships and character definitions; no continuous ancestral series is claimed. |
+| E-0142 | 260 | CONFIRMED (fossil traits); STRONGLY SUPPORTED (multiple origins): Asteroxylon preserves partly vascularised appendages; comparative fossil and phylogenetic evidence supports multiple leaf origins through different morphological histories. | S9-49; S9-50 | Proposed branching, flattening and infill processes are not a universal linear sequence; gene reuse does not demonstrate a single organ origin. |
+| E-0143 | 260 | CONFIRMED (sampled arrangements); STRONGLY SUPPORTED (developmental similarity): Turner et al. report whorls and non-Fibonacci spirals in Asteroxylon, with leaves and reproductive structures in the same positional series. | S9-51 | Observed fossil patterns establish diversity; shared position suggests developmental similarity without proving identical organ ancestry. |
+| E-0144 | 260 | MODEL-SUPPORTED (conditional physical mechanism): Beerling et al. model overheating of broad, sparsely stomatous leaves under assumed early conditions and propose atmospheric change and stomatal density as constraints on broad-leaf expansion. | S9-52 | Modelled temperature is not a direct ancient measurement or a single demonstrated cause of all leaf origins. |
 
 ## Sources and access record
 
@@ -38,6 +41,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-46:** Hetherington, A. J., Bridson, S. L., Jones, A. L., Hass, H., Kerp, H. & Dolan, L. (2021), *An evidence-based 3D reconstruction of Asteroxylon mackiei, the most complex plant preserved from the Rhynie chert*. **eLife** 10, e69447. [doi:10.7554/eLife.69447](https://doi.org/10.7554/eLife.69447). Indexed primary abstract, results and [figure descriptions](https://elifesciences.org/articles/69447/figures) checked, plus published peer-review clarification that the work reconstructs the rooting system rather than the whole plant. Direct full article / PDF blocked.
 - **S9-47:** Hetherington, A. J. & Dolan, L. (2019), *Rhynie chert fossils demonstrate the independent origin and gradual evolution of lycophyte roots*. **Current Opinion in Plant Biology** 47, 119–126. [doi:10.1016/j.pbi.2018.12.001](https://doi.org/10.1016/j.pbi.2018.12.001). Indexed publisher abstract and introduction checked for character mapping, lineage definitions and independent-origin interpretation; institutional publication metadata verified.
 - **S9-48:** Kenrick, P. & Strullu-Derrien, C. (2014), *The Origin and Early Evolution of Roots*. **Plant Physiology** 166, 570–580. [doi:10.1104/pp.114.244517](https://doi.org/10.1104/pp.114.244517). Indexed primary abstract and text checked for root characteristics, protective cap and piecemeal evolution. Earlier geological boundary numbers not adopted.
+- **S9-49:** Harrison, C. J. & Morris, J. L. (2018), *The origin and early evolution of vascular plant shoots and leaves*. **Philosophical Transactions of the Royal Society B** 373, 20160496. [doi:10.1098/rstb.2016.0496](https://doi.org/10.1098/rstb.2016.0496). Indexed primary text and figure descriptions checked for Asteroxylon appendages, proposed morphological components and multiple origins. Direct publisher full-text access blocked; institutional metadata verified.
+- **S9-50:** Harrison, C. J. et al. (2005), *Independent recruitment of a conserved developmental mechanism during leaf evolution*. **Nature** 434, 509–514. [doi:10.1038/nature03410](https://doi.org/10.1038/nature03410). Indexed primary abstract checked for gene-expression, phylogenetic and cross-species complementation evidence; Oxford repository metadata verified. Direct publisher body unavailable.
+- **S9-51:** Turner, H.-A., Humpage, M., Kerp, H. & Hetherington, A. J. (2023), *Leaves and sporangia developed in rare non-Fibonacci spirals in early leafy plants*. **Science** 380, 1188–1192. [doi:10.1126/science.adg4014](https://doi.org/10.1126/science.adg4014). Full [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/37319203/) and primary metadata checked; no unaccessed detailed methods asserted.
+- **S9-52:** Beerling, D. J., Osborne, C. P. & Chaloner, W. G. (2001), *Evolution of leaf-form in land plants linked to atmospheric CO2 decline in the Late Palaeozoic era*. **Nature** 410, 352–354. [doi:10.1038/35066546](https://doi.org/10.1038/35066546). [Institutional full article](https://eprints.whiterose.ac.uk/59/1/osbornecp2.pdf) checked for simulations and environmental assumptions. Conditional mechanism retained; exact ancient temperatures and a unique universal cause not asserted. Publisher pagination takes precedence over erroneous repository cover pagination.
 
 ## Page checks
 
@@ -46,9 +53,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 | 257 | 490 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 258 | 505 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 259 | 499 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 260 | 511 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 260–264.**
+**Chapter 9 — Life Comes Ashore, pages 261–264.**

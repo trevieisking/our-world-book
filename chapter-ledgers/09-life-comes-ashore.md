@@ -13,11 +13,12 @@
 | 257 | Water- and food-conducting tissues: anatomy, wall chemistry and asynchronous evolution | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 258 | Stomata: preserved air pathways, living experiments and uncertain ancestral regulation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 259 | Root identity: Asteroxylon tips, connected axes and independent evolutionary origins | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 260–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 260 | Leaf origins: anatomy, reused developmental mechanisms, phyllotaxis and heat balance | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 261–276 | Continue terrestrial ecosystems, plants, forests, arthropods and vertebrate transitions | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
 
 ## Chapter 9 status
 
-**Pages 249–259 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
+**Pages 249–260 are TEXT LOCKED for Phase A. Chapter 9 remains in progress.**
 
 All artwork work is deferred until the whole book manuscript is written. Final layout and publication review remain pending.
 
@@ -41,4 +42,4 @@ All artwork work is deferred until the whole book manuscript is written. Final l
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 260–264:** continue the research/write/commit loop.
+**Chapter 9 — Life Comes Ashore, pages 261–264:** continue the research/write/commit loop.
