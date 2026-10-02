@@ -5,15 +5,16 @@
 **Checkpoint checked:** 2026-10-02
 
 ## Locked manuscript status
-- Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, as recorded in existing chapter ledgers.
+- Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Continuous narrative checkpoint: **017–276**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **page 277 TEXT LOCKED**; 1 of 28 planned pages.
+- Continuous narrative checkpoint: **017–277**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 277.** Open with the evidence for extinction and the distinction between genuine biological loss and an incomplete fossil record. Then proceed to documented extinction episodes, changing environments, dinosaurs and mammals within pages 277–304.
+**Chapter 10 — Worlds Lost, page 278:** the end-Ordovician crisis. Continue the evidence-led investigation within chapter pages 277–304. Commit and verify page 277 before researching page 278.
 
 ## Current pass
-Pages **274–276** add nine claim checkpoints **E-0184–E-0192**, with eight sources **S9-95–S9-102**. Individual `chapter-ledgers/09-life-comes-ashore-support-274.md` through `...support-276.md` contain page/evidence rows and access records. Commit and read back page 276 before researching page 277.
+Pages **274–277** add twelve claim checkpoints **E-0184–E-0195**. Sources: **S9-95–S9-102** (eight) and **S10-01–S10-03** (three). Individual Chapter 9 supplements 274–276 and Chapter 10 supplement 277 contain page/evidence rows, notes and access limits.
 
 ## Earlier completed checkpoints
 - Pages 267–273: seven separate verified page checkpoints; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files remain unchanged.
