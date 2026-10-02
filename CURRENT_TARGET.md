@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–278 TEXT LOCKED**; 2 of 28 planned pages.
-- Continuous narrative checkpoint: **017–278**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **pages 277–279 TEXT LOCKED**; 3 of 28 planned pages.
+- Continuous narrative checkpoint: **017–279**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 279:** distinct Late Devonian crises and the difference between oxygen-loss evidence and proposed drivers. Commit and verify page 278 before researching page 279.
+**Chapter 10 — Worlds Lost, page 280:** end-Permian chronology and the relationship between Siberian magmatism and biological losses. Commit and verify page 279 before researching page 280.
 
 ## Current pass
-Pages **274–278** add fifteen claim checkpoints **E-0184–E-0198**. Sources: **S9-95–S9-102** (eight) and **S10-01–S10-06** (six). Individual Chapter 9 supplements 274–276 and Chapter 10 supplements 277–278 contain page/evidence rows, notes and access limits.
+Pages **274–279** add eighteen claim checkpoints **E-0184–E-0201**. Sources: **S9-95–S9-102** (eight) and **S10-01–S10-09** (nine). Individual Chapter 9 supplements 274–276 and Chapter 10 supplements 277–279 contain page/evidence rows, notes and access limits.
 
 ## Earlier completed checkpoints
 - Pages 267–273: seven separate verified page checkpoints; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files remain unchanged.
