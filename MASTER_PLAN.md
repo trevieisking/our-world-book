@@ -189,6 +189,8 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–266 are TEXT LOCKED. Next: Chapter 9 — Life Comes Ashore, pages 267–272. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–273 are TEXT LOCKED. Next individual page: 274, Chapter 9 — Life Comes Ashore. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
-Read `CURRENT_TARGET.md`, `chapter-ledgers/09-life-comes-ashore.md` and the active Chapter 9 support register. Chapter 9 remains in progress; this is manuscript progress, not final publication completion.
+The 2026-10-02 continuation added seven pages (267–273), each saved and verified as a separate manuscript checkpoint, with 21 claim checkpoints (E-0163–E-0183) and 19 source records (S9-76–S9-94). Chapter 9 has 25 of its 28 manuscript pages text-locked; pages 274–276 remain.
+
+Read `CURRENT_TARGET.md`, `chapter-ledgers/09-life-comes-ashore.md` and the individual support registers for pages 267–273. These contain the current page/evidence rows and source-access limits. Consolidation into the large root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md`, including older placeholder reconciliation, remains pending and is not claimed complete. Chapter 9 remains in progress; this is manuscript progress, not final publication completion.
