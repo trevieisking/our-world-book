@@ -29,10 +29,10 @@
 | 273 | Ichthyostega backbone regionalisation, joint limits and testing a proposed gait | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 274 | Romer's Gap: oxygen hypothesis, sampling and new early Carboniferous faunas | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 275 | Early seed-like structures, protective tissues and reproductive inference | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 276 | Animal reproduction and terrestrial ecosystem synthesis | ⬜ | ⬜ | ⬜ | ⬜ | NEXT TARGET |
+| 276 | Amniotic membranes, ancestral reproduction, 2025 tracks and ecosystem synthesis | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 
 ## Chapter 9 status
-**Pages 249–275 are TEXT LOCKED for Phase A: 27 of 28 chapter pages.** Artwork, final layout and publication review remain pending.
+**Pages 249–276 are TEXT LOCKED for Phase A: all 28 planned chapter pages complete.** Artwork, final layout, root-ledger consolidation and publication review remain pending. Completion here does not mark pages FINAL.
 
 ## Evidence boundaries
 - Distinguish a visit to an exposed surface, residence there, reproduction and broader ecosystem occupation.
@@ -59,12 +59,13 @@
 - Joint-mobility models constrain gait compatibility without filming ancient behaviour; excluding one gait does not exclude all movement.
 - Sparse fossil occurrence, local abundance and modelled atmospheric oxygen are distinct evidence questions.
 - Ovule anatomy does not by itself demonstrate fertilisation, embryos, germination or a complete modern seed life cycle.
+- Amniotic membranes, rigid shells, ancestral reproductive mode and footprint-based lineage attribution are separate claims.
 
 ## Support register
 - `chapter-ledgers/09-life-comes-ashore-support-249-256.md`
 - `chapter-ledgers/09-life-comes-ashore-support-257-264.md`
 - `chapter-ledgers/09-life-comes-ashore-support-265-272.md` — earlier verified checkpoint through 266.
-- Individual registers `chapter-ledgers/09-life-comes-ashore-support-267.md` through `chapter-ledgers/09-life-comes-ashore-support-275.md` retain page rows, claims, sources and fact-checks.
+- Individual registers `chapter-ledgers/09-life-comes-ashore-support-267.md` through `chapter-ledgers/09-life-comes-ashore-support-276.md` retain page rows, claims, sources and fact-checks.
 
 ## Next target
-**Page 276.** Commit and verify each page before researching the next. Root Page/Evidence Ledger consolidation remains pending; individual supplements preserve the active checkpoints.
+**Chapter 10 — Worlds Lost, page 277.** Commit and verify this chapter-close page before researching the next. Root Page/Evidence Ledger consolidation remains pending; individual supplements preserve the active checkpoints.
