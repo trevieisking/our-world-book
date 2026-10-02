@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 257–264
 
-**Verified through page 260:** 2026-10-02  
+**Verified through page 261:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. Artwork deferred until the whole manuscript is written.
 
@@ -24,6 +24,9 @@ These pages examine plant transport, surface regulation, attachment and roots, l
 | E-0142 | 260 | CONFIRMED (fossil traits); STRONGLY SUPPORTED (multiple origins): Asteroxylon preserves partly vascularised appendages; comparative fossil and phylogenetic evidence supports multiple leaf origins through different morphological histories. | S9-49; S9-50 | Proposed branching, flattening and infill processes are not a universal linear sequence; gene reuse does not demonstrate a single organ origin. |
 | E-0143 | 260 | CONFIRMED (sampled arrangements); STRONGLY SUPPORTED (developmental similarity): Turner et al. report whorls and non-Fibonacci spirals in Asteroxylon, with leaves and reproductive structures in the same positional series. | S9-51 | Observed fossil patterns establish diversity; shared position suggests developmental similarity without proving identical organ ancestry. |
 | E-0144 | 260 | MODEL-SUPPORTED (conditional physical mechanism): Beerling et al. model overheating of broad, sparsely stomatous leaves under assumed early conditions and propose atmospheric change and stomatal density as constraints on broad-leaf expansion. | S9-52 | Modelled temperature is not a direct ancient measurement or a single demonstrated cause of all leaf origins. |
+| E-0145 | 261 | CONFIRMED (wood anatomy and comparative measurements): Simple secondary xylem occurs in small Early Devonian plants; anatomical organisation and newer quantitative metrics distinguish woody growth and diversity. | S9-53; S9-56 | Wood, stem thickness and tree stature are distinct; partial tissues do not establish complete plant form or the exact origin of cambial growth. |
+| E-0146 | 261 | CONFIRMED (imaged structure); MODEL-SUPPORTED (hydraulic function): Synchrotron imaging of Armoricaphyton supports estimates of effective conduction and relatively low resistance to hydraulic tension. | S9-54 | Hydraulic properties are calculated from fossil geometry, not measured ancient sap flow or a universal selective cause. |
+| E-0147 | 261 | CONFIRMED (trunk components); STRONGLY SUPPORTED (growth reconstruction): Late Devonian Xinicaulis preserves separate interconnected xylem strands with wood around individual strands, supporting a distinctive trunk-enlargement mechanism. | S9-55 | Reconstructed growth uses anatomical comparisons; this later example is neither the first tree nor an anatomical template for all early trees. |
 
 ## Sources and access record
 
@@ -45,6 +48,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 - **S9-50:** Harrison, C. J. et al. (2005), *Independent recruitment of a conserved developmental mechanism during leaf evolution*. **Nature** 434, 509–514. [doi:10.1038/nature03410](https://doi.org/10.1038/nature03410). Indexed primary abstract checked for gene-expression, phylogenetic and cross-species complementation evidence; Oxford repository metadata verified. Direct publisher body unavailable.
 - **S9-51:** Turner, H.-A., Humpage, M., Kerp, H. & Hetherington, A. J. (2023), *Leaves and sporangia developed in rare non-Fibonacci spirals in early leafy plants*. **Science** 380, 1188–1192. [doi:10.1126/science.adg4014](https://doi.org/10.1126/science.adg4014). Full [PubMed abstract](https://pubmed.ncbi.nlm.nih.gov/37319203/) and primary metadata checked; no unaccessed detailed methods asserted.
 - **S9-52:** Beerling, D. J., Osborne, C. P. & Chaloner, W. G. (2001), *Evolution of leaf-form in land plants linked to atmospheric CO2 decline in the Late Palaeozoic era*. **Nature** 410, 352–354. [doi:10.1038/35066546](https://doi.org/10.1038/35066546). [Institutional full article](https://eprints.whiterose.ac.uk/59/1/osbornecp2.pdf) checked for simulations and environmental assumptions. Conditional mechanism retained; exact ancient temperatures and a unique universal cause not asserted. Publisher pagination takes precedence over erroneous repository cover pagination.
+- **S9-53:** Gerrienne, P., Gensel, P. G., Strullu-Derrien, C., Lardeux, H., Steemans, P. & Prestianni, C. (2011), *A Simple Type of Wood in Two Early Devonian Plants*. **Science** 333, 837. [doi:10.1126/science.1208882](https://doi.org/10.1126/science.1208882). Indexed primary abstract and author / museum repository metadata checked for small plants, approximate age range and secondary xylem with rays. Direct full body unavailable.
+- **S9-54:** Strullu-Derrien, C. et al. (2014), *The earliest wood and its hydraulic properties documented in c. 407-million-year-old fossils using synchrotron microtomography*. **Botanical Journal of the Linnean Society** 175, 423–437. [doi:10.1111/boj.12175](https://doi.org/10.1111/boj.12175). Indexed publisher abstract and author-deposited text checked for X-ray methods and geometry-based hydraulic interpretation. Direct publisher body blocked; calculated conductivity is not reported as living flow.
+- **S9-55:** Xu, H.-H., Berry, C. M., Stein, W. E., Wang, Y., Tang, P. & Fu, Q. (2017), *Unique growth strategy in the Earth's first trees revealed in silicified fossil trunks from China*. **Proceedings of the National Academy of Sciences** 114, 12009–12014. [doi:10.1073/pnas.1708241114](https://doi.org/10.1073/pnas.1708241114). Indexed primary abstract and manuscript text checked against Cardiff author repository abstract for strands, local wood production and expansion. Direct PMC body blocked. Title's broad wording is not adopted as a claim that the sampled trunks were the first trees.
+- **S9-56:** Casselman, E. & Tomescu, A. M. F. (2025 online; 2026 issue), *Characterizing and distinguishing the earliest woody euphyllophytes based on secondary xylem anatomy: method development and application*. **Annals of Botany** 137, 1602–1623. [doi:10.1093/aob/mcaf122](https://doi.org/10.1093/aob/mcaf122). Publisher full abstract, introduction and methods checked for wood-identification criteria and comparative metrics. Online publication 13 June 2025; issue June 2026.
 
 ## Page checks
 
@@ -54,9 +61,10 @@ Sources checked on 2026-10-02. Primary articles, author deposits and scholarly s
 | 258 | 505 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 259 | 499 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 260 | 511 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 261 | 515 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Earlier support registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 261–264.**
+**Chapter 9 — Life Comes Ashore, pages 262–264.**
