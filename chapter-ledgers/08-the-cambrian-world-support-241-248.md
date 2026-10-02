@@ -1,8 +1,8 @@
 # Chapter 8 support register — pages 241–248
 
-**Verified through page 245:** 2026-10-02  
+**Verified through page 246:** 2026-10-02  
 **Phase:** A — manuscript / research  
-**Decision:** pages 241–245 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
+**Decision:** pages 241–246 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
 
 ## Scope and evidence boundary
 
@@ -25,6 +25,9 @@ This section widens from individual animals to environments, ecological change a
 | E-0097 | 245 | STRONGLY SUPPORTED regional analysis: Across Sinsk, Siberian skeletal-animal species richness and functional richness followed different trajectories, with recovery involving changed trait combinations. | S8-55 | Regional dataset and assigned traits; no complete global ecological census. |
 | E-0098 | 245 | PROPOSED causal cascade / locally supported redox interpretation: A tectonic-volcanic-climate cascade has been proposed for Sinsk; South China evidence permits persistently oxygenated shallow settings during the crisis. | S8-57, S8-58 | Causal timing remains testable; local oxygenation does not map all seas or refute broader deoxygenation. |
 | E-0099 | 245 | ESTABLISHED fossil assemblage / SUPPORTED ecological interpretation: The post-Sinsk Huayuan biota preserves diverse soft-bodied animals and supports investigations of community reorganisation and possible outer-shelf refuges. | S8-56 | Post-event assemblage; no direct observation of every survivor or universal refugium. |
+| E-0100 | 246 | ESTABLISHED fossil occurrence: Fezouata fossils document early Ordovician persistence of lineages associated with Cambrian Burgess Shale-type communities. | S8-59 | Younger and distinct communities; no survival of every Cambrian species or unchanged ecosystem. |
+| E-0101 | 246 | STRONGLY SUPPORTED comparative analysis / proposed mechanism: Chengjiang, Burgess Shale and Fezouata have different tissue-preservation profiles; resistant tissues may protect softer structures at Fezouata. | S8-60 | Inventory and tissue-association analysis; exceptional deposits are not equally complete censuses. |
+| E-0102 | 246 | STRONGLY SUPPORTED dataset-specific analysis: Fezouata preservation varies with ecological category and between studied Ordovician intervals. | S8-61 | Regional dataset; no universal preservation ranking for all predators or periods. |
 
 ## Sources and access record
 
@@ -47,6 +50,9 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 - **S8-56:** Zeng et al. (2026), [A Cambrian soft-bodied biota after the first Phanerozoic mass extinction](https://doi.org/10.1038/s41586-025-10030-0). Indexed primary abstract and [CAS research-team account](https://english.cas.cn/special-reports/2026q1/202604/t20260427_1158170.shtml) checked; publisher opening unstable. No exact global recovery curve inferred from one locality.
 - **S8-57:** Myrow et al. (2024), [Tectonic trigger to the first major extinction of the Phanerozoic: The early Cambrian Sinsk event](https://doi.org/10.1126/sciadv.adl3452). [Macquarie archived article](https://research-management.mq.edu.au/ws/portalfiles/portal/420743450/415662775.pdf) checked, including explicit dating-dependent hypothesis and future geochronological tests.
 - **S8-58:** Zhang et al. (2026), [Persistence of oxygenated shallow-marine environments in the Three Gorges area, South China during the first Phanerozoic mass extinction](https://doi.org/10.1016/j.palaeo.2026.114011). Indexed publisher abstract/highlights checked; full text blocked. Local redox interpretation retained with geographical limits.
+- **S8-59:** Van Roy et al. (2010), [Ordovician faunas of Burgess Shale type](https://doi.org/10.1038/nature09038). Accessible publisher primary abstract checked for post-Cambrian occurrence; subscription full text not claimed as read.
+- **S8-60:** Saleh et al. (2020), [Taphonomic bias in exceptionally preserved biotas](https://doi.org/10.1016/j.epsl.2019.115873). [Lausanne archived article](https://api.unil.ch/iris/server/api/core/bitstreams/7082ef8a-cc83-4604-b01b-39f551b40f26/content) checked for tissue categories, comparison and proposed protective associations. Older numerical age estimates in the article are not adopted.
+- **S8-61:** Saleh et al. (2024), [Highly resolved taphonomic variations within the Early Ordovician Fezouata Biota](https://doi.org/10.1038/s41598-024-71622-w). Accessible article checked for ecological-category and Tremadocian/Floian preservation differences; regional limits retained.
 
 ## Page checks
 
@@ -57,9 +63,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 | 243 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 244 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 245 | 502 | ✅ | ✅ | Separate page checkpoint before researching the next page |
+| 246 | 510 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 
 All completed pages reviewed for continuity. Artwork and final layout remain pending. Earlier chapter records retain their authority.
 
 ## Next target
 
-**Page 246**, then continue through page 248.
+**Page 247**, then continue through page 248.
