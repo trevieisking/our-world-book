@@ -1,8 +1,8 @@
 # Chapter 8 support register — pages 241–248
 
-**Verified through page 243:** 2026-10-02  
+**Verified through page 244:** 2026-10-02  
 **Phase:** A — manuscript / research  
-**Decision:** pages 241–243 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
+**Decision:** pages 241–244 TEXT LOCKED. Research/write/commit completed page by page; artwork work deferred until the whole manuscript is written.
 
 ## Scope and evidence boundary
 
@@ -19,6 +19,9 @@ This section widens from individual animals to environments, ecological change a
 | E-0091 | 243 | STRONGLY SUPPORTED functional interpretation: Tamisiocaris frontal appendages support suspension feeding on small waterborne food items. | S8-48 | Appendage-based inference; no identified meal or equally secure complete body. |
 | E-0092 | 243 | STRONGLY SUPPORTED functional interpretation: Cambroraster appendages and body form support sediment sifting near the seabed. | S8-49 | Behaviour inferred; comparison with Tamisiocaris does not reconstruct one community. |
 | E-0093 | 243 | PROPOSED anatomical revision: A 2021 re-examination challenged the fine filtering apparatus proposed for Pahvantia in 2018, assigning much material to trunk and gills. | S8-50, S8-51 | Reinterpretation of incomplete overlapping material; feeding proposal depends on anatomical identification. |
+| E-0094 | 244 | ESTABLISHED fossil association / strongly supported behaviour: Waptia fossils preserve eggs beneath the carapace, some with embryonic remains, supporting brood care. | S8-52 | Minimum-age evidence; no feelings, post-hatching care or first origin established. |
+| E-0095 | 244 | STRONGLY SUPPORTED anatomical interpretation: Detailed Waptia anatomy supports mandibulate affinities and specialised sensory, swimming and feeding structures. | S8-54 | Finer phylogenetic placement remains under investigation; no modern shrimp identity asserted. |
+| E-0096 | 244 | ESTABLISHED measurements / PROPOSED evolutionary explanation: Chuandianella carried more, smaller eggs than Waptia in studied fossils; researchers interpret the contrast as a reproductive trade-off. | S8-53 | Approximate fossil measurements; complete budgets, survival rates and causes not directly measured; no direct ancestry claimed. |
 
 ## Sources and access record
 
@@ -34,6 +37,9 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 - **S8-49:** Moysiuk & Caron (2019), [A new hurdiid radiodont from the Burgess Shale evinces the exploitation of Cambrian infaunal food sources](https://doi.org/10.1098/rspb.2019.1079). Primary abstract/indexed text and [ROM collection account](https://burgess-shale.rom.on.ca/fossils/cambroraster-falcatus/) checked; publisher/PMC full-text opening blocked.
 - **S8-50:** Lerosey-Aubril & Pates (2018), [New suspension-feeding radiodont suggests evolution of microplanktivory in Cambrian macronekton](https://doi.org/10.1038/s41467-018-06229-7). Indexed primary abstract/article passages checked as the historical proposal, not current uncontested anatomy.
 - **S8-51:** Caron & Moysiuk (2021), [A giant nektobenthic radiodont from the Burgess Shale and the significance of hurdiid carapace diversity](https://doi.org/10.1098/rsos.210664). Indexed primary article passages checked for Pahvantia reappraisal; publisher/PMC full-text opening blocked.
+- **S8-52:** Caron & Vannier (2016), [Waptia and the Diversification of Brood Care in Early Arthropods](https://doi.org/10.1016/j.cub.2015.11.006). [Primary abstract record](https://pubmed.ncbi.nlm.nih.gov/26711492/) and indexed publisher passages checked for egg position, embryos and minimum-age interpretation; publisher full-text opening blocked.
+- **S8-53:** Ou et al. (2020), [Evolutionary trade-off in reproduction of Cambrian arthropods](https://doi.org/10.1126/sciadv.aaz3376). [Indexed primary article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7190318/) checked for comparative brood/egg sizes and proposed trade-off; full-text opening blocked by browser check. Approximate figures retained; phylogenetic and causal hypotheses not made certain.
+- **S8-54:** Vannier, Aria, Taylor & Caron (2018), [Waptia fieldensis Walcott, a mandibulate arthropod from the middle Cambrian Burgess Shale](https://doi.org/10.1098/rsos.172206). Indexed primary abstract/article passages and [ROM collection account](https://burgess-shale.rom.on.ca/fossils/waptia-fieldensis/) checked for methods, anatomy and relationship limits; exact numerical deposit age omitted.
 
 ## Page checks
 
@@ -42,9 +48,10 @@ Sources checked on 2026-10-02. Accessible primary articles, primary abstracts, a
 | 241 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 242 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 | 243 | 513 | ✅ | ✅ | Separate page checkpoint before researching the next page |
+| 244 | 500 | ✅ | ✅ | Separate page checkpoint before researching the next page |
 
 All completed pages reviewed for continuity. Artwork and final layout remain pending. Earlier chapter records retain their authority.
 
 ## Next target
 
-**Page 244**, then continue through page 248.
+**Page 245**, then continue through page 248.

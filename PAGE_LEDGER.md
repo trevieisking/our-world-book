@@ -4,7 +4,7 @@
 **Rule:** during Phase A, pages can be **TEXT LOCKED** once manuscript, research and fact-check agree even when artwork is still pending. A page is marked **FINAL** only after the later artwork/layout pass is complete.
 
 
-**Active checkpoint (2026-10-02):** narrative pages 017–243 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–243 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
+**Active checkpoint (2026-10-02):** narrative pages 017–244 are TEXT LOCKED per `CURRENT_TARGET.md` and chapter ledgers. Rows 225–244 are synchronised here. Earlier untouched placeholder rows still await batch reconciliation; consult their chapter support registers. 🟨 Art means a brief, not a finished image. New pages in this writing-only loop use ⬜ Art; briefing and generation wait until the whole manuscript is written.
 
 | Page | Section | Planned purpose | Text | Research | Art | Fact-check | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -251,7 +251,7 @@
 | 241 | Ch. 8 — The Cambrian World | Sauk marine transgression, continental habitats and regional dating limits | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 242 | Ch. 8 — The Cambrian World | Variable oxygen, redox proxies and brief windows of animal habitability | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 243 | Ch. 8 — The Cambrian World | Radiodont feeding diversity and revised anatomical interpretations | ✅ | ✅ | ⬜ | ✅ | ⬜ |
-| 244 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 244 | Ch. 8 — The Cambrian World | Brood care, preserved eggs and reproductive trade-offs | ✅ | ✅ | ⬜ | ✅ | ⬜ |
 | 245 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 246 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 247 | Ch. 8 — The Cambrian World | Ch. 8 — The Cambrian World — page plan to be refined before drafting this spread | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -569,4 +569,4 @@ Pages **001–016** remain drafted as v0.1. Author credit/dedication, evidence r
 - **Phase C — Final layout / publication:** WAITING
 
 ## Current manuscript target
-**Narrative pages 017–243 are TEXT LOCKED for Phase A. Next target: Chapter 8, pages 244–248.** Continue research, writing, fact-check and GitHub commits page by page. All artwork work waits until the manuscript is complete. Older placeholder rows still require reconciliation.
+**Narrative pages 017–244 are TEXT LOCKED for Phase A. Next target: Chapter 8, pages 245–248.** Continue research, writing, fact-check and GitHub commits page by page. All artwork work waits until the manuscript is complete. Older placeholder rows still require reconciliation.
