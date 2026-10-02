@@ -1,6 +1,6 @@
 # Chapter 9 support register — pages 249–256
 
-**Verified through page 254:** 2026-10-02  
+**Verified through page 255:** 2026-10-02  
 **Phase:** A — manuscript / research  
 **Decision:** completed pages TEXT LOCKED. Each page researched, written, checked and committed before researching the next. All artwork work deferred until the whole manuscript is written.
 
@@ -30,6 +30,9 @@ The opening pages follow terrestrial habitats, early microbial occupation, algal
 | E-0124 | 254 | CONFIRMED (living physiology); UNCERTAIN (ancestral extrapolation): Many living fungi grow as hyphae forming mycelia and obtain organic nutrients by absorption, often using extracellular enzymes; these traits do not identify the food or ancestral lifestyle of an isolated fossil. | S9-24 | Fungal forms and ecological strategies vary. Modern decomposition cannot be assigned to every early filament. |
 | E-0125 | 254 | STRONGLY SUPPORTED (reported fungal affinity); UNCERTAIN (terrestrial residence): Loron et al. identify Ourasphaira from approximately 1,010–890 Ma Grassy Bay shales as fungal using morphology, wall ultrastructure and spectroscopy; estuarine preservation does not demonstrate permanent dry-land occupation. | S9-25 | Host-rock interval is not an exact origin date. Combined fungal-affinity argument is not a claim of a crown mushroom or direct living ancestor. |
 | E-0126 | 254 | STRONGLY SUPPORTED (probable fungal growth); DEBATED (Dikarya placement): Smith's Tortotubus study reconstructs retrograde branching and cord-forming differentiated growth; Auxier et al. accept probable fungal hyphae but challenge placement in Dikarya. | S9-26; S9-27 | Growth reconstructed across specimens. Anatomical resemblance alone does not establish homology, nutrient transport or a specific feeding relationship. |
+| E-0127 | 255 | CONFIRMED (preserved anatomy); STRONGLY SUPPORTED (partnership interpretation): Remy et al. describe finely branched arbuscules in a cortical zone of Early Devonian Aglaophyton from Rhynie, providing anatomical evidence for an ancient mycorrhizal association. | S9-28 | Architecture supports nutrient-exchange mutualism by comparison; fossil nutrient flux, exact origin and a modern root system are not directly demonstrated. |
+| E-0128 | 255 | CONFIRMED (experimental living taxa): Field et al. use carbon-14 and phosphorus-33 tracers to quantify plant-to-fungus carbon allocation and fungal phosphorus delivery; examined liverworts and vascular plants differ in efficiency response to CO2 treatment. | S9-29 | 440 and 1,500 ppm chamber treatments and selected modern taxa do not recreate all Palaeozoic habitats or establish ancient exchange rates. |
+| E-0129 | 255 | CONFIRMED (living mechanisms); STRONGLY SUPPORTED (evolutionary conservation): Rich et al. demonstrate Marchantia paleacea lipid transfer and WRI dependence of arbuscule formation; Vernié et al. show conserved symbiotic signalling and disruption by mutations in three core genes. | S9-30; S9-31 | Modern genetic function supports inherited partnership capacity across plant lineages, not the exact identity, date or conditions of the first ancestral association. |
 
 ## Sources and access record
 
@@ -62,6 +65,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 - **S9-25:** Loron, C. C. et al. (2019), *Early fungi from the Proterozoic era in Arctic Canada*. **Nature** 570, 232–235. [doi:10.1038/s41586-019-1217-0](https://doi.org/10.1038/s41586-019-1217-0). Indexed publisher abstract and [research-team account](https://www.earlylife.uliege.be/cms/c_4961524/en/researchers-from-uliege-discover-the-oldest-fossil-fungi-known-to-date) checked; direct article access blocked. [Author correction](https://doi.org/10.1038/s41586-019-1396-8), Nature 571, E11, checked through indexed publisher text: TEM methods replacement. Historical superlatives and universal terrestrial-arrival claims are not adopted.
 - **S9-26:** Smith, M. R. (2016), *Cord-forming Palaeozoic fungi in terrestrial assemblages*. **Botanical Journal of the Linnean Society** 180, 452–460. [doi:10.1111/boj.12389](https://doi.org/10.1111/boj.12389). Publisher abstract and supporting-information listing checked; full body not accessible. Morphology and reconstructed growth retained; Dikarya assignment paired with its published critique.
 - **S9-27:** Auxier, B. et al. (2016), *No place among the living: phylogenetic considerations place the Palaeozoic fossil T. protuberans in Fungi but not in Dikarya. A comment on M. Smith (2016)*. **Botanical Journal of the Linnean Society** 182, 723–728. [doi:10.1111/boj.12479](https://doi.org/10.1111/boj.12479). Publisher abstract checked (Oxford redirect / indexed Wiley text); probable fungal hyphae distinguished from disputed exact clade placement.
+- **S9-28:** Remy, W., Taylor, T. N., Hass, H. & Kerp, H. (1994), *Four hundred-million-year-old vesicular arbuscular mycorrhizae*. **PNAS** 91, 11841–11843. [doi:10.1073/pnas.91.25.11841](https://doi.org/10.1073/pnas.91.25.11841). Indexed primary abstract and anatomical description checked via PubMed / PMC and Europe PMC; direct full article access blocked. Historical numerical age in title is not an exact revised Rhynie date.
+- **S9-29:** Field, K. J. et al. (2012), *Contrasting arbuscular mycorrhizal responses of vascular and non-vascular plants to a simulated Palaeozoic CO2 decline*. **Nature Communications** 3, 835. [doi:10.1038/ncomms1831](https://doi.org/10.1038/ncomms1831). Indexed publisher abstract, introduction and relevant tracer / efficiency excerpts checked; direct full article blocked. Experimental treatments distinguished from complete ancient ecosystem reconstruction.
+- **S9-30:** Rich, M. K. et al. (2021), *Lipid exchanges drove the evolution of mutualism during plant terrestrialization*. **Science** 372, 864–868. [doi:10.1126/science.abg0929](https://doi.org/10.1126/science.abg0929). Primary abstract checked through PubMed and [research-team publication record](https://www.ensa.ac.uk/publications/lipid-exchanges-drove-the-evolution-of-mutualism-during-plant-terrestrialization/). Full article / HAL deposit blocked. WRI experiments retained; an exact 450 Ma ancestral date is not adopted.
+- **S9-31:** Vernié, T. et al. (2025), *Conservation of symbiotic signaling since the most recent common ancestor of land plants*. **PNAS** 122, e2408539121. [doi:10.1073/pnas.2408539121](https://doi.org/10.1073/pnas.2408539121). Indexed primary abstract and [research-team publication record](https://www.ensa.ac.uk/publications/conservation-of-symbiotic-signaling-since-the-most-recent-common-ancestor-of-land-plants/) checked; primary indexed results confirm functional conservation. Published paper used rather than superseded 2024 preprint. Full publisher / HAL access blocked.
 
 ## Page checks
 
@@ -73,9 +80,10 @@ Sources checked on 2026-10-02. Primary research, scholarly reviews by researcher
 | 252 | 489 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 253 | 491 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 | 254 | 498 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
+| 255 | 490 | ✅ | ✅ | Separate verified page checkpoint before next-page research |
 
 Artwork and final layout remain pending. Previous chapter evidence registers retain their authority.
 
 ## Next target
 
-**Chapter 9 — Life Comes Ashore, pages 255–256.**
+**Chapter 9 — Life Comes Ashore, pages 256–256.**
