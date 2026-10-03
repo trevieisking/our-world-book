@@ -18,7 +18,8 @@
 | 288 | Giant body support, cyclic growth and corrected volumetric reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 289 | Isotope thermometry, environmental comparisons and variable thermoregulation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 290 | Feather presence, scaly skin and tested colour reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 291–304 | Flight, later dinosaur worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 291 | Archaeopteryx wing mechanics, tertials and flight-potential models | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 292–304 | Other Mesozoic worlds, final crisis and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -42,9 +43,10 @@
 - Giant mass, posture, growth and physiology are separate reconstructions; published model corrections must be checked.
 - Fossil temperature, heat source and thermal stability differ; sample identity, preservation and mineralization require tests.
 - Preserved covering, reconstructed colour and function differ; fossilization experiments constrain rather than invalidate all pigment inference.
+- Flight capability is not an exact flight style; threshold reconstructions depend on body estimates and relationships.
 
 ## Support register
-Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-290.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
+Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-291.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
 
 ## Status and next target
-**Pages 277–290 TEXT LOCKED; 14 of 28 planned chapter pages complete for Phase A.** Next: page 291, bird origins and flight capability. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.
+**Pages 277–291 TEXT LOCKED; 15 of 28 planned chapter pages complete for Phase A.** Next: page 292, flying and marine reptile comparisons. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.

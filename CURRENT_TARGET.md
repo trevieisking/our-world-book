@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **277–290 TEXT LOCKED**; 14 of 28 planned pages.
-- Continuous narrative checkpoint: **017–290**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **277–291 TEXT LOCKED**; 15 of 28 planned pages.
+- Continuous narrative checkpoint: **017–291**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 291:** bird origins and testing flight capability from skeletal and feather evidence. Begin research only after page 290 is committed and read back.
+**Page 292:** Mesozoic flying and marine reptiles; distinguish relatedness, convergent body designs and evidence of locomotion. Begin research only after page 291 is committed and read back.
 
 ## Current continuation
-Pages **288–290** add twelve claim checkpoints **E-0227–E-0238** and thirteen sources **S10-35–S10-47**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: giant support and growth, a corrected size model, chemical temperature evidence, external coverings and tested colour reconstruction. Earlier manuscript pages remain unchanged. Continue the requested seven-to-ten-page pass one verified page at a time.
+Pages **288–291** add fifteen claim checkpoints **E-0227–E-0241** and sixteen sources **S10-35–S10-50**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: giant support and growth, corrected size modelling, chemical temperatures, external coverings, colour and flight evidence. Earlier manuscript pages remain unchanged. Continue the requested seven-to-ten-page pass one verified page at a time.
 
 ## Earlier completed checkpoints
 - Pages 281–287: seven separate page checkpoints; 22 claims E-0205–E-0226 and 22 sources S10-13–S10-34. Support records retained.
