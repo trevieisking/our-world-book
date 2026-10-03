@@ -11,12 +11,12 @@
 - Continuous narrative checkpoint: **017–301**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 302:** mammalian relationships and branching dates, distinguishing fossil first appearances, ecological expansion and molecular-clock estimates. Pages 302–304 remain to complete Chapter 10 and bridge into Chapter 11. Research begins only after page 301 is committed and read back.
+**Page 302:** mammalian relationships and branching dates, distinguishing fossil first appearances, ecological expansion and molecular-clock estimates. Pages 302–304 remain to complete Chapter 10 and bridge into Chapter 11. Page 301 is committed and read back; page 302 research has not begun.
 
 ## Current continuation — seven-page pass
-Pages **295–301** add **24 claim checkpoints, E-0254–E-0277**, and **25 source records, S10-63–S10-87**. Each manuscript page and its individual page/evidence supplement share a separate GitHub checkpoint. Read-back verification precedes next-page research. Chapter overview and Master Plan summaries are refreshed at pass closure; individual supplements and this file identify the latest page meanwhile.
+Pages **295–301** add **24 claim checkpoints, E-0254–E-0277**, and **25 source records, S10-63–S10-87**. Each manuscript page and its individual page/evidence supplement share a separate GitHub checkpoint. Read-back verification preceded next-page research. The Chapter 10 overview and Master Plan summaries are aligned with this completed pass.
 
-Coverage: impact deposits and atmospheric effects; Deccan chronology and gas release; bird extinction selectivity; marine recovery and the 2026 plankton recalibration; regional forest transformation; pre-impact mammaliaform diversity; and the first million years of mammalian recovery. Earlier manuscript pages **017–294 remain unchanged** by this pass. Page 302 research has not begun.
+Coverage: impact deposits and atmospheric effects; Deccan chronology and gas release; bird extinction selectivity; marine recovery and the 2026 plankton recalibration; regional forest transformation; pre-impact mammaliaform diversity; and the first million years of mammalian recovery. Earlier manuscript pages **017–294 remain unchanged** by this pass.
 
 ## Earlier completed checkpoints
 - Pages 288–294: seven pages, 27 claims E-0227–E-0253 and 28 sources S10-35–S10-62; includes published size-model and feather-experiment corrections.
@@ -34,4 +34,4 @@ Coverage: impact deposits and atmospheric effects; Deccan chronology and gas rel
 No image generation, new image briefs, reading-copy PDFs or extra deliverables. Existing artwork records remain for Phase B. Numerical ages require source checks rather than silently reusing historical timescales.
 
 ## Authority and outstanding reconciliation
-This file and individual page/evidence supplements control active progress between chapter-summary updates. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
+This file, chapter ledgers and individual page/evidence supplements control active progress. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.

@@ -22,7 +22,14 @@
 | 292 | Pterosaur relationships, wing membranes, ichthyosaur tissues and flipper mechanics | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 293 | Aquatic flowering plants, pollen-bearing insects and leaf hydraulic potential | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 294 | Boundary iridium, Chicxulub identification, dating resolution and crater-core correlation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 295–304 | Impact consequences, survival and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 295 | Crater deposits, dust-driven winter, revised sulfur estimates and thermal-pulse modelling | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 296 | Deccan chronology, gas release and distinguishing earlier disturbance from extinction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 297 | Bird survival, forest loss, dietary hypotheses and 2026 feather evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 298 | Marine chemistry, mixed feeding, crater recolonisation and revised plankton chronology | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 299 | Fern-dominated aftermath, tropical canopy change and taxonomic scales of plant recovery | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 300 | Pre-impact mammaliaform swimming, gliding and vertebrate consumption | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 301 | Mammalian extinction selectivity, sampling and first-million-year ecological rebuilding | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 302–304 | Mammalian relationships, diversification and chapter synthesis | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -50,9 +57,16 @@
 - Pterosaurs and marine reptiles are not dinosaurs; convergence, tissue function and experimental propulsion are distinct from ancestry and observed behaviour.
 - Plant identity, pollen transport and leaf hydraulic potential are separate observations or inferences; none establishes a universal origin or measured global productivity.
 - Boundary iridium, crater identification and chronological synchrony are complementary evidence; dating resolution and signal width are not extinction duration.
+- Crater sedimentology, atmospheric particle budgets and thermal simulations constrain different timescales; transported charcoal is not proof of uniform global burning.
+- Lava volume need not track gas release, and regional temperature recovery need not establish global ecological recovery.
+- Habitat, diet and insulation are proposed survival influences, not a universal formula; a pre-boundary meal is not an observed impact casualty.
+- Marine production, carbon export, recolonisation and fossil first appearance measure different aspects of recovery; revised chronology is not an exact moment of speciation.
+- Renewed plant cover, species diversity, higher-taxon continuity and forest architecture require distinct measures and geographical scope.
+- Mammaliaform anatomy and meals establish pre-impact diversity without proving direct ancestry, a witnessed hunt or survival across the later boundary.
+- Mammalian sample survival, immigration and ecological expansion are distinct; coincident plant and body-size changes do not isolate one causal mechanism.
 
 ## Support register
-Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-294.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
+Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-301.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
 
 ## Status and next target
-**Pages 277–294 TEXT LOCKED; 18 of 28 planned chapter pages complete for Phase A.** The seven-page pass 288–294 adds 27 claim checkpoints and 28 source records. Next: page 295, impact consequences beyond the crater. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.
+**Pages 277–301 TEXT LOCKED; 25 of 28 planned chapter pages complete for Phase A.** The seven-page pass 295–301 adds 24 claim checkpoints (E-0254–E-0277) and 25 source records (S10-63–S10-87). Each page was committed and read back separately. Next: page 302, mammalian relationships and branching dates. Pages 302–304 remain before Chapter 11. Artwork, publication review and root-ledger consolidation remain pending.
