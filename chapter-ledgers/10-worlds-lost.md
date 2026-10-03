@@ -11,7 +11,8 @@
 | 281 | Physiological stress, competing acidification chronologies and a 2026 erosion model | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 282 | Guiyang and Paris communities; recovery versus environmental stability | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 283 | Lystrosaurus growth, possible torpor and the 2026 embryo interpretation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 284–304 | Dinosaur origins, later crises and changing vertebrate ecosystems | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 284 | Early dinosaur identification, Mbiresaurus and sampling-aware geographical origins | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 285–304 | Dispersal, later crises and changing vertebrate ecosystems | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -28,6 +29,7 @@
 - Boron-based acidification reconstructions differ in archives and timing; conditional physiological or erosion models do not prove one universal cause of death.
 - Local ecological complexity, species diversity and environmental stability are different recovery measures; modelled internal oscillations do not exclude every external forcing.
 - Lystrosaurus breeding age, torpor and reproductive advantages are inferred; developmental evidence for an embryo is not a preserved calcified or leathery shell.
+- Dinosaur identity, geological age and geographical origin are separate; sampling and silesaurid relationships affect modelled origin maps.
 
 ## Support register
 - `chapter-ledgers/10-worlds-lost-support-277.md`
@@ -37,6 +39,7 @@
 - `chapter-ledgers/10-worlds-lost-support-281.md`
 - `chapter-ledgers/10-worlds-lost-support-282.md`
 - `chapter-ledgers/10-worlds-lost-support-283.md`
+- `chapter-ledgers/10-worlds-lost-support-284.md`
 
 ## Status and next target
-**Pages 277–283 TEXT LOCKED; 7 of 28 planned chapter pages complete for Phase A.** Next: page 284, early dinosaur evidence and the distinction between anatomical identity, fossil age and geographic origin. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
+**Pages 277–284 TEXT LOCKED; 8 of 28 planned chapter pages complete for Phase A.** Next: page 285, climate, sampling and limits on early dinosaur dispersal. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
