@@ -13,7 +13,8 @@
 | 283 | Lystrosaurus growth, possible torpor and the 2026 embryo interpretation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 284 | Early dinosaur identification, Mbiresaurus and sampling-aware geographical origins | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 285 | Climatic dispersal barriers, Greenland chronology and the 2025 Wyoming evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 286–304 | Later crises and changing dinosaur and mammal ecosystems | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 286 | CAMP chronology, carbon-dioxide inclusions and proposed short-lived cooling | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 287–304 | Dinosaur food webs, later worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -32,6 +33,7 @@
 - Lystrosaurus breeding age, torpor and reproductive advantages are inferred; developmental evidence for an embryo is not a preserved calcified or leathery shell.
 - Dinosaur identity, geological age and geographical origin are separate; sampling and silesaurid relationships affect modelled origin maps.
 - Presence, establishment and dominance differ; younger regional records cannot establish universal earlier absence, and detrital maximum dates are not exact fossil ages.
+- CAMP broad eruptive episodes and short initial directional groups are different scales; gas detection and magnetic timing do not directly measure atmospheric cooling or warming.
 
 ## Support register
 - `chapter-ledgers/10-worlds-lost-support-277.md`
@@ -43,6 +45,7 @@
 - `chapter-ledgers/10-worlds-lost-support-283.md`
 - `chapter-ledgers/10-worlds-lost-support-284.md`
 - `chapter-ledgers/10-worlds-lost-support-285.md`
+- `chapter-ledgers/10-worlds-lost-support-286.md`
 
 ## Status and next target
-**Pages 277–285 TEXT LOCKED; 9 of 28 planned chapter pages complete for Phase A.** Next: page 286, end-Triassic volcanism, timing and climate mechanisms. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
+**Pages 277–286 TEXT LOCKED; 10 of 28 planned chapter pages complete for Phase A.** Next: page 287, dietary evidence and the ecological expansion of dinosaurs. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
