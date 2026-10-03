@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
-- Chapter 10 — Worlds Lost, **277–295 TEXT LOCKED**; 19 of 28 planned pages.
-- Continuous narrative checkpoint: **017–295**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **277–296 TEXT LOCKED**; 20 of 28 planned pages.
+- Continuous narrative checkpoint: **017–296**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 296:** Deccan volcanism, chronology and tests separating environmental contributions from the impact. Research begins only after page 295 is committed and read back.
+**Page 297:** extinction selectivity, forest loss and the survival of bird lineages. Research begins only after page 296 is committed and read back.
 
 ## Active continuation
-Page 295 records crater deposits, atmospheric dust, the 2025 sulfur revision and the 2026 thermal-pulse hypothesis. Four claims **E-0254–E-0257** and four sources **S10-63–S10-66** are in `chapter-ledgers/10-worlds-lost-support-295.md`. Each completed page has a manuscript and a page/evidence supplement in the same GitHub checkpoint. Chapter overview and Master Plan summaries are refreshed at pass closure; the individual supplements and this file identify the latest page meanwhile.
+Pages 295–296 examine the impact's immediate and atmospheric effects, and distinguish Deccan chronology, gas release, climate disturbance and extinction. Claims **E-0254–E-0261** and sources **S10-63–S10-71** are in the individual support registers for pages 295 and 296. Each page and its page/evidence supplement share a GitHub checkpoint. Chapter overview and Master Plan summaries are refreshed at pass closure; supplements and this file identify the latest page meanwhile.
 
 ## Earlier completed checkpoints
 - Pages 288–294: seven pages, 27 claims E-0227–E-0253 and 28 sources S10-35–S10-62; includes published size-model and feather-experiment corrections.
@@ -24,12 +24,12 @@ Page 295 records crater deposits, atmospheric dust, the 2025 sulfur revision and
 - Pages 265–266: 1,004 prose words and six claims; support register 265–272 records the checkpoint through 266.
 - Pages 257–264: 4,056 prose words and 24 claims.
 - Pages 249–256: 3,959 prose words and 24 claims.
-- Earlier chapter ledgers and support registers preserve their manuscript and research history. Earlier manuscript pages 017–294 remain unchanged by this continuation.
+- Earlier chapter ledgers and support registers retain their history. Earlier manuscript pages 017–294 remain unchanged by this continuation.
 
 ## Production rule
 **Writing only until the whole manuscript is written.** Research one page -> record evidence -> write -> fact-check -> TEXT LOCK -> commit and verify in GitHub -> research the next page. Complete about 7–10 pages per pass.
 
-No image generation, new image briefs, reading-copy PDFs or extra deliverables. Existing artwork records remain for Phase B. Numerical ages require source checks rather than reusing historical timescales without review.
+No image generation, new image briefs, reading-copy PDFs or extra deliverables. Existing artwork records remain for Phase B. Numerical ages require source checks rather than silently reusing historical timescales.
 
 ## Authority and outstanding reconciliation
 This file and individual page/evidence supplements control active progress between chapter-summary updates. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
