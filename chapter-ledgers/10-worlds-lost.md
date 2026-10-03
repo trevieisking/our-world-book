@@ -9,7 +9,8 @@
 | 279 | Separate Devonian crises, regional refuges, nutrients and spore damage | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 280 | Meishan ash chronology, Siberian sills and differing regional loss times | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 281 | Physiological stress, competing acidification chronologies and a 2026 erosion model | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 282–304 | Recovery, later crises, dinosaurs and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 282 | Guiyang and Paris communities; recovery versus environmental stability | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 283–304 | Terrestrial recovery, later crises, dinosaurs and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -24,6 +25,7 @@
 - Meishan marine chronology and Sydney Basin floral chronology cannot be collapsed into a single global extinction instant.
 - A dated intrusion is not a direct measurement of emitted gas; temporal association and specific killing mechanisms require distinct evidence.
 - Boron-based acidification reconstructions differ in archives and timing; conditional physiological or erosion models do not prove one universal cause of death.
+- Local ecological complexity, species diversity and environmental stability are different recovery measures; modelled internal oscillations do not exclude every external forcing.
 
 ## Support register
 - `chapter-ledgers/10-worlds-lost-support-277.md`
@@ -31,6 +33,7 @@
 - `chapter-ledgers/10-worlds-lost-support-279.md`
 - `chapter-ledgers/10-worlds-lost-support-280.md`
 - `chapter-ledgers/10-worlds-lost-support-281.md`
+- `chapter-ledgers/10-worlds-lost-support-282.md`
 
 ## Status and next target
-**Pages 277–281 TEXT LOCKED; 5 of 28 planned chapter pages complete for Phase A.** Next: page 282, uneven recovery and continued Early Triassic environmental stress. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
+**Pages 277–282 TEXT LOCKED; 6 of 28 planned chapter pages complete for Phase A.** Next: page 283, terrestrial survivors and what Lystrosaurus fossils establish about growth and reproduction. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.

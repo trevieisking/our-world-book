@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–281 TEXT LOCKED**; 5 of 28 planned pages.
-- Continuous narrative checkpoint: **017–281**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **pages 277–282 TEXT LOCKED**; 6 of 28 planned pages.
+- Continuous narrative checkpoint: **017–282**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 282:** uneven recovery and continued Early Triassic environmental stress. Research begins only after page 281 is committed and verified.
+**Chapter 10 — Worlds Lost, page 283:** terrestrial survivors and what Lystrosaurus fossils establish about growth and reproduction. Research begins only after page 282 is committed and verified.
 
 ## Current continuation
-Page **281** adds **four claim checkpoints, E-0205–E-0208**, and **four sources, S10-13–S10-16**. Its individual support register contains page/evidence rows, access limits and fact-check notes. Coverage: physiological oxygen limitation, differing acidification reconstructions and a 2026 erosion-forced environmental model. Target for this pass remains 7–10 pages, completed sequentially.
+Pages **281–282** add **seven claim checkpoints, E-0205–E-0211**, and **seven sources, S10-13–S10-19**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: end-Permian environmental mechanisms, differing acidification chronologies, a 2026 erosion model, complex fossil communities and a 2025 instability model. Target remains 7–10 pages, completed sequentially.
 
 ## Earlier completed checkpoints
 - Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed; Chapter 10 opened. Individual supplements retained.
