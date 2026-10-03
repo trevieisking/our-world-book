@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
-- Chapter 10 — Worlds Lost, **277–302 TEXT LOCKED**; 26 of 28 planned pages.
-- Continuous narrative checkpoint: **017–302**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **277–303 TEXT LOCKED**; 27 of 28 planned pages.
+- Continuous narrative checkpoint: **017–303**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 303:** mammalian brain and body evolution after the extinction; distinguish skull-cavity reconstructions, relative brain size and inferred sensory capacities. Finish Chapter 10 on page 304, then begin Chapter 11. Research the next page only after this checkpoint is committed and read back.
+**Page 304:** close Chapter 10 by examining extinct mammalian branches and the limits of survivor-only histories; bridge to the primate investigation. Research only after this page's commit/read-back. Chapter 11 begins on page 305.
 
 ## Current continuation
-Page **302** adds four claims **E-0278–E-0281** and four sources **S10-88–S10-91**, covering placental relationships, fossil first appearances and molecular-clock tests including a 2026 analysis. The individual support register contains the page/evidence rows, access limits and checks. Chapter overview and Master Plan summaries will be aligned at pass closure.
+Pages **302–303** add seven claims **E-0278–E-0284** and seven sources **S10-88–S10-94**. Coverage: placental branching dates and first appearances, 2026 clock-model tests, endocasts and brain/body scaling. Individual support registers contain page/evidence rows, source-access limits and checks. Chapter overview and Master Plan summaries will be aligned at pass closure.
 
 ## Earlier completed checkpoints
 - Pages 295–301: seven pages; 24 claims E-0254–E-0277 and 25 sources S10-63–S10-87. Impact aftermath, Deccan chronology, bird selectivity, marine and forest recovery, and mammalian diversity/rebuilding.
