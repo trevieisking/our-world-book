@@ -8,14 +8,14 @@
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
 - Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A; all 28 planned manuscript pages TEXT LOCKED.
-- Chapter 11 — The Primate That Asked Why, **305 TEXT LOCKED**; 1 of 44 planned pages.
-- Continuous narrative checkpoint: **017–305**. Artwork and final layout are not complete.
+- Chapter 11 — The Primate That Asked Why, **305–306 TEXT LOCKED**; 2 of 44 planned pages.
+- Continuous narrative checkpoint: **017–306**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 306:** grasping, visual anatomy and the mosaic assembly of early primate characteristics. Research only after page 305 is committed and read back. Chapter 11 occupies pages 305–348.
+**Page 307:** early Eocene environmental change, primate dispersal and the limits of local first appearances. Research only after page 306 is committed and read back. Chapter 11 occupies pages 305–348.
 
 ## Current continuation
-Pages **302–305** add thirteen claims **E-0278–E-0290** and thirteen sources **S10-88–S10-97 / S11-01–S11-03**. Chapter 10 is manuscript-complete; Chapter 11 opens with genomic relationships, early dental fossils and attributed ankle anatomy. Individual page/evidence registers contain sources, access limits and checks; overview and Master Plan reconciliation follows at pass closure. Complete seven pages in this pass.
+Pages **302–306** add seventeen claims **E-0278–E-0294** and seventeen sources **S10-88–S10-97 / S11-01–S11-07**. Chapter 10 is manuscript-complete; Chapter 11 develops early primate evidence, grasping and sensory explanations. One source is explicitly a current theoretical review, not new anatomical data. Individual page/evidence registers contain sources, access limits and checks; overview and Master Plan reconciliation follows at pass closure. Complete seven pages in this pass.
 
 ## Earlier completed checkpoints
 - Pages 295–301: seven pages; 24 claims E-0254–E-0277 and 25 sources S10-63–S10-87.
