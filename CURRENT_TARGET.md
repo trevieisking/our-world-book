@@ -7,15 +7,17 @@
 ## Locked manuscript status
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
-- Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A; all 28 planned manuscript pages TEXT LOCKED.
-- Chapter 11 — The Primate That Asked Why, **305–307 TEXT LOCKED**; 3 of 44 planned pages.
-- Continuous narrative checkpoint: **017–307**. Artwork and final layout are not complete.
+- **Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A.** All 28 planned manuscript pages are TEXT LOCKED.
+- Chapter 11 — The Primate That Asked Why, **305–308 TEXT LOCKED**; 4 of 44 planned pages.
+- Continuous narrative checkpoint: **017–308**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 308:** an associated early primate skeleton, competing phylogenetic placement and the limits of reconstructing ancestral biology. Research only after page 307 is committed and read back. Chapter 11 occupies pages 305–348.
+**Page 309:** early anthropoid evidence and geographical relationships between Asia and Africa. Distinguish diagnostic anatomy, proposed relationships, first occurrences and inferred dispersal. Research begins only after page 308 is committed and read back; it has not begun during this pass. Chapter 11 occupies pages 305–348.
 
-## Current continuation
-Pages **302–307** add twenty claims **E-0278–E-0297** and twenty sources **S10-88–S10-97 / S11-01–S11-10**. Chapter 10 is manuscript-complete; Chapter 11 develops early primate evidence, grasping, sensory explanations and dispersal through environmental change. One source is explicitly a current theoretical review, not new anatomical data. Individual page/evidence registers contain sources, access limits and checks; overview and Master Plan reconciliation follows at pass closure. Complete seven pages in this pass.
+## Current continuation — seven-page pass
+Pages **302–308** add **23 claim checkpoints, E-0278–E-0300**, and **22 source records, S10-88–S10-97 / S11-01–S11-12**. Each manuscript page and individual support register share a separate GitHub checkpoint, with read-back before next-page research. Source S11-09 is reused on page 308 rather than counted twice. One source is explicitly a current theoretical review, not new anatomical data.
+
+Coverage: placental branching dates and tested clock models; endocasts and brain/body scaling; extinct mammalian branches; early primate genomic, dental and ankle evidence; grasping and sensory explanations; Teilhardina dispersal and PETM environments; Archicebus and early grooming-claw anatomy. Chapter 10 is complete for manuscript Phase A. Earlier manuscript pages **017–301 remain unchanged** by this pass. Chapter overviews and Master Plan summaries are being reconciled at pass closure.
 
 ## Earlier completed checkpoints
 - Pages 295–301: seven pages; 24 claims E-0254–E-0277 and 25 sources S10-63–S10-87.
