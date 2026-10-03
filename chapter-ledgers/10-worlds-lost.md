@@ -1,6 +1,6 @@
 # CHAPTER LEDGER — CHAPTER 10: WORLDS LOST
 
-**Planned range:** 277–304. **Phase:** A — manuscript / research.
+**Planned range:** 277–304. **Phase:** A — manuscript / research. **Status:** COMPLETE FOR PHASE A.
 
 | Page | Subject | Text | Research | Artwork | Fact-check | Phase A |
 |---:|---|:---:|:---:|:---:|:---:|---|
@@ -29,7 +29,9 @@
 | 299 | Fern-dominated aftermath, tropical canopy change and taxonomic scales of plant recovery | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 300 | Pre-impact mammaliaform swimming, gliding and vertebrate consumption | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 301 | Mammalian extinction selectivity, sampling and first-million-year ecological rebuilding | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 302–304 | Mammalian relationships, diversification and chapter synthesis | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 302 | Placental branching dates, fossil first appearances and tested molecular-clock models | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 303 | Mammalian endocasts, brain/body proportions and current scaling tests | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 304 | Extinct mammal branches, multituberculate ecology and competing extinction mechanisms | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -64,9 +66,12 @@
 - Renewed plant cover, species diversity, higher-taxon continuity and forest architecture require distinct measures and geographical scope.
 - Mammaliaform anatomy and meals establish pre-impact diversity without proving direct ancestry, a witnessed hunt or survival across the later boundary.
 - Mammalian sample survival, immigration and ecological expansion are distinct; coincident plant and body-size changes do not isolate one causal mechanism.
+- Crown definitions, fossil occurrence, branching dates and ecological radiation are separate; molecular and fossil models remain conditional and testable.
+- Endocasts, relative brain size, absolute size and cognitive performance are distinct; scaling assumptions and inferred ecological drivers must be made explicit.
+- Extinct lineages are not failed rehearsals for survivors; selected mechanical models and regional habitat associations test different parts of a competitive-extinction explanation.
 
 ## Support register
-Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-301.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
+Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-304.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged. The closing three pages add ten claims E-0278–E-0287 and ten source records S10-88–S10-97.
 
 ## Status and next target
-**Pages 277–301 TEXT LOCKED; 25 of 28 planned chapter pages complete for Phase A.** The seven-page pass 295–301 adds 24 claim checkpoints (E-0254–E-0277) and 25 source records (S10-63–S10-87). Each page was committed and read back separately. Next: page 302, mammalian relationships and branching dates. Pages 302–304 remain before Chapter 11. Artwork, publication review and root-ledger consolidation remain pending.
+**Pages 277–304 TEXT LOCKED; all 28 planned chapter pages complete for Phase A.** Each of the closing pages 302–304 was committed and read back before the next page was researched. Chapter 11 now has pages 305–308 text-locked; the active next target is page 309, early anthropoid evidence and Asian–African geographical relationships. See `CURRENT_TARGET.md` and `chapter-ledgers/11-the-primate-that-asked-why.md`. Artwork, final publication review and root-ledger consolidation remain pending.
