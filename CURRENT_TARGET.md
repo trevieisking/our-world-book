@@ -7,17 +7,17 @@
 ## Locked manuscript status
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
-- Chapter 10 — Worlds Lost, **277–303 TEXT LOCKED**; 27 of 28 planned pages.
-- Continuous narrative checkpoint: **017–303**. Artwork and final layout are not complete.
+- **Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A.** All 28 planned manuscript pages are TEXT LOCKED.
+- Continuous narrative checkpoint: **017–304**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 304:** close Chapter 10 by examining extinct mammalian branches and the limits of survivor-only histories; bridge to the primate investigation. Research only after this page's commit/read-back. Chapter 11 begins on page 305.
+**Chapter 11 — The Primate That Asked Why, page 305:** evidence for early primates and the distinction between identification, ecological inference and direct ancestry. Research only after page 304 is committed and read back. Chapter 11 occupies pages 305–348.
 
 ## Current continuation
-Pages **302–303** add seven claims **E-0278–E-0284** and seven sources **S10-88–S10-94**. Coverage: placental branching dates and first appearances, 2026 clock-model tests, endocasts and brain/body scaling. Individual support registers contain page/evidence rows, source-access limits and checks. Chapter overview and Master Plan summaries will be aligned at pass closure.
+Pages **302–304** add ten claims **E-0278–E-0287** and ten sources **S10-88–S10-97**. Coverage: placental branching dates, current clock tests, brain/body scaling and extinct mammalian branches. Chapter 10's manuscript is complete. Individual page/evidence registers contain sources, access limits and checks; overview and Master Plan reconciliation follows at pass closure. Continue this pass into Chapter 11 to complete seven pages in total.
 
 ## Earlier completed checkpoints
-- Pages 295–301: seven pages; 24 claims E-0254–E-0277 and 25 sources S10-63–S10-87. Impact aftermath, Deccan chronology, bird selectivity, marine and forest recovery, and mammalian diversity/rebuilding.
+- Pages 295–301: seven pages; 24 claims E-0254–E-0277 and 25 sources S10-63–S10-87.
 - Pages 288–294: seven pages; 27 claims E-0227–E-0253 and 28 sources S10-35–S10-62; includes published size-model and feather-experiment corrections.
 - Pages 281–287: seven pages; 22 claims E-0205–E-0226 and 22 sources S10-13–S10-34.
 - Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed and Chapter 10 opened.
@@ -33,4 +33,4 @@ Pages **302–303** add seven claims **E-0278–E-0284** and seven sources **S10
 No image generation, new image briefs, reading-copy PDFs or extra deliverables. Existing artwork records remain for Phase B. Numerical ages require source checks rather than silently reusing historical timescales.
 
 ## Authority and outstanding reconciliation
-This file and individual page/evidence supplements control each new page checkpoint; chapter overviews and Master Plan summaries are reconciled at pass closure. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
+This file and individual page/evidence supplements control each new checkpoint; chapter overviews and Master Plan summaries are reconciled at pass closure. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
