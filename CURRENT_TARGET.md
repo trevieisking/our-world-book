@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
-- Chapter 10 — Worlds Lost, **277–298 TEXT LOCKED**; 22 of 28 planned pages.
-- Continuous narrative checkpoint: **017–298**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **277–299 TEXT LOCKED**; 23 of 28 planned pages.
+- Continuous narrative checkpoint: **017–299**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 299:** terrestrial vegetation recovery, regional forest transformation and the distinction between renewed cover and restored ecosystems. Research begins only after page 298 is committed and read back.
+**Page 300:** mammalian ecological diversity before the impact, distinguishing fossil anatomy, meals and reconstructed habits. Research begins only after page 299 is committed and read back.
 
 ## Active continuation
-Pages 295–298 examine impact aftermath, Deccan chronology, bird extinction selectivity and marine recovery including the 2026 plankton recalibration. Claims **E-0254–E-0268** and sources **S10-63–S10-78** are in individual support registers 295–298. Each page and its page/evidence supplement share a GitHub checkpoint. Chapter overview and Master Plan summaries are refreshed at pass closure; supplements and this file identify the latest page meanwhile.
+Pages 295–299 examine impact aftermath, Deccan chronology, bird selectivity, marine recovery and regional forest transformation. Claims **E-0254–E-0271** and sources **S10-63–S10-81** are in individual support registers 295–299. Each page and its page/evidence supplement share a GitHub checkpoint. Chapter overview and Master Plan summaries are refreshed at pass closure; supplements and this file identify the latest page meanwhile.
 
 ## Earlier completed checkpoints
 - Pages 288–294: seven pages, 27 claims E-0227–E-0253 and 28 sources S10-35–S10-62; includes published size-model and feather-experiment corrections.
