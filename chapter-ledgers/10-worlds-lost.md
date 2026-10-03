@@ -12,7 +12,8 @@
 | 282 | Guiyang and Paris communities; recovery versus environmental stability | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 283 | Lystrosaurus growth, possible torpor and the 2026 embryo interpretation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 284 | Early dinosaur identification, Mbiresaurus and sampling-aware geographical origins | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 285–304 | Dispersal, later crises and changing vertebrate ecosystems | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 285 | Climatic dispersal barriers, Greenland chronology and the 2025 Wyoming evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 286–304 | Later crises and changing dinosaur and mammal ecosystems | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -30,6 +31,7 @@
 - Local ecological complexity, species diversity and environmental stability are different recovery measures; modelled internal oscillations do not exclude every external forcing.
 - Lystrosaurus breeding age, torpor and reproductive advantages are inferred; developmental evidence for an embryo is not a preserved calcified or leathery shell.
 - Dinosaur identity, geological age and geographical origin are separate; sampling and silesaurid relationships affect modelled origin maps.
+- Presence, establishment and dominance differ; younger regional records cannot establish universal earlier absence, and detrital maximum dates are not exact fossil ages.
 
 ## Support register
 - `chapter-ledgers/10-worlds-lost-support-277.md`
@@ -40,6 +42,7 @@
 - `chapter-ledgers/10-worlds-lost-support-282.md`
 - `chapter-ledgers/10-worlds-lost-support-283.md`
 - `chapter-ledgers/10-worlds-lost-support-284.md`
+- `chapter-ledgers/10-worlds-lost-support-285.md`
 
 ## Status and next target
-**Pages 277–284 TEXT LOCKED; 8 of 28 planned chapter pages complete for Phase A.** Next: page 285, climate, sampling and limits on early dinosaur dispersal. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
+**Pages 277–285 TEXT LOCKED; 9 of 28 planned chapter pages complete for Phase A.** Next: page 286, end-Triassic volcanism, timing and climate mechanisms. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.

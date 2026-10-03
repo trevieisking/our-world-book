@@ -7,14 +7,14 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–284 TEXT LOCKED**; 8 of 28 planned pages.
-- Continuous narrative checkpoint: **017–284**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **pages 277–285 TEXT LOCKED**; 9 of 28 planned pages.
+- Continuous narrative checkpoint: **017–285**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 285:** climate, sampling and limits on early dinosaur dispersal. Research begins only after page 284 is committed and verified.
+**Chapter 10 — Worlds Lost, page 286:** end-Triassic volcanism, timing and climate mechanisms. Research begins only after page 285 is committed and verified.
 
 ## Current continuation
-Pages **281–284** add **13 claim checkpoints, E-0205–E-0217**, and **13 sources, S10-13–S10-25**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: end-Permian environmental mechanisms and competing chronologies; complex fossil communities and instability; Lystrosaurus growth and reproduction; early dinosaur identification and sampling-aware origins. Target remains 7–10 pages, completed sequentially.
+Pages **281–285** add **16 claim checkpoints, E-0205–E-0220**, and **16 sources, S10-13–S10-28**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: end-Permian mechanisms and recovery; Lystrosaurus life histories; dinosaur identification, origins and climatic dispersal hypotheses tested against newer fossils. Target remains 7–10 pages, completed sequentially.
 
 ## Earlier completed checkpoints
 - Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed; Chapter 10 opened. Individual supplements retained.
