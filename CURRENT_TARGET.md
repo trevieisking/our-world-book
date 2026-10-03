@@ -7,14 +7,16 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **277–293 TEXT LOCKED**; 17 of 28 planned pages.
-- Continuous narrative checkpoint: **017–293**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **277–294 TEXT LOCKED**; 18 of 28 planned pages.
+- Continuous narrative checkpoint: **017–294**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 294:** end-Cretaceous boundary evidence and the identification of an impact; distinguish a chemical anomaly, an impact structure and a dated causal sequence. Begin research only after page 293 is committed and read back.
+**Page 295:** Chicxulub's environmental consequences beyond the crater. Distinguish immediate deposits and observations from reconstructed atmospheric dust, soot, aerosols, cooling and biological effects. Begin research only after page 294 is committed and read back.
 
-## Current continuation
-Pages **288–293** add twenty-three claim checkpoints **E-0227–E-0249** and twenty-four sources **S10-35–S10-58**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: gigantism, temperature evidence, coverings and colour, flight, other reptile adaptations, and changing plant–insect ecosystems. Earlier manuscript pages remain unchanged. Continue the requested seven-to-ten-page pass one verified page at a time.
+## Current continuation — seven-page pass
+Pages **288–294** add **27 claim checkpoints, E-0227–E-0253**, and **28 source records, S10-35–S10-62**. Individual support registers contain page/evidence rows, source-access limits and fact-check notes. Each page has a separate GitHub checkpoint and read-back before next-page research. Earlier manuscript pages **017–287 remain unchanged** by this pass.
+
+Coverage: giant body support and corrected size modelling; isotope temperature evidence; external coverings and colour; Archaeopteryx flight tests; pterosaurs and marine reptiles; plant–insect ecosystems; and the iridium/crater/dating evidence at the end-Cretaceous boundary. Published corrections to the size and feather-maturation studies are recorded. Page 295 research has not begun.
 
 ## Earlier completed checkpoints
 - Pages 281–287: seven separate page checkpoints; 22 claims E-0205–E-0226 and 22 sources S10-13–S10-34. Support records retained.
