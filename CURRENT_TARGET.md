@@ -7,14 +7,16 @@
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
 - **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–286 TEXT LOCKED**; 10 of 28 planned pages.
-- Continuous narrative checkpoint: **017–286**. Artwork and final layout are not complete.
+- Chapter 10 — Worlds Lost, **pages 277–287 TEXT LOCKED**; 11 of 28 planned pages.
+- Continuous narrative checkpoint: **017–287**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 287:** dietary evidence and the ecological expansion of dinosaurs. Research begins only after page 286 is committed and verified.
+**Chapter 10 — Worlds Lost, page 288:** dinosaur gigantism, body support and the limits of size and physiological reconstruction. Research begins only after page 287 is committed and verified.
 
-## Current continuation
-Pages **281–286** add **19 claim checkpoints, E-0205–E-0223**, and **19 sources, S10-13–S10-31**. Individual support registers contain page/evidence rows, access limits and checks. Coverage: end-Permian mechanisms and recovery; Lystrosaurus life histories; dinosaur identification, origins and dispersal; end-Triassic eruption timing, gas evidence and climate hypotheses. Target remains 7–10 pages, completed sequentially.
+## Current continuation — seven-page pass
+Pages **281–287** add **22 claim checkpoints, E-0205–E-0226**, and **22 sources, S10-13–S10-34**. Individual support registers contain page/evidence rows, source-access limits and fact-check notes. Each page is saved in its own GitHub checkpoint and read back before next-page research. Earlier manuscript pages 017–280 remain unchanged by this pass.
+
+Coverage: end-Permian environmental mechanisms and competing chronologies; marine recovery and instability; Lystrosaurus life histories; dinosaur identification, origins and dispersal; end-Triassic eruption timing and gas evidence; fossil meals, growth and ecological expansion. Page 288 research has not begun.
 
 ## Earlier completed checkpoints
 - Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed; Chapter 10 opened. Individual supplements retained.
