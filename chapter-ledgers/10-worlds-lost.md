@@ -16,7 +16,8 @@
 | 286 | CAMP chronology, carbon-dioxide inclusions and proposed short-lived cooling | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 287 | Fossil meals, comparative growth and tests of dinosaur ecological expansion | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 288 | Giant body support, cyclic growth and corrected volumetric reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 289–304 | Physiology, later dinosaur worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 289 | Isotope thermometry, environmental comparisons and variable thermoregulation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 290–304 | Body coverings, later dinosaur worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -38,9 +39,10 @@
 - CAMP broad eruptive episodes and short initial directional groups are different scales; gas detection and magnetic timing do not directly measure atmospheric cooling or warming.
 - Digestive contents, inferred producers and regional food webs are distinct; growth and anatomical disparity are not universal measures of competitive fitness.
 - Giant mass, posture, growth and physiology are separate reconstructions; published model corrections must be checked.
+- Fossil temperature, heat source and thermal stability differ; sample identity, preservation and mineralization require tests.
 
 ## Support register
-Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-288.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
+Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-289.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
 
 ## Status and next target
-**Pages 277–288 TEXT LOCKED; 12 of 28 planned chapter pages complete for Phase A.** Next: page 289, physiology and body-temperature evidence. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.
+**Pages 277–289 TEXT LOCKED; 13 of 28 planned chapter pages complete for Phase A.** Next: page 290, body coverings and feather evidence. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.
