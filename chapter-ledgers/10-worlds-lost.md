@@ -15,7 +15,8 @@
 | 285 | Climatic dispersal barriers, Greenland chronology and the 2025 Wyoming evidence | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 286 | CAMP chronology, carbon-dioxide inclusions and proposed short-lived cooling | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 287 | Fossil meals, comparative growth and tests of dinosaur ecological expansion | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 288–304 | Gigantism, later dinosaur worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 288 | Giant body support, cyclic growth and corrected volumetric reconstruction | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 289–304 | Physiology, later dinosaur worlds and mammals | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - A local last occurrence is not automatically a global extinction or an exact extinction time.
@@ -36,19 +37,10 @@
 - Presence, establishment and dominance differ; younger regional records cannot establish universal earlier absence, and detrital maximum dates are not exact fossil ages.
 - CAMP broad eruptive episodes and short initial directional groups are different scales; gas detection and magnetic timing do not directly measure atmospheric cooling or warming.
 - Digestive contents, inferred producers and regional food webs are distinct; growth and anatomical disparity are not universal measures of competitive fitness.
+- Giant mass, posture, growth and physiology are separate reconstructions; published model corrections must be checked.
 
 ## Support register
-- `chapter-ledgers/10-worlds-lost-support-277.md`
-- `chapter-ledgers/10-worlds-lost-support-278.md`
-- `chapter-ledgers/10-worlds-lost-support-279.md`
-- `chapter-ledgers/10-worlds-lost-support-280.md`
-- `chapter-ledgers/10-worlds-lost-support-281.md`
-- `chapter-ledgers/10-worlds-lost-support-282.md`
-- `chapter-ledgers/10-worlds-lost-support-283.md`
-- `chapter-ledgers/10-worlds-lost-support-284.md`
-- `chapter-ledgers/10-worlds-lost-support-285.md`
-- `chapter-ledgers/10-worlds-lost-support-286.md`
-- `chapter-ledgers/10-worlds-lost-support-287.md`
+Individual support files `chapter-ledgers/10-worlds-lost-support-277.md` through `chapter-ledgers/10-worlds-lost-support-288.md` retain all page rows, claim IDs, sources and access limits. Earlier files remain unchanged.
 
 ## Status and next target
-**Pages 277–287 TEXT LOCKED; 11 of 28 planned chapter pages complete for Phase A.** This pass added seven pages, 281–287, with 22 claim checkpoints and 22 source records. Next: page 288, dinosaur gigantism, body support and the limits of size and physiological reconstruction. Commit and read back each page before researching the next. Artwork and final publication checks remain pending. Root Page/Evidence Ledger consolidation is not complete.
+**Pages 277–288 TEXT LOCKED; 12 of 28 planned chapter pages complete for Phase A.** Next: page 289, physiology and body-temperature evidence. Commit and read back each page before researching the next. Artwork, publication review and root-ledger consolidation remain pending.

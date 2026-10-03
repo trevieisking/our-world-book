@@ -6,21 +6,20 @@
 
 ## Locked manuscript status
 - Prologue **017–032** and Chapters 1–8 **033–248** — TEXT LOCKED, per existing chapter ledgers.
-- **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned chapter pages are TEXT LOCKED.
-- Chapter 10 — Worlds Lost, **pages 277–287 TEXT LOCKED**; 11 of 28 planned pages.
-- Continuous narrative checkpoint: **017–287**. Artwork and final layout are not complete.
+- **Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.** All 28 planned pages are TEXT LOCKED.
+- Chapter 10 — Worlds Lost, **277–288 TEXT LOCKED**; 12 of 28 planned pages.
+- Continuous narrative checkpoint: **017–288**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Chapter 10 — Worlds Lost, page 288:** dinosaur gigantism, body support and the limits of size and physiological reconstruction. Research begins only after page 287 is committed and verified.
+**Page 289:** dinosaur physiology and ancient body temperature; distinguish measured chemical signals from reconstructed temperature, heat production and thermal stability. Begin research only after page 288 is committed and read back.
 
-## Current continuation — seven-page pass
-Pages **281–287** add **22 claim checkpoints, E-0205–E-0226**, and **22 sources, S10-13–S10-34**. Individual support registers contain page/evidence rows, source-access limits and fact-check notes. Each page is saved in its own GitHub checkpoint and read back before next-page research. Earlier manuscript pages 017–280 remain unchanged by this pass.
-
-Coverage: end-Permian environmental mechanisms and competing chronologies; marine recovery and instability; Lystrosaurus life histories; dinosaur identification, origins and dispersal; end-Triassic eruption timing and gas evidence; fossil meals, growth and ecological expansion. Page 288 research has not begun.
+## Current continuation
+Page **288** adds four claim checkpoints **E-0227–E-0230** and four sources **S10-35–S10-38**. Its individual support register contains page/evidence rows, source-access limits and checks, including the correction to the 2025 volumetric study. Earlier manuscript pages remain unchanged. Continue the requested seven-to-ten-page pass one verified page at a time.
 
 ## Earlier completed checkpoints
-- Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed; Chapter 10 opened. Individual supplements retained.
-- Pages 267–273: seven separate verified page checkpoints; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files unchanged.
+- Pages 281–287: seven separate page checkpoints; 22 claims E-0205–E-0226 and 22 sources S10-13–S10-34. Support records retained.
+- Pages 274–280: seven pages; 21 claims E-0184–E-0204 and 20 sources S9-95–S9-102 / S10-01–S10-12. Chapter 9 completed; Chapter 10 opened.
+- Pages 267–273: seven pages; 21 claims E-0163–E-0183 and 19 sources S9-76–S9-94. Individual support files unchanged.
 - Pages 265–266: 1,004 prose words and six claims; support register 265–272 records the checkpoint through 266.
 - Pages 257–264: 4,056 prose words and 24 claims.
 - Pages 249–256: 3,959 prose words and 24 claims.
