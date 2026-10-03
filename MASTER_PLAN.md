@@ -169,7 +169,7 @@ After text and artwork are complete:
 2. Check page flow, typography, captions, cross-references and contents.
 3. Re-verify frontier claims before publication.
 4. Produce the digital/web edition and the print-ready personal edition.
-5. Mark pages FINAL only when text, evidence, artwork and layout all agree.
+5. Mark pages FINAL only when text, evidence, artwork and layout agree.
 
 ## Image-generation gate
 
@@ -189,14 +189,16 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–287 are TEXT LOCKED. Next individual page: 288, Chapter 10 — Worlds Lost. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–294 are TEXT LOCKED. Next individual page: 295, Chapter 10 — Worlds Lost. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
-**Chapter 9 — Life Comes Ashore is complete for manuscript Phase A: pages 249–276, all 28 planned chapter pages. Chapter 10 has pages 277–287 TEXT LOCKED: 11 of its 28 planned pages.**
+**Chapter 9 — Life Comes Ashore is complete for manuscript Phase A: pages 249–276, all 28 planned chapter pages. Chapter 10 has pages 277–294 TEXT LOCKED: 18 of its 28 planned pages.**
 
-The 2026-10-03 continuation added seven pages (281–287), each saved and read back as a separate manuscript checkpoint, with 22 claim checkpoints (E-0205–E-0226) and 22 source records (S10-13–S10-34). It develops end-Permian mechanisms and recovery, terrestrial survivors, dinosaur origins and dispersal, end-Triassic eruption evidence and changing food webs. Earlier manuscript pages 017–280 are unchanged by this pass. Next: dinosaur gigantism, body support and the limits of size and physiological reconstruction on page 288.
+The latest 2026-10-03 continuation added seven pages (288–294), each committed and read back separately, with 27 claim checkpoints (E-0227–E-0253) and 28 source records (S10-35–S10-62). It covers gigantism and corrected size models, isotope thermometry, coverings and colour, flight tests, other reptile adaptations, plant–insect ecosystems and the evidence connecting Chicxulub to the end-Cretaceous boundary. Earlier manuscript pages 017–287 are unchanged by this pass. Next: environmental consequences beyond the impact crater on page 295.
 
-The preceding 2026-10-02 continuation added seven pages (274–280), each saved and read back as a separate manuscript checkpoint, with 21 claim checkpoints (E-0184–E-0204) and 20 source records (S9-95–S9-102 and S10-01–S10-12). It completed the terrestrial-life chapter and opened the extinction investigation. Earlier manuscript pages 017–273 were unchanged by that pass.
+The preceding 2026-10-03 continuation added seven pages (281–287), each saved and read back as a separate manuscript checkpoint, with 22 claim checkpoints (E-0205–E-0226) and 22 source records (S10-13–S10-34). It developed end-Permian mechanisms and recovery, terrestrial survivors, dinosaur origins and dispersal, end-Triassic eruption evidence and changing food webs. Earlier manuscript pages 017–280 were unchanged by that pass.
+
+The 2026-10-02 continuation added seven pages (274–280), each saved and read back as a separate manuscript checkpoint, with 21 claim checkpoints (E-0184–E-0204) and 20 source records (S9-95–S9-102 and S10-01–S10-12). It completed the terrestrial-life chapter and opened the extinction investigation. Earlier manuscript pages 017–273 were unchanged by that pass.
 
 The earlier continuation added seven pages (267–273), 21 claim checkpoints (E-0163–E-0183) and 19 source records (S9-76–S9-94); those manuscript and support files remain intact.
 
-Read `CURRENT_TARGET.md`, the Chapter 9 and Chapter 10 ledgers, and the individual support registers for pages 267–287. These contain the current page/evidence rows and source-access limits. Consolidation into the large root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md`, including older placeholder reconciliation, remains pending and is not claimed complete. TEXT LOCKED is manuscript progress, not final artwork, layout or publication completion.
+Read `CURRENT_TARGET.md`, the Chapter 9 and Chapter 10 ledgers, and the individual support registers for pages 267–294. These contain the current page/evidence rows and source-access limits. Consolidation into the large root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md`, including older placeholder reconciliation, remains pending and is not claimed complete. TEXT LOCKED is manuscript progress, not final artwork, layout or publication completion.
