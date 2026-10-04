@@ -20,7 +20,7 @@ This is not a claim to possess final or absolute truth. The book separates:
 
 ## Book journey
 
-The narrative begins in the deep ocean, travels backward to the formation of Earth and the Solar System, then follows oceans, chemistry, life, evolution, extinctions, humanity, civilisation, religion, extraordinary claims, science and technology, and ends with satellites looking back at Earth from space.
+The narrative begins in the deep ocean, travels backward to the formation of Earth and the Solar System, then follows oceans, chemistry, life, evolution, extinctions, humanity, civilisation, religion, extraordinary claims, science and technology, and satellites looking back at Earth from space. A final main chapter, **Modern Theories and Predictions**, examines present-day research frontiers and testable questions before the epilogue returns to the world looking back at itself.
 
 ## Original artwork rule
 
@@ -43,11 +43,18 @@ The project is governed by:
 - `IMAGE_LEDGER.md`
 - `STYLE_GUIDE.md`
 
-The locked workflow is: **plan -> research -> write -> evidence check -> artwork -> fact-check -> approve -> mark complete -> commit -> next page/spread**.
-
+The active Phase A workflow is: **plan -> research -> write -> evidence/fact-check -> TEXT LOCK -> commit and verify -> next page**. Artwork follows the complete manuscript in Phase B; final layout and publication review follow in Phase C, as specified in `MASTER_PLAN.md`.
 
 ## Current workflow authority
 
 For active writing progress, read `CURRENT_TARGET.md` first, then the relevant file in `chapter-ledgers/`, followed by `EVIDENCE_LEDGER.md` and `IMAGE_LEDGER.md`.
 
 The large book-wide `PAGE_LEDGER.md` remains the master page index but may be reconciled in batches if a connector write limit blocks a large update.
+
+## New final chapter — 2026-10-04 planning revision
+
+**Chapter 17 — Modern Theories and Predictions** is reserved for **481–504**, followed by the epilogue at **505–512** and references at **513–568**. The revised planning target is **568 pages**; pages 001–480 retain their allocations. This Master Plan revision and `chapter-ledgers/17-modern-theories-and-predictions.md` supersede the older, unwritten end-of-book placeholders in the root Page Ledger until consolidation.
+
+Trev's collapse–rotation–dark-matter hypothesis and the stronger dark-matter/dark-energy interaction conjecture are preserved in `research/17-modern-theories-and-predictions-hypothesis-brief.md`, with explicit evidence boundaries and preliminary sources. These are an attributed research question and chapter plan, not a proven theory or a completed 24-page manuscript. Chapter 17 has **0/24 pages TEXT LOCKED**.
+
+The continuous manuscript checkpoint remains **017–315**. **Page 316 in Chapter 11 remains the next individual writing target.**

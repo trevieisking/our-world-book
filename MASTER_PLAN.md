@@ -45,6 +45,8 @@ Before generating a visual, record:
 
 ## Target book architecture
 
+**Revised planning target: 568 pages.** The 2026-10-04 author-requested addition inserts a 24-page Chapter 17 after Chapter 16. Pages 001–480 retain their existing allocations. Only the unwritten epilogue and reference-section allocations move, by 24 pages. These are manuscript planning ranges, not final typeset pagination.
+
 | Pages | Section |
 |---:|---|
 | 001–016 | Front Matter |
@@ -65,8 +67,11 @@ Before generating a visual, record:
 | 415–440 | Ch. 14 — Testing the Extraordinary |
 | 441–464 | Ch. 15 — Powers That Look Like Magic |
 | 465–480 | Ch. 16 — Above Our World |
-| 481–488 | Epilogue — The World Looking Back at Itself |
-| 489–544 | Evidence, Notes, Glossary, Bibliography, Credits, Index |
+| 481–504 | Ch. 17 — Modern Theories and Predictions |
+| 505–512 | Epilogue — The World Looking Back at Itself |
+| 513–568 | Evidence, Notes, Glossary, Bibliography, Credits, Index |
+
+**Future-page authority:** this table and `chapter-ledgers/17-modern-theories-and-predictions.md` supersede the old, unwritten 481–544 placeholder allocations in the large root `PAGE_LEDGER.md`. Root-ledger consolidation remains pending; do not use its former 544-page target to omit Chapter 17 or to overwrite the new allocation. No completed manuscript is renumbered.
 
 ## Chapter intent
 
@@ -124,11 +129,22 @@ Electricity, radio, medicine, relativity, nuclear physics, genetics, computers, 
 ### Chapter 16 — pages 465–480
 Rockets, satellites, communications, navigation, Earth observation, Moon exploration and humanity seeing the planet as one world.
 
-### Epilogue — pages 481–488
-Return visually to the opening darkness, now from space. The world looks back at itself. End with known, inferred and unknown.
+### Chapter 17 — Modern Theories and Predictions — pages 481–504
+**Working subtitle:** *What We Know, What We Suspect, and How We Could Find Out.*
 
-### Reference section — pages 489–544
-Chronology, methods, evidence ledger, glossary, notes, bibliography, image credits and index.
+Bring the chronological journey to the research frontier: modern observations, gravity, dark matter and dark energy, stellar collapse, planetary recycling, the conditions for habitable worlds, and predictions that can be tested. Connect these questions back to the book's earlier investigations of Earth formation and life's origins without replacing those chapters or presenting a speculative alternative as the accepted history of Earth.
+
+Include a clearly attributed case study, **Trev's collapse–rotation–dark-matter hypothesis**, preserving both the author's original question about an implosion-associated dark-matter/dark-energy interaction and the narrower conventional-gravity version developed in discussion. Do not silently substitute one for the other. Credit the proposal to the author within this book, not as an established discovery or a claim of worldwide scientific priority.
+
+Separate observations, established physical principles, conditional model results and the author's untested extension. A conceptual conjecture is not yet a quantitative predictive theory. Specify the additional equations, initial conditions, conservation checks, competing explanations, measurement precision and rejection criteria needed before a claimed new force could be tested. A disc, a fast-spinning asteroid or a planet around a stellar remnant is not by itself evidence for the proposed dark-sector interaction.
+
+The 24-page plan is in `chapter-ledgers/17-modern-theories-and-predictions.md`. The author's idea, a candidate passage, preliminary source checks and test-design requirements are preserved in `research/17-modern-theories-and-predictions-hypothesis-brief.md`. This chapter is **PLANNED, 0/24 pages TEXT LOCKED**. The material is not a completed manuscript page and does not advance the continuous checkpoint. Record publication and observation dates separately; refresh all frontier claims when their pages are written and again before publication. Artwork remains deferred.
+
+### Epilogue — pages 505–512
+Return visually to the opening darkness, now from space. The world looks back at itself. End with known, inferred and unknown, drawing on the new chapter's distinction between an unanswered question and an evidenced answer.
+
+### Reference section — pages 513–568
+Chronology, methods, evidence ledger, glossary, notes, bibliography, image credits and index. Include Chapter 17's claim-level references and clearly separate published research from the author's speculative proposal.
 
 ## Locked production loop — manuscript first
 
@@ -192,6 +208,8 @@ A page is only **FINAL** when:
 **PHASE A — WRITING-ONLY LOOP. Narrative pages 017–315 are TEXT LOCKED. Next individual page: 316, Chapter 11 — The Primate That Asked Why. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
 **Chapter 10 — Worlds Lost remains complete for manuscript Phase A: pages 277–304, all 28 planned chapter pages. Chapter 9 remains complete. Chapter 11 has pages 305–315 TEXT LOCKED: 11 of its 44 planned pages.**
+
+**2026-10-04 structural addition:** Chapter 17 — Modern Theories and Predictions is reserved at 481–504, followed by the epilogue at 505–512 and references at 513–568. Its chapter ledger and preliminary hypothesis brief are added without writing ahead in the numbered manuscript. This does not change the 017–315 checkpoint, page 316 target or existing claim/source counts. The large root ledgers remain pending consolidation; the architecture and Chapter 17 supplemental ledger control the revised future allocations.
 
 The 2026-10-04 continuation added seven pages (309–315), each committed and read back separately, with 22 claim checkpoints (E-0301–E-0322) and 23 source records (S11-13–S11-35). It covers Asian–African anthropoid connections, South American dispersal and provenance, catarrhine branches, the 2026 Egyptian ape and contrasting habitats, tail-loss evidence, disputed fossil locomotion and ape genomic histories. The Danuvius comment and reply remain distinct source records rather than independent anatomical replications. Earlier manuscript pages 017–308 are unchanged by this pass. Next: recognising the earliest hominins near the human–chimpanzee separation on page 316, keeping anatomical diagnosis, locomotor inference, fossil age and direct ancestry separate; that research has not begun during this pass.
 
