@@ -25,7 +25,14 @@ Investigate primate origins and diversification before following hominins, biped
 | 320 | *Australopithecus anamensis*: habitual bipedality, MRD cranium and overlap with *A. afarensis* | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 321 | *Australopithecus afarensis* and Lucy: committed bipedality, non-modern gait and arboreal loading | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 322 | Laetoli: direct bipedal track evidence, Site G/S and Site A diversity hypothesis | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 323–348 | Pliocene hominin diversity, later australopiths, tool use, early *Homo*, archaic humans and dispersal | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 323 | Burtele foot: locomotor diversity and 2025 attribution to *Australopithecus deyiremeda* | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 324 | *A. deyiremeda*: taxonomic limits, carbon-isotope diet and ecological differentiation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 325 | *Kenyanthropus platyops*: distorted preservation, CT correction and small-sample limits | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 326 | Taung Child: small brain, foramen-magnum evidence and bipedality before major encephalisation | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 327 | Sterkfontein and Little Foot: cave dating, intrusive flowstone and disputed taxonomy | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 328 | Lomekwi 3: 3.3 Ma stone technology, pre-*Homo* implications and context challenge | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 329 | Dikika bone marks: butchery interpretation, trampling/tooth alternatives and equifinality | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 330–348 | Early Oldowan, later australopiths, early *Homo*, archaic humans and dispersal | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - Living relatives are not unchanged ancestors, and a fossil near a branching point is not necessarily the direct common ancestor.
@@ -55,15 +62,24 @@ Investigate primate origins and diversification before following hominins, biped
 - Temporal overlap weakens a simple no-overlap anagenetic sequence but does not by itself exclude every branching ancestor-descendant relationship.
 - A footprint preserves a locomotor event, not a secure species identity; body size, sex, social grouping and taxonomic attribution require additional inference.
 - New comparative studies can strengthen an interpretation without erasing earlier published disputes or the limits of incomplete fossils.
+- A later taxonomic attribution by provenance is not the same evidence as a directly associated skeleton.
+- Stable-isotope values constrain broad dietary carbon sources, not exact foods, motives or complete ecological niches.
+- Distortion correction can recover anatomical signal, but one unusual fossil does not fully characterize a population.
+- Cave sediment burial, later flowstone formation and biochronological comparison can date different events and must not be conflated.
+- Stone artefacts do not identify their maker without a secure biological association; a nearby hominin taxon remains only a candidate.
+- Artefactuality, stratigraphic association and numerical age are separate requirements for very early archaeological claims.
+- Equifinality is explicit in bone-surface interpretation: butchery, trampling and tooth damage can produce overlapping features, so competing causal models must be tested.
 
 ## Support register
-Individual support files `chapter-ledgers/11-the-primate-that-asked-why-support-305.md` through `chapter-ledgers/11-the-primate-that-asked-why-support-322.md` retain all page rows, claims, sources and access limitations.
+Individual support files `chapter-ledgers/11-the-primate-that-asked-why-support-305.md` through `chapter-ledgers/11-the-primate-that-asked-why-support-329.md` retain all page rows, claims, sources and access limitations.
 
 Pages 305–308 record thirteen claims E-0288–E-0300 and twelve source records S11-01–S11-12. Source S11-09 is reused on page 308, not counted again. Source S11-06 is explicitly a theoretical review rather than new empirical data; the ESRF account accompanying S11-11 reports the same underlying study, not independent replication.
 
 The earlier 2026-10-04 pass added seven pages, 309–315, with 22 claims E-0301–E-0322 and 23 source records S11-13–S11-35. Source reuse does not increase the count. The Danuvius comment and reply are distinct publications, not independent fossil datasets.
 
-The current 2026-10-04 pass adds seven pages, 316–322, with **21 claim checkpoints E-0323–E-0343** and **29 source records S11-36–S11-64**. It moves from *Sahelanthropus* through *Orrorin*, *Ardipithecus*, *Australopithecus anamensis*, Lucy and the Laetoli trackways, preserving disputes and keeping anatomy, behaviour, age, taxonomic assignment and ancestry distinct. The completed Chapter 11 portion therefore contains **56 claim checkpoints E-0288–E-0343** and **64 source records S11-01–S11-64**.
+The preceding 2026-10-04 pass added seven pages, 316–322, with **21 claim checkpoints E-0323–E-0343** and **29 source records S11-36–S11-64**. It moved from *Sahelanthropus* through *Orrorin*, *Ardipithecus*, *Australopithecus anamensis*, Lucy and the Laetoli trackways, preserving disputes and keeping anatomy, behaviour, age, taxonomic assignment and ancestry distinct.
+
+The current 2026-10-04 pass adds seven pages, **323–329**, with **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**. It covers the Burtele foot and its 2025 attribution to *A. deyiremeda*; diet and locomotor differentiation; *Kenyanthropus* distortion correction; the Taung Child and bipedality before large brains; Sterkfontein dating/taxonomy disputes; Lomekwi technology before known *Homo*; and the contested Dikika cut-mark record. The completed Chapter 11 portion therefore contains **77 claim checkpoints E-0288–E-0364** and **89 source records S11-01–S11-89**.
 
 ## Status and next target
-**Pages 305–322 TEXT LOCKED; 18 of 44 planned chapter pages complete for Phase A.** Each page in the new pass was researched, written, checked, committed and read back before research advanced. Earlier manuscript pages 017–315 remain unchanged by this pass. Next: **page 323**, the approximately 3.4 Ma Burtele foot and Pliocene hominin locomotor diversity; distinguish anatomical difference, locomotor reconstruction, contemporaneity with *A. afarensis* and taxonomic assignment. Page 323 research has not begun during this pass. Preserve the research-first individual-page loop and normally complete 7–10 pages per pass. Artwork, final layout, publication review and root-ledger consolidation remain pending.
+**Pages 305–329 TEXT LOCKED; 25 of 44 planned chapter pages complete for Phase A.** Each page in the new pass was researched, written, checked, committed and read back before research advanced. Earlier manuscript pages 017–322 remain unchanged by this pass. Next: **page 330**, the ~2.9 Ma Nyayanga Oldowan assemblage, animal-resource processing and *Paranthropus* association; distinguish artefact age, behaviour, nearby hominin fossils and actual toolmaker identity. Page 330 research has not begun during this pass. Preserve the research-first individual-page loop and normally complete 7–10 pages per pass. Artwork, final layout, publication review and root-ledger consolidation remain pending.

@@ -205,13 +205,15 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–322 are TEXT LOCKED. Next individual page: 323, Chapter 11 — The Primate That Asked Why. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–329 are TEXT LOCKED. Next individual page: 330, Chapter 11 — The Primate That Asked Why. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
-**Chapter 10 — Worlds Lost remains complete for manuscript Phase A: pages 277–304, all 28 planned chapter pages. Chapter 9 remains complete. Chapter 11 has pages 305–322 TEXT LOCKED: 18 of its 44 planned pages.**
+**Chapter 10 — Worlds Lost remains complete for manuscript Phase A. Chapter 11 has pages 305–329 TEXT LOCKED: 25 of its 44 planned pages.**
 
-**2026-10-04 structural/frontier addition:** Chapter 17 — Modern Theories and Predictions remains reserved at 481–504, followed by the epilogue at 505–512 and references at 513–568. `BOOK_MANIFEST.md` consolidates the frontier themes and evidence boundaries. The addition does not write ahead in the numbered manuscript and does not alter the active 017–322 checkpoint or page 323 target. Root-ledger consolidation remains pending.
+**2026-10-04 structural/frontier addition:** Chapter 17 remains reserved at 481–504, followed by the epilogue at 505–512 and references at 513–568. `BOOK_MANIFEST.md` consolidates the frontier themes and evidence boundaries. The addition does not write ahead in the numbered manuscript and does not alter the active checkpoint.
 
-The latest 2026-10-04 continuation added seven pages **316–322**, each committed and read back separately, with **21 claim checkpoints E-0323–E-0343** and **29 source records S11-36–S11-64**. It covers early hominin candidates and the changing evidence for bipedality from *Sahelanthropus* and *Orrorin* through *Ardipithecus*, *Australopithecus anamensis*, Lucy and the Laetoli footprints. Published disputes, new 2025–2026 analyses, trace evidence, taxonomic attribution and ancestor claims remain separated. Earlier manuscript pages 017–315 are unchanged by this pass. Next: the approximately 3.4 Ma Burtele foot and Pliocene locomotor diversity on page 323; that research has not begun during this pass.
+The latest 2026-10-04 continuation added seven pages **323–329**, each committed and read back separately, with **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**. It covers the Burtele foot and *A. deyiremeda* attribution/diet; *Kenyanthropus* distortion correction; Taung and the order of bipedality versus brain expansion; Sterkfontein dating and taxonomy; Lomekwi stone technology; and the Dikika bone-mark dispute. Earlier manuscript pages 017–322 are unchanged. Next: **page 330**, the ~2.9 Ma Nyayanga Oldowan assemblage, animal-resource processing and *Paranthropus* association; that research has not begun during this pass.
+
+The preceding 2026-10-04 continuation added seven pages **316–322**, each committed and read back separately, with 21 claim checkpoints E-0323–E-0343 and 29 source records S11-36–S11-64. It covers early hominin candidates and bipedality through Lucy and Laetoli.
 
 The preceding 2026-10-04 continuation added seven pages **309–315**, each committed and read back separately, with 22 claim checkpoints E-0301–E-0322 and 23 source records S11-13–S11-35. It covers Asian–African anthropoid connections, South American dispersal and provenance, catarrhine branches, the 2026 Egyptian ape and contrasting habitats, tail-loss evidence, disputed fossil locomotion and ape genomic histories.
 
