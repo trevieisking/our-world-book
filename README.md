@@ -58,4 +58,4 @@ The large book-wide `PAGE_LEDGER.md` remains the master page index but may be re
 
 Trev's collapse–rotation–dark-matter hypothesis and the stronger dark-matter/dark-energy interaction conjecture are preserved in `research/17-modern-theories-and-predictions-hypothesis-brief.md`, with explicit evidence boundaries and preliminary sources. These are an attributed research question and chapter plan, not a proven theory or a completed 24-page manuscript. Chapter 17 has **0/24 pages TEXT LOCKED**.
 
-The continuous manuscript checkpoint remains **017–315**. **Page 316 in Chapter 11 remains the next individual writing target.**
+The continuous manuscript checkpoint is now **017–322 TEXT LOCKED**. Chapter 11 has **18/44** planned pages text-locked. **Page 323 — the approximately 3.4 Ma Burtele foot and Pliocene hominin locomotor diversity — is the next individual writing target.**
