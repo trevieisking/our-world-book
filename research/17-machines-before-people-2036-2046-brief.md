@@ -92,3 +92,54 @@ Evidence of repeated useful deployments, manageable costs and international upta
 This adds a recorded author scenario, source-backed distinctions, candidate prose and evaluation criteria. It does not claim a completed economic model, a probability estimate, a new law of physics, or scientific proof that a particular country will dominate space. No factual connection to alien craft or hidden dimensions follows from human robotic engineering.
 
 Preserve both earlier hypothesis briefs. Resume the chronological writing loop at **page 316**. Chapter 17 remains **0/24 pages TEXT LOCKED**; artwork, final layout and root-ledger consolidation remain pending.
+
+
+## 8. Beyond Mars — selecting worlds rather than forcing one example
+
+Mars is a useful engineering example because it is comparatively accessible and well studied, but the author's broader proposal is not Mars-specific. A future civilisation could compare planets, dwarf planets, moons, asteroids or artificial habitats by the resources and environmental changes each would require. A place with usable water, favourable gravity, abundant energy or a more suitable atmosphere might demand less intervention than Mars.
+
+Do not equate the astronomical habitable zone with a habitable surface. A candidate world still requires information about atmosphere, pressure, temperature, radiation, water stability, chemistry and long-term environmental behaviour.
+
+For destinations around other stars, retain a separate transport constraint. Autonomous machines might logically precede biological settlers, but interstellar distance remains a distinct unsolved engineering problem. Construction capability does not imply a practical interstellar propulsion system.
+
+## 9. The 2150 engineered-worlds scenario
+
+Trev's longer forecast asks what might be underway by **2150** if technological civilisation remains functioning and has had another century of cumulative engineering progress. Preserve the forecast in conditional form:
+
+> If humanity is still capable of sustained space industry in 2150, robotic and AI-assisted systems may already be deliberately engineering environments beyond Earth, possibly on destinations selected because they require less modification than Mars.
+
+Separate milestones rather than using “terraforming” for all of them:
+
+1. **Local industry:** extract water, minerals, atmospheric gases or other useful resources.
+2. **Constructed habitat:** create pressurised, shielded, serviced places for machines and people.
+3. **Enclosed ecosystem / paraterraforming:** operate increasingly large controlled environments containing water, microbes, plants and other organisms.
+4. **Regional environmental engineering:** deliberately alter local temperature, chemistry, water availability or radiation shielding outside a conventional building.
+5. **Planet-scale terraforming:** attempt long-duration change to a whole world's climate or atmospheric state.
+
+The first four do not establish that the fifth is technically or ethically achievable on any particular world.
+
+## 10. Machines carrying biology
+
+The author's proposed mechanism is worth preserving as an engineering question: autonomous machines could eventually distribute water, nutrients, microorganisms and seeds over prepared terrain, in the same broad sense that agricultural machinery already automates seeding, irrigation and chemical application on Earth.
+
+The sequence cannot begin with ordinary trees on exposed present-day Mars. Biology requires suitable temperature, pressure, water activity, nutrients and radiation conditions. Future systems might instead start inside controlled environments, use microorganisms to process local material, then enlarge ecological zones as environmental control improves.
+
+A deliberately induced greenhouse effect is conceptually different from accidental terrestrial pollution. Any proposed atmospheric intervention needs specified agents, quantities, residence times, climate response, reversibility and unwanted effects.
+
+## 11. Life before landscaping
+
+Before intentional release of terrestrial organisms, the project must ask whether the destination contains indigenous life or uniquely preserved evidence of past life. Contamination could damage the very record being investigated. A future terraforming decision is therefore biological and ethical as well as technological.
+
+Do not present “no life detected yet” as proof that a world is sterile enough to alter.
+
+## 12. AI as an accelerator, not an exemption from physics
+
+AI may improve autonomous navigation, scientific prioritisation, construction planning, fault diagnosis, robotic coordination and local adaptation. Those capabilities could become increasingly important as communication delay grows.
+
+The book should nevertheless keep a hard boundary: AI does not abolish travel time, energy demand, radiation damage, material fatigue, atmospheric escape or the need for reliable power and repair. The interesting prediction is that intelligence in the machines may let them use physical resources more effectively—not that intelligence removes the physical constraints.
+
+## 13. Long-horizon test
+
+When Chapter 17 is written, phrase 2150 as a forecast with checkpoints rather than an inevitable destiny. Relevant evidence would include autonomous off-world construction, sustained use of local resources, large controlled ecosystems, environmental-engineering demonstrations and progressively lower dependence on Earth resupply.
+
+A permanent absence of these capabilities, repeated technical failure, prohibitive energy/material costs, ecological concerns or policy choices could all delay or prevent the scenario. “Given enough time” creates opportunity, not certainty.

@@ -37,6 +37,7 @@ The artwork may be dramatic, but it must not invent uncertain details and presen
 ## Production control
 
 The project is governed by:
+- `BOOK_MANIFEST.md` — thematic promise, future-world questions and evidence boundaries
 - `MASTER_PLAN.md`
 - `PAGE_LEDGER.md`
 - `EVIDENCE_LEDGER.md`

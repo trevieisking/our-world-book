@@ -44,6 +44,19 @@ Distinguish demonstrated, human-supported Earth construction; lunar construction
 
 The central test is whether useful infrastructure can be built, operated and maintained repeatedly with reduced external support. A promotional video, a printed wall, or an announced launch schedule is not sufficient evidence of complete autonomous construction, self-sufficiency, nationwide transformation or interstellar settlement. Compare completed capabilities, total costs, human support requirements and real international deployments.
 
+
+### Additional frontier — Engineered Worlds, AI and the 2150 horizon
+
+Extend the Machines Before People scenario beyond the first lunar outpost without making Mars the required destination. Preserve Trev's conditional prediction that, if technological civilisation remains capable through 2150, autonomous industry and AI-assisted exploration may be preparing or deliberately modifying environments beyond Earth. Candidate destinations should be compared by gravity, water, atmosphere, temperature, radiation, energy, chemistry, accessibility and ethical constraints rather than by resemblance to Mars alone.
+
+Keep the stages separate: local-resource extraction, constructed habitats, enclosed ecosystems (paraterraforming), regional environmental engineering and whole-planet terraforming are different achievements. Plants cannot substitute for insufficient atmospheric pressure or unstable surface water. Microbes, nutrients, seeds and water delivered by machines become relevant only after survival conditions are specified. Planetary-protection obligations and the possibility of indigenous life must be addressed before intentional biological release.
+
+AI is an accelerator and autonomy layer, not a new physical law. It may let distant machines scout, diagnose failures, coordinate construction and adapt locally where communication delays make continuous human control impractical. It does not erase distance, energy, radiation, maintenance or propulsion constraints.
+
+Also preserve the evidential ladder for extraterrestrial technology: an unusual or disappearing signal is not automatically a craft; a craft would not automatically establish extraterrestrial origin; extraterrestrial technology would not automatically imply living occupants. Autonomous or relic probes remain logically distinct possibilities. The earlier disappearing-object video has not been scientifically authenticated in this project.
+
+Use `BOOK_MANIFEST.md` as the consolidated thematic authority and expand `research/17-machines-before-people-2036-2046-brief.md` for the 2150 engineered-worlds scenario. These additions remain within pages 503–504 and do not increase the 568-page plan.
+
 ## Page plan
 
 Titles and distributions are provisional. Each page must pass the normal research -> prose -> fact-check -> commit/read-back loop when reached. Preliminary sources in the research briefs do not make a whole page research-complete.
@@ -72,8 +85,8 @@ Titles and distributions are provisional. Each page must pass the normal researc
 | 500 | Beyond What We Can See | Develop Trev's overlapping-realities question while distinguishing wavelengths, dimensions and hidden sectors; retain survey sensitivity, selection effects and the limits of non-detection as evidence about life's rarity. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 501 | Hidden Dimensions, Detectable Clues | Compare possible indirect tests and measured constraints; retain archival observations, controlled numerical experiments and comparison samples. Neither a simulation nor an unexplained signal confirms another dimension or its inhabitants. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 502 | A Prediction That Can Fail | Record a fixed target, baseline, parameter range, observable, expected effect, uncertainty and rejection criterion before testing either author proposal. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 503 | Machines Before People — Futures with Conditions | Examine Trev's 2036–2046 construction-and-space-expansion scenario, measurable milestones and international alternatives; retain the distinction between conditional projections about Earth and the Universe and unsupported certainty. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 504 | The Next Question | Close with known, inferred and unknown; connect possible expansion beyond Earth with cooperation, access and responsibility, without treating any of the hypotheses or future scenarios as resolved. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 503 | Machines Before People — Futures with Conditions | Examine Trev's 2036–2046 construction-and-space-expansion scenario, AI-enabled autonomy, measurable milestones and international alternatives; distinguish demonstrated systems from forecasts. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 504 | The Next Question — Engineered Worlds | Extend conditionally to 2150: local-resource industry, enclosed ecosystems, possible environmental engineering/terraforming and machines preceding people to selected worlds; keep planetary protection, interstellar distance and all unresolved hypotheses explicit. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## Evidence and authorship controls
 

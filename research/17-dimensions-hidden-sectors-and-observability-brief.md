@@ -71,3 +71,16 @@ A claim about life requires additional support beyond any evidence for new parti
 Include this as a distinct planned subsection in Chapter 17 without displacing the collapse hypothesis, its evidence controls, or the ordinary survey-selection discussion. Preserve the existing 24-page allocation. Use source and claim namespace S17-D / C17-D only for preliminary planning; do not add these to text-locked manuscript totals.
 
 Recheck primary research and significant alternatives when pages 500–502 are written and before publication. Keep the book's distinction between established observation, conditional model and the author's speculative question. Continue numbered manuscript work at page 316; artwork remains deferred.
+
+
+## Addendum — extraterrestrial technology is not the same claim as extraterrestrial life
+
+The later discussion added an important evidential distinction for Chapter 17. Even if an observation were eventually established as an engineered spacecraft, that result would not by itself show that a living organism was aboard. An engineered object could be autonomous, remotely directed, inactive or a long-lived relic. Conversely, evidence for extraterrestrial biology would not by itself establish spacecraft.
+
+Use the following ladder whenever a disappearing or unusual object is discussed:
+
+**authenticated signal or image -> ordinary/instrumental alternatives tested -> unresolved anomaly -> evidence of engineering -> evidence of extraterrestrial origin -> evidence concerning occupants**
+
+Do not skip levels. An apparent disappearance from an image can result from motion, geometry, reflection, changing brightness, exposure/processing, occlusion or a transient source without requiring physical disappearance or dimensional travel.
+
+The YouTube video about disappearing objects supplied by link in the conversation was not successfully retrieved or authenticated during the earlier review. Therefore no particular object in that video is recorded here as a spacecraft, alien technology or dimensional event. The separately uploaded robotic-construction video was inspected for its construction sequence; it is not evidence about alien craft.
