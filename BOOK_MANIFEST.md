@@ -116,6 +116,17 @@ The logic “machines before people” could eventually extend to other stellar 
 
 But present interstellar distances and propulsion remain an enormous barrier. A robot that can build a habitat has not thereby acquired a practical method of reaching another star.
 
+
+### 10. The placed-humanity / reset thought experiment
+
+Preserve Trev's thought experiment that an overcrowded precursor civilisation might deliberately place a very small number of memory-wiped humans on an otherwise empty Earth, producing a story superficially reminiscent of Adam and Eve. Treat this as an **extraordinary-claims test case**, not as an alternative history established by the book.
+
+A recent founding from only two couples would predict an exceptionally severe genetic bottleneck, very high relatedness and rapid inbreeding unless additional genetic diversity were somehow introduced. Present human genomic diversity is not consistent with a recent origin of the entire species from four individuals. The biblical story, a literal recent genetic founding, and a hypothetical much older technological seeding event are therefore separate claims and must not be silently merged.
+
+A more distant “humans or their ancestors were placed here” hypothesis also requires positive evidence that distinguishes it from ordinary evolution on Earth. Compatibility with a story, an unexplained gap or the mere possibility of advanced extraterrestrial technology is not sufficient. Appropriate tests would ask what genomic, palaeontological, archaeological or geochemical signature deliberate placement would leave that standard evolutionary history would not.
+
+If discussed in Chapters 13–14, present the religious narrative respectfully while testing the empirical population-history claim by the evidence it predicts. No conclusion about theology follows from accepting or rejecting a literal genetic bottleneck model.
+
 ## The thematic ending
 
 The final chapter should retain this progression without presenting it as destiny:
