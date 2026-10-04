@@ -12,7 +12,8 @@
 - Continuous narrative checkpoint: **017–336**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 337:** Dmanisi and the earliest well-documented dispersal of early *Homo* into Eurasia. Distinguish site age, within-site skull/body variation, species naming, and what the evidence can establish about dispersal. Page 336 is committed and read back; page 337 research has not begun during this pass. Chapter 11 occupies pages 305–348.\n
+**Page 337:** Dmanisi and the earliest well-documented dispersal of early *Homo* into Eurasia. Distinguish site age, within-site skull/body variation, species naming, and what the evidence can establish about dispersal. Page 336 is committed and read back; page 337 research has not begun during this pass. Chapter 11 occupies pages 305–348.
+
 ## Author-requested later chapter — expanded 2026-10-04
 **Chapter 17 — Modern Theories and Predictions**, subtitle *What We Know, What We Suspect, and How We Could Find Out*, is planned for **481–504**. The epilogue is **505–512**, references **513–568**, and the book planning target is **568 pages**. Pages 001–480 retain their allocations.
 
