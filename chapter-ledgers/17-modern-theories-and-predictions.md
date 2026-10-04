@@ -34,6 +34,16 @@ The subsection develops foundations on pages 484–485 and the question and test
 
 The recovered proposal, verified instrument descriptions, preliminary sources and test boundaries are saved in `research/17-dimensions-hidden-sectors-and-observability-brief.md`. This addition refines topics within the existing 24-page allocation; no pages are renumbered or marked complete. Ordinary selection effects, non-detection limits and the existing collapse case study remain in scope.
 
+### Additional subsection — Machines Before People: A World Transformed, 2036–2046?
+
+Trev's further 2026-10-04 proposal concerns changes on Earth as well as expansion into space: increasingly capable construction robots could transform American building practices and industrial capabilities over ten to twenty years, help prepare lunar outposts, and encourage wider international adoption or competition. Preserve the author's prediction that America could look different and that others might follow, without converting that prediction into an established outcome or a guaranteed American lead.
+
+Place the concise scenario principally on planned page 503, with a closing connection to page 504 and the existing Chapter 16 account of exploration. Keep the previous scope on conditional futures for Earth and the Universe; detailed research and candidate prose remain in `research/17-machines-before-people-2036-2046-brief.md`. No extra page allocation is made by this addition.
+
+Distinguish demonstrated, human-supported Earth construction; lunar construction technology in development; agency plans for expanding outposts; and speculative economic or political outcomes. The horizon is **2036–2046**, measured from 2026, not a promised settlement date. Other countries and international partnerships already have programmes; they are not all waiting to copy the United States. Use 'expansion', 'sustained presence' or 'space infrastructure' rather than implying legal ownership of celestial territory or an evidenced military-conquest plan.
+
+The central test is whether useful infrastructure can be built, operated and maintained repeatedly with reduced external support. A promotional video, a printed wall, or an announced launch schedule is not sufficient evidence of complete autonomous construction, self-sufficiency, nationwide transformation or interstellar settlement. Compare completed capabilities, total costs, human support requirements and real international deployments.
+
 ## Page plan
 
 Titles and distributions are provisional. Each page must pass the normal research -> prose -> fact-check -> commit/read-back loop when reached. Preliminary sources in the research briefs do not make a whole page research-complete.
@@ -62,23 +72,24 @@ Titles and distributions are provisional. Each page must pass the normal researc
 | 500 | Beyond What We Can See | Develop Trev's overlapping-realities question while distinguishing wavelengths, dimensions and hidden sectors; retain survey sensitivity, selection effects and the limits of non-detection as evidence about life's rarity. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 501 | Hidden Dimensions, Detectable Clues | Compare possible indirect tests and measured constraints; retain archival observations, controlled numerical experiments and comparison samples. Neither a simulation nor an unexplained signal confirms another dimension or its inhabitants. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 502 | A Prediction That Can Fail | Record a fixed target, baseline, parameter range, observable, expected effect, uncertainty and rejection criterion before testing either author proposal. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 503 | Futures with Conditions | Distinguish conditional scientific projections about Earth and the Universe from unsupported certainty about their futures. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 504 | The Next Question | Close with known, inferred and unknown; lead into the epilogue without pretending the hypotheses have been resolved. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 503 | Machines Before People — Futures with Conditions | Examine Trev's 2036–2046 construction-and-space-expansion scenario, measurable milestones and international alternatives; retain the distinction between conditional projections about Earth and the Universe and unsupported certainty. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 504 | The Next Question | Close with known, inferred and unknown; connect possible expansion beyond Earth with cooperation, access and responsibility, without treating any of the hypotheses or future scenarios as resolved. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## Evidence and authorship controls
 
 - Collapse background checks and candidate passage: `research/17-modern-theories-and-predictions-hypothesis-brief.md`.
 - Dimensions and observability background: `research/17-dimensions-hidden-sectors-and-observability-brief.md`.
-- Preliminary source IDs `S17-P01`–`S17-P06` and claim IDs `C17-P01`–`C17-P08` are a planning namespace only. The dimensions supplement uses separate planning IDs `S17-D01`–`S17-D07` and `C17-D01`–`C17-D07`. Do not consume the running manuscript E-number sequence or add these to completed-page totals.
+- Robotic construction, expansion and international-futures scenario: `research/17-machines-before-people-2036-2046-brief.md`.
+- Preliminary source IDs `S17-P01`–`S17-P06` and claim IDs `C17-P01`–`C17-P08` are a planning namespace only. The dimensions supplement uses separate planning IDs `S17-D01`–`S17-D07` and `C17-D01`–`C17-D07`. The robotics scenario uses `S17-R01`–`S17-R08` and `C17-R01`–`C17-R08`. Do not consume the running manuscript E-number sequence or add these to completed-page totals.
 - The author reports thinking about the collapse mechanism before seeing the Rubin video. Preserve that as an author-reported origin of the question, not independent proof of priority or of the mechanism.
 - The recovered dimensions discussion is dated 2026-09-29; its summary is an editorial paraphrase, not a verbatim transcript or empirical evidence.
-- The exact video has not been supplied or identified. Do not state which discoveries it combined, that it claimed to observe extra dimensions, or that the author misunderstood it.
+- The exact video discussed in the earlier dimensions brief had not been supplied or identified at that checkpoint. That historical access note does not negate the later video links and construction-video upload supplied in the conversation. Do not assert unverified provenance, narration or a dimensional discovery.
 - Treat existing dark-matter-collapse models and hidden-sector/extra-dimension research as published research, not original discoveries belonging to this book.
-- No simulation, experiment, numerical fit or uniquely discriminating quantitative prediction has yet been completed for either of the author's stronger proposals.
-- Check full primary literature, corrections, competing models and current instrument capabilities during page research and again before publication.
+- No simulation, experiment, numerical fit or uniquely discriminating quantitative prediction has yet been completed for either of the author's stronger physics proposals. The robotics scenario is a separate conditional technology forecast, not a new physical theory.
+- Check full primary literature, corrections, competing models and current instrument capabilities during page research and again before publication. Recheck construction-project results and space-programme schedules rather than treating announcements as achievements.
 
 ## Completion and handoff
 
-The chapter allocation, page-by-page plan and two preliminary hypothesis briefs are saved. They do **not** add completed manuscript pages, mark any of 481–504 TEXT LOCKED, complete root-ledger reconciliation, generate artwork or advance the continuous writing checkpoint. The dimensions subsection does not alter the Master Plan's 568-page allocation.
+The chapter allocation, page-by-page plan, two preliminary hypothesis briefs and the Machines Before People scenario brief are saved. They do **not** add completed manuscript pages, mark any of 481–504 TEXT LOCKED, complete root-ledger reconciliation, generate artwork or advance the continuous writing checkpoint. These subsection additions do not alter the Master Plan's 568-page allocation.
 
 Resume the existing writing loop at **page 316 — recognising the earliest hominins near the human–chimpanzee separation**.
