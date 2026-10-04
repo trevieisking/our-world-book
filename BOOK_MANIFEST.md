@@ -127,6 +127,17 @@ A more distant “humans or their ancestors were placed here” hypothesis also 
 
 If discussed in Chapters 13–14, present the religious narrative respectfully while testing the empirical population-history claim by the evidence it predicts. No conclusion about theology follows from accepting or rejecting a literal genetic bottleneck model.
 
+
+### 11. Galaxies we cannot see
+
+Preserve Trev's question: **what if there are galaxies we cannot see?** This has scientifically real versions, but they must remain distinct from extra dimensions.
+
+1. **Too faint or too diffuse for a particular survey:** low-surface-brightness galaxies can contain sparse starlight spread over a large area and be extremely difficult to detect against the sky/background. In 2026 NASA reported CDG-2, a very faint galaxy candidate/measurement in the Perseus cluster whose underlying diffuse light was revealed after a globular-cluster overdensity drew attention to the location.
+2. **Known mainly through indirect tracers:** a galaxy or mass concentration may be constrained through gas, star clusters, motions or gravitational effects even when its ordinary starlight is exceptionally weak. “Dark” in this astronomical usage does not mean a portal, another spatial dimension or complete absence of ordinary matter.
+3. **Outside our observable horizon:** cosmology permits a universe larger than the region from which signals have had time or causal opportunity to reach us. Such regions are different from a faint galaxy inside the observable Universe; better telescope sensitivity cannot retrieve information that has not reached us.
+
+Do not turn observational incompleteness into evidence for hidden civilisations or inhabited extra dimensions. The scientifically productive question is: **what interaction or signal would make the unseen object detectable, and what ordinary explanation could produce the same evidence?**
+
 ## The thematic ending
 
 The final chapter should retain this progression without presenting it as destiny:

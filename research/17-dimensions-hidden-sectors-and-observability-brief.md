@@ -6,7 +6,7 @@
 **Destination:** Chapter 17, foundations on planned pages 484–485 and discussion on 500–502  
 **Status:** PRELIMINARY RESEARCH / EDITORIAL BRIEF — NOT TEXT LOCKED  
 **Book allocation unchanged:** Chapter 17 at 481–504; total planning target 568 pages  
-**Continuous manuscript checkpoint unchanged:** 017–315; next page 316
+**Continuous manuscript checkpoint at this update:** 017–336; next page 337
 
 ## The author's separate question
 
@@ -70,7 +70,7 @@ A claim about life requires additional support beyond any evidence for new parti
 
 Include this as a distinct planned subsection in Chapter 17 without displacing the collapse hypothesis, its evidence controls, or the ordinary survey-selection discussion. Preserve the existing 24-page allocation. Use source and claim namespace S17-D / C17-D only for preliminary planning; do not add these to text-locked manuscript totals.
 
-Recheck primary research and significant alternatives when pages 500–502 are written and before publication. Keep the book's distinction between established observation, conditional model and the author's speculative question. Continue numbered manuscript work at page 316; artwork remains deferred.
+Recheck primary research and significant alternatives when pages 500–502 are written and before publication. Keep the book's distinction between established observation, conditional model and the author's speculative question. Continue numbered manuscript work at page 337; artwork remains deferred.
 
 
 ## Addendum — extraterrestrial technology is not the same claim as extraterrestrial life
@@ -84,3 +84,21 @@ Use the following ladder whenever a disappearing or unusual object is discussed:
 Do not skip levels. An apparent disappearance from an image can result from motion, geometry, reflection, changing brightness, exposure/processing, occlusion or a transient source without requiring physical disappearance or dimensional travel.
 
 The YouTube video about disappearing objects supplied by link in the conversation was not successfully retrieved or authenticated during the earlier review. Therefore no particular object in that video is recorded here as a spacecraft, alien technology or dimensional event. The separately uploaded robotic-construction video was inspected for its construction sequence; it is not evidence about alien craft.
+
+
+## Addendum — galaxies we cannot see
+
+The author's 4 October question, “what if there are galaxies that we cannot see?”, has several non-equivalent scientific meanings.
+
+**Low surface brightness:** some galaxies contain so little starlight per unit sky area that their diffuse light is extremely difficult to distinguish from background. NASA's 2026 report on CDG-2 describes a low-surface-brightness system identified initially through a concentration of globular clusters and then supported by faint diffuse emission in combined Hubble, Euclid and Subaru observations. This is an example of observational selection, not a galaxy existing in another dimension. [S17-D08]
+
+**Beyond the current observable region:** the observable Universe is limited by which signals can reach us. A universe larger than the region we can observe can therefore contain regions from which we presently receive no information. This is a causal/horizon statement, not evidence for a second overlapping universe or hidden civilisation. [S17-D09]
+
+**Dark-matter dominated does not mean literally invisible:** an extremely dark-matter-dominated galaxy can still contain ordinary stars, globular clusters or gas. “Dark galaxy” is an astronomical description whose meaning depends on the paper; do not equate the term with dark matter made into a galaxy, an extra-dimensional object, or a galaxy that can never interact electromagnetically.
+
+Add claim:
+- **C17-D08:** Galaxies can be missed because of surface-brightness limits, and the observable horizon also limits what information can reach us. **ESTABLISHED observational/cosmological limits.** S17-D08–D09. Neither implies extra dimensions.
+
+Add sources:
+- **S17-D08:** NASA Hubble Mission Team, *NASA's Hubble Identifies One of Darkest Known Galaxies*, 2026-02-18, https://science.nasa.gov/missions/hubble/nasas-hubble-identifies-one-of-darkest-known-galaxies/ . Official report on CDG-2, a very low-surface-brightness, dark-matter-dominated galaxy identified via globular-cluster concentration and faint diffuse emission; use as an observability example, not a hidden-dimension claim.
+- **S17-D09:** NASA, *The Observable Universe* (Astronomy Picture of the Day, 2025-11-23), https://science.nasa.gov/image-article/apod-2025-november-23-the-observable-universe/ . Institutional explanatory source for the observational horizon in light; not a measurement of hypothetical structures beyond that horizon.

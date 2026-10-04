@@ -42,7 +42,7 @@ The next page follows them to **Dmanisi in Georgia**, where five very different 
 
 ---
 ## Research / fact-check notes
-- Claims **E-0383–E-0385**; sources **S11-105–S11-109** in `../../chapter-ledgers/11-the-primate-that-asked-why-support-336.md`.
+- Claims **E-0383–E-0385**; sources **S11-103–S11-107** in `../../chapter-ledgers/11-the-primate-that-asked-why-support-336.md`.
 - [1] Herries et al. (2020). [2] Hammond et al. (2021). [3] Crompton et al. (2004). [4] García-Martínez et al. (2020). [5] Cunningham et al. (2018).
 - DNH 134 is a juvenile and its species assignment is expressed as strong *H. erectus* affinity rather than pretending juvenile taxonomy is perfectly categorical. Nariokotome is not used as a universal body template for every *H. erectus* population.
 - Artwork remains deferred.

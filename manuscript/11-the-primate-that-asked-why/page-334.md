@@ -46,7 +46,7 @@ And another form—**Homo erectus**—was beginning to combine a different body 
 
 ---
 ## Research / fact-check notes
-- Claims **E-0377–E-0379**; sources **S11-100–S11-101** in `../../chapter-ledgers/11-the-primate-that-asked-why-support-334.md`.
+- Claims **E-0377–E-0379**; source **S11-100**, with **S11-99** reused in `../../chapter-ledgers/11-the-primate-that-asked-why-support-334.md`.
 - [1] Leakey et al. (2012). [2] Spoor et al. (2015), reused from page 333.
 - The page treats recurrent anatomical pattern as evidence for diversity without pretending fossil species boundaries are directly observable reproductive boundaries. *H. rudolfensis* remains conventional taxonomic usage, not a claim that every researcher accepts identical membership.
 - Artwork remains deferred.

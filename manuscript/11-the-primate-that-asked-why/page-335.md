@@ -44,7 +44,7 @@ Its importance lies elsewhere: in a body and geographical range increasingly unl
 
 ---
 ## Research / fact-check notes
-- Claims **E-0380–E-0382**; sources **S11-102–S11-104** in `../../chapter-ledgers/11-the-primate-that-asked-why-support-335.md`.
+- Claims **E-0380–E-0382**; sources **S11-101–S11-102**, with **S11-90** reused in `../../chapter-ledgers/11-the-primate-that-asked-why-support-335.md`.
 - [1] Ungar, Grine & Teaford (2008). [2] Cerling et al. (2011). [3] Plummer et al. (2023), reused from page 330.
 - “Nutcracker Man” is treated as a historical nickname, not a literal dietary conclusion. Microwear, isotope chemistry and craniodental capacity record different aspects and timescales of feeding.
 - Artwork remains deferred.

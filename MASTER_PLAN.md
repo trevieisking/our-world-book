@@ -205,15 +205,17 @@ A page is only **FINAL** when:
 - Page, Evidence and Image Ledgers agree.
 
 ## Current target
-**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–329 are TEXT LOCKED. Next individual page: 330, Chapter 11 — The Primate That Asked Why. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
+**PHASE A — WRITING-ONLY LOOP. Narrative pages 017–336 are TEXT LOCKED. Next individual page: 337, Chapter 11 — The Primate That Asked Why. Research, write, fact-check, commit and verify each page before researching the next. Artwork waits until the whole manuscript is written.**
 
-**Chapter 10 — Worlds Lost remains complete for manuscript Phase A. Chapter 11 has pages 305–329 TEXT LOCKED: 25 of its 44 planned pages.**
+**Chapter 11 has pages 305–336 TEXT LOCKED: 32 of its 44 planned pages.**
 
 **2026-10-04 structural/frontier addition:** Chapter 17 remains reserved at 481–504, followed by the epilogue at 505–512 and references at 513–568. `BOOK_MANIFEST.md` consolidates the frontier themes and evidence boundaries. The addition does not write ahead in the numbered manuscript and does not alter the active checkpoint.
 
-The latest 2026-10-04 continuation added seven pages **323–329**, each committed and read back separately, with **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**. It covers the Burtele foot and *A. deyiremeda* attribution/diet; *Kenyanthropus* distortion correction; Taung and the order of bipedality versus brain expansion; Sterkfontein dating and taxonomy; Lomekwi stone technology; and the Dikika bone-mark dispute. Earlier manuscript pages 017–322 are unchanged. Next: **page 330**, the ~2.9 Ma Nyayanga Oldowan assemblage, animal-resource processing and *Paranthropus* association; that research has not begun during this pass.
+The latest 2026-10-04 continuation added seven pages **330–336**, each committed and read back separately, with **21 claim checkpoints E-0365–E-0385** and **18 new unique source records S11-90–S11-107**. Reused sources S11-90 and S11-99 are not counted twice. It covers Nyayanga Oldowan behaviour and long-distance stone transport; the Ledi-Geraru early-*Homo* jaw and climate context; systematic early Oldowan flaking; OH 7 and the “handy man” problem; Koobi Fora early-*Homo* diversity; *Paranthropus boisei* diet; and the early *Homo erectus* body mosaic. Earlier manuscript pages 017–329 are unchanged. Next: **page 337**, Dmanisi and early Eurasian dispersal; that research has not begun during this pass.
 
-The preceding 2026-10-04 continuation added seven pages **316–322**, each committed and read back separately, with 21 claim checkpoints E-0323–E-0343 and 29 source records S11-36–S11-64. It covers early hominin candidates and bipedality through Lucy and Laetoli.
+The preceding 2026-10-04 continuation added seven pages **323–329**, each committed and read back separately, with 21 claim checkpoints E-0344–E-0364 and 25 source records S11-65–S11-89.
+
+The preceding 2026-10-04 continuation added seven pages **316–322**, each committed and read back separately, with 21 claim checkpoints E-0323–E-0343 and 29 source records S11-36–S11-64.
 
 The preceding 2026-10-04 continuation added seven pages **309–315**, each committed and read back separately, with 22 claim checkpoints E-0301–E-0322 and 23 source records S11-13–S11-35. It covers Asian–African anthropoid connections, South American dispersal and provenance, catarrhine branches, the 2026 Egyptian ape and contrasting habitats, tail-loss evidence, disputed fossil locomotion and ape genomic histories.
 

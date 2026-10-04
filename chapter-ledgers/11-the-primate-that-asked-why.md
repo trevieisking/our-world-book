@@ -32,7 +32,14 @@ Investigate primate origins and diversification before following hominins, biped
 | 327 | Sterkfontein and Little Foot: cave dating, intrusive flowstone and disputed taxonomy | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 328 | Lomekwi 3: 3.3 Ma stone technology, pre-*Homo* implications and context challenge | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
 | 329 | Dikika bone marks: butchery interpretation, trampling/tooth alternatives and equifinality | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
-| 330–348 | Early Oldowan, later australopiths, early *Homo*, archaic humans and dispersal | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
+| 330 | Nyayanga: early Oldowan versatility, *Paranthropus* association and selective stone transport | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 331 | LD 350-1: earliest fossil assigned to *Homo*, mosaic jaw anatomy and environmental context | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 332 | Bokol Dora and Gona: systematic flaking, Oldowan variability and the moving “earliest” boundary | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 333 | *Homo habilis* OH 7: historical tool association, virtual reconstruction and mosaic anatomy | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 334 | Koobi Fora early-*Homo* diversity: 1470 group, *H. habilis* comparison and overlapping brain size | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 335 | *Paranthropus boisei*: chewing anatomy, microwear, C4 diet and technological-association limits | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 336 | Early *Homo erectus*: African appearance, longer-legged body plan and a still-nonmodern thorax | ✅ | ✅ | ⬜ | ✅ | TEXT LOCKED |
+| 337–348 | Dmanisi dispersal, later *Homo*, Neanderthals, Denisovans, *H. sapiens*, migration and interbreeding | ⬜ | ⬜ | ⬜ | ⬜ | PENDING |
 
 ## Evidence boundaries
 - Living relatives are not unchanged ancestors, and a fossil near a branching point is not necessarily the direct common ancestor.
@@ -69,9 +76,15 @@ Investigate primate origins and diversification before following hominins, biped
 - Stone artefacts do not identify their maker without a secure biological association; a nearby hominin taxon remains only a candidate.
 - Artefactuality, stratigraphic association and numerical age are separate requirements for very early archaeological claims.
 - Equifinality is explicit in bone-surface interpretation: butchery, trampling and tooth damage can produce overlapping features, so competing causal models must be tested.
+- Fossils and artefacts in one deposit do not identify a toolmaker without a secure biological association.
+- The earliest fossil currently assigned to a genus is a minimum record, not the exact time/place at which that genus originated.
+- Raw-material transport constrains landscape-scale behaviour without preserving an individual's route, intention or complete planning process.
+- Recurrent facial/jaw morphology can support early-*Homo* diversity even when endocranial volumes overlap; brain size is not a species ladder.
+- Craniodental capacity, dental microwear and enamel isotopes record different aspects/timescales of feeding and must not be collapsed into one diet claim.
+- Long-legged *H. erectus* proportions do not imply a fully modern human body; trunk form and growth remained different.
 
 ## Support register
-Individual support files `chapter-ledgers/11-the-primate-that-asked-why-support-305.md` through `chapter-ledgers/11-the-primate-that-asked-why-support-329.md` retain all page rows, claims, sources and access limitations.
+Individual support files `chapter-ledgers/11-the-primate-that-asked-why-support-305.md` through `chapter-ledgers/11-the-primate-that-asked-why-support-336.md` retain all page rows, claims, sources and access limitations.
 
 Pages 305–308 record thirteen claims E-0288–E-0300 and twelve source records S11-01–S11-12. Source S11-09 is reused on page 308, not counted again. Source S11-06 is explicitly a theoretical review rather than new empirical data; the ESRF account accompanying S11-11 reports the same underlying study, not independent replication.
 
@@ -79,7 +92,9 @@ The earlier 2026-10-04 pass added seven pages, 309–315, with 22 claims E-0301�
 
 The preceding 2026-10-04 pass added seven pages, 316–322, with **21 claim checkpoints E-0323–E-0343** and **29 source records S11-36–S11-64**. It moved from *Sahelanthropus* through *Orrorin*, *Ardipithecus*, *Australopithecus anamensis*, Lucy and the Laetoli trackways, preserving disputes and keeping anatomy, behaviour, age, taxonomic assignment and ancestry distinct.
 
-The current 2026-10-04 pass adds seven pages, **323–329**, with **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**. It covers the Burtele foot and its 2025 attribution to *A. deyiremeda*; diet and locomotor differentiation; *Kenyanthropus* distortion correction; the Taung Child and bipedality before large brains; Sterkfontein dating/taxonomy disputes; Lomekwi technology before known *Homo*; and the contested Dikika cut-mark record. The completed Chapter 11 portion therefore contains **77 claim checkpoints E-0288–E-0364** and **89 source records S11-01–S11-89**.
+The preceding 2026-10-04 pass added seven pages, **323–329**, with **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**.
+
+The current 2026-10-04 pass adds seven pages, **330–336**, with **21 claim checkpoints E-0365–E-0385** and **18 new unique source records S11-90–S11-107**. Reused sources S11-90 and S11-99 are not counted twice. It covers Nyayanga Oldowan behaviour and stone transport; the 2.8 Ma Ledi-Geraru *Homo* jaw; systematic early Oldowan flaking; the *H. habilis* type reconstruction; Koobi Fora early-*Homo* diversity; *Paranthropus boisei* diet; and the mosaic *H. erectus* body. The completed Chapter 11 portion therefore contains **98 claim checkpoints E-0288–E-0385** and **107 unique source records S11-01–S11-107**.
 
 ## Status and next target
-**Pages 305–329 TEXT LOCKED; 25 of 44 planned chapter pages complete for Phase A.** Each page in the new pass was researched, written, checked, committed and read back before research advanced. Earlier manuscript pages 017–322 remain unchanged by this pass. Next: **page 330**, the ~2.9 Ma Nyayanga Oldowan assemblage, animal-resource processing and *Paranthropus* association; distinguish artefact age, behaviour, nearby hominin fossils and actual toolmaker identity. Page 330 research has not begun during this pass. Preserve the research-first individual-page loop and normally complete 7–10 pages per pass. Artwork, final layout, publication review and root-ledger consolidation remain pending.
+**Pages 305–336 TEXT LOCKED; 32 of 44 planned chapter pages complete for Phase A.** Each page in the new pass was researched, written, checked, committed and read back before research advanced. Earlier manuscript pages 017–329 remain unchanged by this pass. Next: **page 337**, Dmanisi and the earliest well-documented dispersal of early *Homo* into Eurasia; distinguish site age, fossil variation, species naming and what the record actually establishes about dispersal. Page 337 research has not begun during this pass. Preserve the research-first individual-page loop and normally complete 7–10 pages per pass. Artwork, final layout, publication review and root-ledger consolidation remain pending.

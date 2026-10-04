@@ -8,12 +8,11 @@
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
 - Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A.
-- Chapter 11 — The Primate That Asked Why, **305–329 TEXT LOCKED**; **25 of 44** planned pages.
-- Continuous narrative checkpoint: **017–329**. Artwork and final layout are not complete.
+- Chapter 11 — The Primate That Asked Why, **305–336 TEXT LOCKED**; **32 of 44** planned pages.
+- Continuous narrative checkpoint: **017–336**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 330:** the approximately 2.9 Ma Nyayanga Oldowan assemblage, evidence for animal-resource processing and associated *Paranthropus* fossils. Distinguish artefact age, what the tools did, which hominins are actually present at the site, and whether any named taxon can be identified as the toolmaker. Page 329 is committed and read back; page 330 research has not begun during this pass. Chapter 11 occupies pages 305–348.
-
+**Page 337:** Dmanisi and the earliest well-documented dispersal of early *Homo* into Eurasia. Distinguish site age, within-site skull/body variation, species naming, and what the evidence can establish about dispersal. Page 336 is committed and read back; page 337 research has not begun during this pass. Chapter 11 occupies pages 305–348.\n
 ## Author-requested later chapter — expanded 2026-10-04
 **Chapter 17 — Modern Theories and Predictions**, subtitle *What We Know, What We Suspect, and How We Could Find Out*, is planned for **481–504**. The epilogue is **505–512**, references **513–568**, and the book planning target is **568 pages**. Pages 001–480 retain their allocations.
 
@@ -22,6 +21,11 @@ The thematic authority is `BOOK_MANIFEST.md`. The dedicated ledger is `chapter-l
 **Status: Chapter 17 structure, manifest and preliminary briefs saved; 0/24 Chapter 17 manuscript pages TEXT LOCKED.** These planning additions do not advance the numbered manuscript. Preliminary Chapter 17 identifiers remain separate from completed manuscript evidence totals. The Chapter 17 ledger and Master Plan supersede the root Page Ledger's old unwritten 481–544 placeholders until consolidation.
 
 ## Current continuation — seven-page pass
+Pages **330–336** add **21 claim checkpoints E-0365–E-0385** and **18 new unique source records S11-90–S11-107**. Reused sources S11-90 and S11-99 are not counted twice. Every manuscript page and support register was committed and read back before research advanced.
+
+Coverage: Nyayanga Oldowan versatility and selective stone transport; the 2.8 Ma Ledi-Geraru *Homo* jaw and climate context; Gona/Bokol Dora and systematic flaking; the OH 7 *H. habilis* reconstruction; Koobi Fora early-*Homo* diversity; *Paranthropus boisei* microwear/isotopes; and the early *Homo erectus* body mosaic. Earlier manuscript pages **017–329 remain unchanged** by this pass.
+
+## Previous continuation — seven-page pass
 Pages **323–329** add **21 claim checkpoints E-0344–E-0364** and **25 source records S11-65–S11-89**. Every manuscript page and support register was committed and read back before research advanced.
 
 Coverage: the Burtele foot and its 2025 attribution to *Australopithecus deyiremeda*; isotopic evidence for dietary differentiation from *A. afarensis*; *Kenyanthropus platyops* and distortion-corrected facial anatomy; the Taung Child and bipedality preceding major brain expansion; Sterkfontein cosmogenic dating and Little Foot taxonomy disputes; Lomekwi 3 and technology predating known *Homo*; and the contested Dikika bone marks, where butchery, trampling and tooth-damage interpretations remain separated. Earlier manuscript pages **017–322 remain unchanged** by this pass.

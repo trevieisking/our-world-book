@@ -58,4 +58,4 @@ The large book-wide `PAGE_LEDGER.md` remains the master page index but may be re
 
 Trev's collapse–rotation–dark-matter hypothesis and the stronger dark-matter/dark-energy interaction conjecture are preserved in `research/17-modern-theories-and-predictions-hypothesis-brief.md`, with explicit evidence boundaries and preliminary sources. These are an attributed research question and chapter plan, not a proven theory or a completed 24-page manuscript. Chapter 17 has **0/24 pages TEXT LOCKED**.
 
-The continuous manuscript checkpoint is now **017–329 TEXT LOCKED**. Chapter 11 has **25/44** planned pages text-locked. **Page 330 — the ~2.9 Ma Nyayanga Oldowan assemblage, animal-resource processing and *Paranthropus* association — is the next individual writing target.**
+The continuous manuscript checkpoint is now **017–336 TEXT LOCKED**. Chapter 11 has **32/44** planned pages text-locked. **Page 337 — Dmanisi and early Eurasian dispersal — is the next individual writing target.**
