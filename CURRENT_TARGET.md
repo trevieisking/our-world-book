@@ -8,14 +8,14 @@
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
 - Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A.
-- Chapter 11 — The Primate That Asked Why, **305–311 TEXT LOCKED**; 7 of 44 planned pages.
-- Continuous narrative checkpoint: **017–311**. Artwork and final layout are not complete.
+- Chapter 11 — The Primate That Asked Why, **305–312 TEXT LOCKED**; 8 of 44 planned pages.
+- Continuous narrative checkpoint: **017–312**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 312:** early ape geography, habitats and the limits of reconstructing origins from uneven fossil sampling. Commit and read back page 311 before researching page 312. Chapter 11 occupies pages 305–348.
+**Page 313:** tail loss, fossil anatomy and developmental genetic evidence. Commit and read back page 312 before researching page 313. Chapter 11 occupies pages 305–348.
 
 ## Active continuation — 2026-10-04
-Pages **309–311** add **nine claims E-0301–E-0309** and **nine sources S11-13–S11-21**. Coverage: Asian–African anthropoid connections, the 2026 Saharopithecus study, South American immigrants, dating/provenance limitations and the catarrhine fork. Each manuscript and individual support register share one checkpoint. The support registers hold the current page/evidence rows; chapter overview and Master Plan roll-ups will be aligned at the end of the pass. Earlier manuscript pages 017–308 are untouched.
+Pages **309–312** add **twelve claims E-0301–E-0312** and **twelve sources S11-13–S11-24**. Coverage: Asian–African anthropoid connections, South American immigrants, dating/provenance limitations, the catarrhine fork, the 2026 Masripithecus study and contrasting early-ape habitats. Each manuscript and individual support register share one checkpoint. The support registers hold the current page/evidence rows; chapter overview and Master Plan roll-ups will be aligned at the end of the pass. Earlier manuscript pages 017–308 are untouched.
 
 ## Previous continuation — seven-page pass
 Pages **302–308** added **23 claim checkpoints, E-0278–E-0300**, and **22 source records, S10-88–S10-97 / S11-01–S11-12**. Each manuscript page and individual support register shared a separate GitHub checkpoint, with read-back before next-page research. Source S11-09 was reused on page 308 rather than counted twice. One source is explicitly a theoretical review, not new anatomical data.
