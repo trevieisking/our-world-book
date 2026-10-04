@@ -12,10 +12,12 @@
 - Continuous narrative checkpoint: **017–315**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 316:** recognising the earliest hominins near the human–chimpanzee separation. Distinguish anatomical diagnosis, locomotor inference, fossil age and direct ancestry. Commit and read back page 315 before researching page 316. Chapter 11 occupies pages 305–348.
+**Page 316:** recognising the earliest hominins near the human–chimpanzee separation. Distinguish anatomical diagnosis, locomotor inference, fossil age and direct ancestry. Page 315 is committed and read back; page 316 research has not begun during this pass. Chapter 11 occupies pages 305–348.
 
-## Active continuation — 2026-10-04
-Pages **309–315** add **22 claims E-0301–E-0322** and **23 source records S11-13–S11-35**. Coverage: anthropoid dispersal and provenance; catarrhine branches; the 2026 Egyptian ape and varied habitats; tail absence and developmental experiments; debated fossil locomotion; ape genomes, ancestral lineage sorting and later gene flow. Each manuscript and individual support register share one checkpoint. The support registers hold the current page/evidence rows; chapter overview and Master Plan roll-ups will be aligned at the end of the pass. Earlier manuscript pages 017–308 are untouched. Page 316 research has not begun.
+## Current continuation — seven-page pass
+Pages **309–315** add **22 claim checkpoints E-0301–E-0322** and **23 source records S11-13–S11-35**. Each manuscript page and individual support register share a separate GitHub checkpoint. Read-back verification preceded research on the next page. The Chapter 11 overview and Master Plan are aligned with this completed pass.
+
+Coverage: Asian–African anthropoid connections, including the 2026 Saharopithecus description; South American arrivals and dating/provenance limits; catarrhine branches; the 2026 Masripithecus study and contrasting early-ape habitats; fossil tail absence and developmental experiments; the Danuvius debate and Rudapithecus pelvis; and ape genomes, ancestral lineage sorting and later gene flow. A published comment and reply are counted as separate source records, not independent anatomical replications. Earlier manuscript pages **017–308 remain unchanged** by this pass.
 
 ## Previous continuation — seven-page pass
 Pages **302–308** added **23 claim checkpoints, E-0278–E-0300**, and **22 source records, S10-88–S10-97 / S11-01–S11-12**. Each manuscript page and individual support register shared a separate GitHub checkpoint, with read-back before next-page research. Source S11-09 was reused on page 308 rather than counted twice. One source is explicitly a theoretical review, not new anatomical data.
@@ -39,4 +41,4 @@ Coverage: placental branching dates and tested clock models; endocasts and brain
 No image generation, new image briefs, reading-copy PDFs or extra deliverables. Existing artwork records remain for Phase B. Numerical ages require source checks rather than silently reusing historical timescales.
 
 ## Authority and outstanding reconciliation
-This file and individual page/evidence supplements control the active checkpoint; overview roll-ups are aligned at each pass end. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
+This file, chapter overviews and individual page/evidence supplements are aligned for the completed pass. Root `PAGE_LEDGER.md` and `EVIDENCE_LEDGER.md` await consolidation from page 267 onward; earlier unresolved rows also remain. Root-ledger reconciliation is not complete. TEXT LOCKED is a Phase A checkpoint, not FINAL publication approval.
