@@ -8,14 +8,14 @@
 - Prologue 017–032 and Chapters 1–8, 033–248 — TEXT LOCKED per existing ledgers.
 - Chapter 9 — Life Comes Ashore, 249–276 — COMPLETE FOR PHASE A.
 - Chapter 10 — Worlds Lost, 277–304 — COMPLETE FOR PHASE A.
-- Chapter 11 — The Primate That Asked Why, **305–309 TEXT LOCKED**; 5 of 44 planned pages.
-- Continuous narrative checkpoint: **017–309**. Artwork and final layout are not complete.
+- Chapter 11 — The Primate That Asked Why, **305–310 TEXT LOCKED**; 6 of 44 planned pages.
+- Continuous narrative checkpoint: **017–310**. Artwork and final layout are not complete.
 
 ## Next individual target
-**Page 310:** South American anthropoid fossils, relationships and the evidence for transoceanic dispersal. Commit and read back page 309 before researching page 310. Chapter 11 occupies pages 305–348.
+**Page 311:** the catarrhine branch, fossil anatomy and the separation of Old World monkeys and apes. Commit and read back page 310 before researching page 311. Chapter 11 occupies pages 305–348.
 
 ## Active continuation — 2026-10-04
-Page **309** adds **three claims E-0301–E-0303** and **three sources S11-13–S11-15**, including the 2026 Saharopithecus study. Its manuscript and individual support register share one checkpoint. The support register holds the current page/evidence row; chapter overview and Master Plan roll-ups will be aligned at the end of the pass. Earlier manuscript pages 017–308 are untouched.
+Pages **309–310** add **six claims E-0301–E-0306** and **six sources S11-13–S11-18**. Coverage: Asian–African anthropoid connections, the 2026 Saharopithecus study, South American immigrants and dating/provenance limitations. Each manuscript and individual support register share one checkpoint. The support registers hold the current page/evidence rows; chapter overview and Master Plan roll-ups will be aligned at the end of the pass. Earlier manuscript pages 017–308 are untouched.
 
 ## Previous continuation — seven-page pass
 Pages **302–308** added **23 claim checkpoints, E-0278–E-0300**, and **22 source records, S10-88–S10-97 / S11-01–S11-12**. Each manuscript page and individual support register shared a separate GitHub checkpoint, with read-back before next-page research. Source S11-09 was reused on page 308 rather than counted twice. One source is explicitly a theoretical review, not new anatomical data.
