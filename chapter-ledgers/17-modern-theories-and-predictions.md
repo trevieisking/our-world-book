@@ -26,17 +26,25 @@ Ask what modern observations genuinely establish, what is model-dependent, and h
 
 The central author case study is **Trev's collapse–rotation–dark-matter hypothesis**. Preserve the original proposal of an implosion-related dark-matter/dark-energy interaction as distinct from the narrower, conventional account in which matter collapses or is disrupted, angular momentum is redistributed, and existing dark matter responds to gravity. Neither a published model of dark-matter restructuring nor a recycled-planet example demonstrates the author's stronger interaction.
 
+### Additional subsection — Beyond What We Can See: Dimensions and Hidden Worlds
+
+The author's 2026-10-04 follow-up also recalls the separate dimensions discussion of 2026-09-29: apparently overlapping planes or realities whose inhabitants might not see one another, including a hypothetical visible craft with unseen occupants. Preserve this as an attributed speculative question, not as a detected phenomenon or as evidence supplied by the collapse hypothesis.
+
+The subsection develops foundations on pages 484–485 and the question and tests on 500–502. Keep three concepts distinct: ordinary radiation beyond unaided vision or current survey sensitivity; additional spatial dimensions; and hypothetical hidden sectors of particles and interactions. A different wavelength is not another spatial dimension. Rubin's ability to detect faint or changing objects is not a detection of hidden inhabitants or dimensional travel. The exact documentary is still unidentified.
+
+The recovered proposal, verified instrument descriptions, preliminary sources and test boundaries are saved in `research/17-dimensions-hidden-sectors-and-observability-brief.md`. This addition refines topics within the existing 24-page allocation; no pages are renumbered or marked complete. Ordinary selection effects, non-detection limits and the existing collapse case study remain in scope.
+
 ## Page plan
 
-Titles and distributions are provisional. Each page must pass the normal research -> prose -> fact-check -> commit/read-back loop when reached. Preliminary sources in the research brief do not make a whole page research-complete.
+Titles and distributions are provisional. Each page must pass the normal research -> prose -> fact-check -> commit/read-back loop when reached. Preliminary sources in the research briefs do not make a whole page research-complete.
 
 | Page | Working title | Page question / required distinction | Text | Research | Fact-check | Art | Final |
 |---:|---|---|:---:|:---:|:---:|:---:|:---:|
 | 481 | The Edge of What We Know | What changes when a history of evidence reaches today's unanswered questions? | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 482 | From an Idea to a Prediction | Distinguish an observation, hypothesis, quantitative model and well-tested scientific theory. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 483 | What Gravity Already Explains | Separate orbital motion, spin-axis evolution and galactic motion; state where each approximation applies. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 484 | Two Different Kinds of Darkness | Explain evidence for dark matter and accelerated expansion without treating dark matter and dark energy as one measured substance. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 485 | Watching the Sky Change | Match Rubin, space observatories and archival measurements to the signals they actually measure; distinguish observation and publication dates. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 484 | Two Different Kinds of Darkness | Explain evidence for dark matter and accelerated expansion without treating dark matter and dark energy as one measured substance; neither term means an extra spatial dimension. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 485 | Watching the Sky Change | Match Rubin, space observatories and archival measurements to actual signals, wavelengths, sensitivity and timing; distinguish observation dates from publication dates and new visibility from extra dimensions. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 486 | A Rock That Spins Too Fast? | Use 2025 MN45 to connect a measured lightcurve to inferred rotation and cohesion; no unsupported planetary-core identification. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 487 | When a Star Fades Instead | Examine failed-supernova evidence and alternatives without describing a gas giant as a collapsing massive star. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 488 | Collapse, Heat and Spin | Track energy, support and angular momentum; neither a rebound nor disc formation is guaranteed by the word implosion. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -51,24 +59,26 @@ Titles and distributions are provisional. Each page must pass the normal researc
 | 497 | Enough Material for a World | Test mass, heavy-element inventory, cooling and retention; neither a debris ring nor an Earth-sized radius establishes Earth-like composition. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 498 | A Planet Is Not Yet a Habitat | Separate planet formation from stable climate, atmosphere, water and long-lived energy sources. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 499 | A Habitat Is Not Yet Life | Reconnect to Chapter 4: chemical opportunity, biological origin and a measured biosignature are different claims. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 500 | Why Not Seeing Is Not Knowing | Examine survey sensitivity, selection effects and alternative explanations; non-detection alone does not establish that life is rare. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 501 | Testing Without Building a Star | Explain archival observations, controlled numerical experiments and comparison samples; simulation consistency is not observational confirmation. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 502 | A Prediction That Can Fail | Record a fixed target, baseline, parameter range, observable, expected effect, uncertainty and rejection criterion before testing. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 500 | Beyond What We Can See | Develop Trev's overlapping-realities question while distinguishing wavelengths, dimensions and hidden sectors; retain survey sensitivity, selection effects and the limits of non-detection as evidence about life's rarity. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 501 | Hidden Dimensions, Detectable Clues | Compare possible indirect tests and measured constraints; retain archival observations, controlled numerical experiments and comparison samples. Neither a simulation nor an unexplained signal confirms another dimension or its inhabitants. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 502 | A Prediction That Can Fail | Record a fixed target, baseline, parameter range, observable, expected effect, uncertainty and rejection criterion before testing either author proposal. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 503 | Futures with Conditions | Distinguish conditional scientific projections about Earth and the Universe from unsupported certainty about their futures. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 504 | The Next Question | Close with known, inferred and unknown; lead into the epilogue without pretending the hypothesis has been resolved. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 504 | The Next Question | Close with known, inferred and unknown; lead into the epilogue without pretending the hypotheses have been resolved. | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 ## Evidence and authorship controls
 
-- Background checks and candidate passage: `research/17-modern-theories-and-predictions-hypothesis-brief.md`.
-- Preliminary source IDs `S17-P01`–`S17-P06` and claim IDs `C17-P01`–`C17-P08` are a planning namespace only. Do not consume the running manuscript E-number sequence or add these to completed-page totals.
-- The author reports thinking about the mechanism before seeing the Rubin video. Preserve that as an author-reported origin of the question, not independent proof of priority or of the mechanism.
-- The exact video has not been supplied or identified. Do not state which discoveries it combined, or that the author misunderstood it.
-- Treat existing dark-matter-collapse models as published research, not as an original discovery belonging to this book.
-- No simulation, experiment, numerical fit or uniquely discriminating quantitative prediction has yet been completed for the author's additional interaction.
+- Collapse background checks and candidate passage: `research/17-modern-theories-and-predictions-hypothesis-brief.md`.
+- Dimensions and observability background: `research/17-dimensions-hidden-sectors-and-observability-brief.md`.
+- Preliminary source IDs `S17-P01`–`S17-P06` and claim IDs `C17-P01`–`C17-P08` are a planning namespace only. The dimensions supplement uses separate planning IDs `S17-D01`–`S17-D07` and `C17-D01`–`C17-D07`. Do not consume the running manuscript E-number sequence or add these to completed-page totals.
+- The author reports thinking about the collapse mechanism before seeing the Rubin video. Preserve that as an author-reported origin of the question, not independent proof of priority or of the mechanism.
+- The recovered dimensions discussion is dated 2026-09-29; its summary is an editorial paraphrase, not a verbatim transcript or empirical evidence.
+- The exact video has not been supplied or identified. Do not state which discoveries it combined, that it claimed to observe extra dimensions, or that the author misunderstood it.
+- Treat existing dark-matter-collapse models and hidden-sector/extra-dimension research as published research, not original discoveries belonging to this book.
+- No simulation, experiment, numerical fit or uniquely discriminating quantitative prediction has yet been completed for either of the author's stronger proposals.
 - Check full primary literature, corrections, competing models and current instrument capabilities during page research and again before publication.
 
 ## Completion and handoff
 
-This structural addition creates a chapter allocation, page-by-page plan and preserved hypothesis brief. It does **not** add completed manuscript pages, mark any of 481–504 TEXT LOCKED, complete root-ledger reconciliation, generate artwork or advance the continuous writing checkpoint.
+The chapter allocation, page-by-page plan and two preliminary hypothesis briefs are saved. They do **not** add completed manuscript pages, mark any of 481–504 TEXT LOCKED, complete root-ledger reconciliation, generate artwork or advance the continuous writing checkpoint. The dimensions subsection does not alter the Master Plan's 568-page allocation.
 
 Resume the existing writing loop at **page 316 — recognising the earliest hominins near the human–chimpanzee separation**.
